@@ -1,0 +1,13 @@
+{
+ "_how_to_edit": "Add one entry per date. date = YYYY-MM-DD. category = tesla | spacex. confirmed = true only once the company has announced it. Past dates are hidden automatically.",
+ "dates": [
+  {
+   "date": "2026-10-21",
+   "title": "Tesla Q3 2026 earnings",
+   "detail": "After market close",
+   "category": "tesla",
+   "confirmed": false,
+   "source": "Alpha Vantage earnings calendar"
+  }
+ ]
+}

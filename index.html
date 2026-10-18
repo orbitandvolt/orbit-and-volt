@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Orbit & Volt: Tesla and SpaceX news for investors</title>
+  <meta name="description" content="Unofficial, continuously updated Tesla and SpaceX headlines, upcoming launches, TSLA quote and key dates for retail investors.">
+  <link rel="icon" href="Media/icon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            base: '#0E141C', panel: '#141C26', rule: '#243142', ink: '#E6ECF2', mute: '#8B98A8',
+            volt: '#F0B43C', orbit: '#7CC4FF'
+          },
+          fontFamily: {
+            body: ['Barlow', 'system-ui', 'sans-serif'],
+            cond: ['"Barlow Condensed"', 'Barlow', 'system-ui', 'sans-serif']
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body { font-family: Barlow, system-ui, sans-serif; }
+    .num { font-variant-numeric: tabular-nums; }
+    :focus-visible { outline: 2px solid #7CC4FF; outline-offset: 2px; border-radius: 2px; }
+    .edge-tesla  { box-shadow: inset 3px 0 0 #F0B43C; }
+    .edge-spacex { box-shadow: inset 3px 0 0 #7CC4FF; }
+    .edge-both   { background-image: linear-gradient(#F0B43C 50%, #7CC4FF 50%); background-size: 3px 100%; background-repeat: no-repeat; }
+    .story a:hover .headline { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+    .tab[aria-pressed="true"] { background: #E6ECF2; color: #0E141C; }
+  </style>
+</head>
+<body class="bg-base text-ink antialiased">
+  <a href="#feed" class="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 bg-ink text-base px-3 py-2 rounded">Skip to headlines</a>
+
+  <header class="border-b border-rule">
+    <div class="mx-auto max-w-[1280px] px-4 sm:px-6 py-4 flex flex-wrap items-center gap-x-6 gap-y-3">
+      <a href="./" class="flex items-center gap-2.5 mr-auto">
+        <img src="Media/icon.svg" alt="" class="h-8 w-8">
+        <span class="font-cond text-[26px] font-semibold tracking-tight leading-none">Orbit &amp; Volt</span>
+      </a>
+      <div class="flex rounded-md border border-rule p-0.5 text-[15px] font-medium" role="group" aria-label="Filter headlines">
+        <button class="tab rounded px-3 py-1.5" data-filter="all" aria-pressed="true">All <span class="num text-mute" data-count="all"></span></button>
+        <button class="tab rounded px-3 py-1.5" data-filter="tesla" aria-pressed="false"><span class="inline-block w-2 h-2 rounded-full bg-volt mr-1.5 align-middle"></span>Tesla <span class="num text-mute" data-count="tesla"></span></button>
+        <button class="tab rounded px-3 py-1.5" data-filter="spacex" aria-pressed="false"><span class="inline-block w-2 h-2 rounded-full bg-orbit mr-1.5 align-middle"></span>SpaceX <span class="num text-mute" data-count="spacex"></span></button>
+      </div>
+      <p id="freshness" class="text-sm text-mute w-full sm:w-auto" aria-live="polite"></p>
+    </div>
+  </header>
+
+  <main class="mx-auto max-w-[1280px] px-4 sm:px-6 py-6 grid gap-8 lg:grid-cols-[minmax(0,1fr)_360px]">
+
+    <!-- Sidebar first in source on mobile for the countdown; moved right on desktop -->
+    <aside class="lg:col-start-2 lg:row-start-1 lg:sticky lg:top-6 self-start space-y-8" aria-label="Launches, stock and dates">
+
+      <section aria-labelledby="next-h" class="rounded-lg bg-panel border border-rule p-5">
+        <h2 id="next-h" class="text-mute text-[15px] font-medium">Next SpaceX launch</h2>
+        <div id="next-launch" class="mt-2"><p class="text-mute">Loading launch schedule…</p></div>
+      </section>
+
+      <section aria-labelledby="tsla-h" class="hidden lg:block" id="tsla-desktop-slot">
+        <!-- TSLA widget is moved here on desktop by script -->
+      </section>
+
+      <section aria-labelledby="dates-h" class="hidden lg:block" id="dates-desktop-slot"></section>
+      <section aria-labelledby="launches-h" class="hidden lg:block" id="launches-desktop-slot"></section>
+    </aside>
+
+    <section id="feed" class="lg:col-start-1 lg:row-start-1 min-w-0" aria-label="Headlines">
+      <div id="stories"><p class="text-mute">Loading headlines…</p></div>
+    </section>
+
+    <!-- Secondary panels: below the feed on mobile, moved into the sidebar on desktop -->
+    <div id="secondary" class="space-y-8 lg:hidden">
+      <section id="tsla" aria-labelledby="tsla-h">
+        <div class="flex items-baseline justify-between">
+          <h2 id="tsla-h" class="font-cond text-2xl font-semibold">TSLA</h2>
+          <span class="text-xs text-mute">Delayed quote</span>
+        </div>
+        <div class="mt-2 rounded-lg border border-rule overflow-hidden">
+          <div class="tradingview-widget-container">
+            <div class="tradingview-widget-container__widget"></div>
+            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+            {"symbol":"NASDAQ:TSLA","width":"100%","height":200,"locale":"en","dateRange":"1D","colorTheme":"dark","isTransparent":true,"autosize":false,"largeChartUrl":"","chartOnly":false,"noTimeScale":false}
+            </script>
+          </div>
+        </div>
+        <p class="mt-1.5 text-xs text-mute"><a class="underline underline-offset-2" href="https://www.tradingview.com/symbols/NASDAQ-TSLA/" rel="noopener nofollow" target="_blank">TSLA chart by TradingView</a></p>
+      </section>
+
+      <section id="dates" aria-labelledby="dates-h">
+        <h2 id="dates-h" class="font-cond text-2xl font-semibold">Key dates</h2>
+        <ul id="date-list" class="mt-2 divide-y divide-rule border-y border-rule"><li class="py-3 text-mute">Loading…</li></ul>
+      </section>
+
+      <section id="launches" aria-labelledby="launches-h">
+        <h2 id="launches-h" class="font-cond text-2xl font-semibold">Upcoming launches</h2>
+        <ol id="launch-list" class="mt-2 divide-y divide-rule border-y border-rule"><li class="py-3 text-mute">Loading…</li></ol>
+        <p class="mt-1.5 text-xs text-mute">Schedule from <a class="underline underline-offset-2" href="https://thespacedevs.com/llapi" rel="noopener" target="_blank">Launch Library 2</a>. Dates move often.</p>
+      </section>
+    </div>
+  </main>
+
+  <footer class="border-t border-rule mt-10">
+    <div class="mx-auto max-w-[1280px] px-4 sm:px-6 py-8 text-sm text-mute space-y-2 max-w-prose lg:max-w-[1280px]">
+      <p><strong class="text-ink font-medium">Unofficial.</strong> Orbit &amp; Volt is an independent news aggregator, not affiliated with or endorsed by Tesla, Inc. or Space Exploration Technologies Corp. Trademarks belong to their owners.</p>
+      <p><strong class="text-ink font-medium">Not financial advice.</strong> Headlines link to their original publishers; read the full article before acting on anything.</p>
+      <p>Sources: Electrek, InsideEVs, Not a Tesla App, Teslarati, SpaceNews, Spaceflight Now, NASASpaceflight, Space.com, CNBC. Launch data: The Space Devs. Quote: TradingView.</p>
+    </div>
+  </footer>
+
+  <script>
+  (() => {
+    const $ = (s, el = document) => el.querySelector(s);
+    const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    const NOW = () => Date.now();
+    const LOC = 'en-US'; // English dates to match the site's language; times still show in the reader's own time zone
+
+    // Desktop: move secondary panels into the sidebar so mobile keeps a feed-first order.
+    const mq = matchMedia('(min-width: 1024px)');
+    const place = () => {
+      const pairs = [['#tsla', '#tsla-desktop-slot'], ['#dates', '#dates-desktop-slot'], ['#launches', '#launches-desktop-slot']];
+      for (const [panel, slot] of pairs) {
+        const p = $(panel), s = $(slot);
+        if (mq.matches) { s.classList.remove('hidden'); s.appendChild(p); }
+        else { s.classList.add('hidden'); $('#secondary').appendChild(p); }
+      }
+      $('#secondary').classList.toggle('hidden', mq.matches);
+    };
+    place(); mq.addEventListener('change', place);
+
+    function ago(iso) {
+      const m = Math.max(0, Math.round((NOW() - new Date(iso)) / 60000));
+      if (m < 1) return 'just now';
+      if (m < 60) return `${m} min ago`;
+      const h = Math.floor(m / 60);
+      if (h < 48) return `${h} h ago`;
+      return `${Math.floor(h / 24)} days ago`;
+    }
+    const dayKey = d => d.toLocaleDateString(LOC, { year: 'numeric', month: '2-digit', day: '2-digit' });
+    function dayLabel(d) {
+      const today = new Date(), y = new Date(); y.setDate(today.getDate() - 1);
+      if (dayKey(d) === dayKey(today)) return 'Today';
+      if (dayKey(d) === dayKey(y)) return 'Yesterday';
+      return d.toLocaleDateString(LOC, { weekday: 'long', day: 'numeric', month: 'long' });
+    }
+
+    // ---------- News ----------
+    let news = null, filter = (location.hash.slice(1) || 'all');
+    if (!['all', 'tesla', 'spacex'].includes(filter)) filter = 'all';
+
+    function matches(s) { return filter === 'all' || s.category === filter || s.category === 'both'; }
+
+    function renderNews() {
+      const box = $('#stories');
+      const list = news.stories.filter(matches);
+      document.querySelectorAll('.tab').forEach(b => b.setAttribute('aria-pressed', b.dataset.filter === filter));
+      const c = { all: news.stories.length,
+                  tesla: news.stories.filter(s => s.category !== 'spacex').length,
+                  spacex: news.stories.filter(s => s.category !== 'tesla').length };
+      document.querySelectorAll('[data-count]').forEach(el => el.textContent = c[el.dataset.count]);
+      if (!list.length) { box.innerHTML = '<p class="text-mute py-6">No headlines in this category from the last seven days. Choose All to see everything.</p>'; return; }
+      let html = '', current = '';
+      for (const s of list) {
+        const d = new Date(s.published), k = dayKey(d);
+        if (k !== current) {
+          if (current) html += '</ul>';
+          html += `<h2 class="font-cond text-xl font-semibold text-mute mt-6 first:mt-0 mb-1">${dayLabel(d)}</h2><ul class="divide-y divide-rule border-y border-rule">`;
+          current = k;
+        }
+        const tag = s.category === 'both' ? 'Tesla and SpaceX' : s.category === 'tesla' ? 'Tesla' : 'SpaceX';
+        html += `<li class="story edge-${s.category}">
+          <a href="${esc(s.url)}" target="_blank" rel="noopener" class="block pl-4 pr-2 py-3">
+            <span class="headline block text-[17px] leading-snug font-medium">${esc(s.title)}</span>
+            <span class="mt-1 flex justify-between gap-4 text-sm text-mute"><span>${esc(s.source)}<span class="sr-only">, ${tag}</span></span><time class="num shrink-0" datetime="${esc(s.published)}">${ago(s.published)}</time></span>
+          </a></li>`;
+      }
+      box.innerHTML = html + '</ul>';
+    }
+
+    function renderFreshness() {
+      if (!news) return;
+      const hrs = (NOW() - new Date(news.generated_at)) / 3.6e6, el = $('#freshness');
+      el.textContent = `Headlines updated ${ago(news.generated_at)}`;
+      el.classList.toggle('text-volt', hrs > 3);
+      if (hrs > 3) el.textContent += '. Updates may be paused.';
+    }
+
+    document.querySelectorAll('.tab').forEach(b => b.addEventListener('click', () => {
+      filter = b.dataset.filter;
+      history.replaceState(null, '', filter === 'all' ? location.pathname : '#' + filter);
+      renderNews();
+    }));
+
+    fetch('data/news.json', { cache: 'no-cache' }).then(r => { if (!r.ok) throw r.status; return r.json(); })
+      .then(d => { news = d; renderNews(); renderFreshness(); })
+      .catch(() => { $('#stories').innerHTML = '<p class="py-6">Headlines didn\'t load. Refresh the page. If this keeps happening, data/news.json is missing from the site.</p>'; });
+
+    // ---------- Launches ----------
+    let next = null;
+    const split = name => { const [v, ...m] = String(name).split(' | '); return { vehicle: v.replace(/ Block 5$/, ''), mission: m.join(' | ') || v }; };
+    const fmtWhen = (iso, p) => {
+      const d = new Date(iso);
+      if (p === 'MIN' || p === 'SEC' || p === 'HR') return d.toLocaleString(LOC, { weekday: 'short', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
+      if (p === 'DAY') return d.toLocaleDateString(LOC, { weekday: 'short', day: 'numeric', month: 'short' });
+      if (p === 'MON') return 'No earlier than ' + d.toLocaleDateString(LOC, { month: 'long', year: 'numeric' });
+      return 'No earlier than ' + d.toLocaleDateString(LOC, { month: 'long', year: 'numeric' });
+    };
+
+    function tminus() {
+      if (!next) return;
+      const el = $('#tminus'); if (!el) return;
+      const ms = new Date(next.net) - NOW();
+      if (ms <= 0) { el.textContent = 'Launch window open'; return; }
+      const s = Math.floor(ms / 1000), d = Math.floor(s / 86400), h = Math.floor(s % 86400 / 3600), m = Math.floor(s % 3600 / 60), sec = s % 60;
+      const pad = n => String(n).padStart(2, '0');
+      el.textContent = `T−${d ? d + 'd ' : ''}${pad(h)}:${pad(m)}:${pad(sec)}`;
+    }
+
+    function renderLaunches(data) {
+      const upcoming = data.launches.filter(l => new Date(l.net) > NOW() - 3 * 3.6e6);
+      if (!upcoming.length) { $('#next-launch').innerHTML = '<p class="text-mute">No upcoming SpaceX launches listed right now.</p>'; $('#launch-list').innerHTML = ''; return; }
+      next = upcoming[0];
+      const { vehicle, mission } = split(next.name);
+      const precise = ['SEC', 'MIN'].includes(next.precision);
+      $('#next-launch').innerHTML = `
+        <p class="text-lg font-medium leading-snug">${esc(mission)}</p>
+        <p class="text-mute">${esc(vehicle)}</p>
+        ${precise ? '<p id="tminus" class="num font-cond text-orbit text-[56px] leading-none font-semibold mt-4 tracking-tight" aria-live="off"></p>'
+                  : `<p class="font-cond text-orbit text-3xl font-semibold mt-4">${esc(fmtWhen(next.net, next.precision))}</p>`}
+        <dl class="mt-4 grid grid-cols-[auto_1fr] gap-x-4 gap-y-1 text-sm">
+          ${precise ? `<dt class="text-mute">Liftoff</dt><dd class="num">${esc(fmtWhen(next.net, next.precision))}</dd>` : ''}
+          <dt class="text-mute">Status</dt><dd>${esc(next.status_name || 'Unknown')}</dd>
+          <dt class="text-mute">Pad</dt><dd>${esc(next.pad || 'Not announced')}</dd>
+          <dt class="text-mute">Site</dt><dd>${esc(next.location || 'Not announced')}</dd>
+        </dl>`;
+      if (precise) { tminus(); setInterval(tminus, 1000); }
+      $('#launch-list').innerHTML = upcoming.slice(1, 7).map(l => {
+        const { vehicle, mission } = split(l.name);
+        return `<li class="py-3"><p class="font-medium leading-snug">${esc(mission)}</p>
+          <p class="text-sm text-mute flex justify-between gap-3"><span>${esc(vehicle)}</span><span class="num shrink-0">${esc(fmtWhen(l.net, l.precision))}</span></p></li>`;
+      }).join('');
+    }
+
+    fetch('data/launches.json', { cache: 'no-cache' }).then(r => { if (!r.ok) throw r.status; return r.json(); })
+      .then(renderLaunches)
+      .catch(() => { $('#next-launch').innerHTML = '<p>The launch schedule didn\'t load. Refresh the page to try again.</p>'; $('#launch-list').innerHTML = ''; });
+
+    // ---------- Key dates ----------
+    fetch('data/key-dates.json', { cache: 'no-cache' }).then(r => r.json()).then(d => {
+      const today = new Date(); today.setHours(0, 0, 0, 0);
+      const items = d.dates.filter(x => new Date(x.date + 'T23:59:59') >= today).sort((a, b) => a.date.localeCompare(b.date));
+      $('#date-list').innerHTML = items.length ? items.map(x => {
+        const dt = new Date(x.date + 'T12:00:00');
+        return `<li class="py-3 pl-3 edge-${x.category === 'spacex' ? 'spacex' : 'tesla'}">
+          <p class="flex justify-between gap-3"><span class="font-medium">${esc(x.title)}</span><time class="num shrink-0" datetime="${esc(x.date)}">${dt.toLocaleDateString(LOC, { day: 'numeric', month: 'short' })}</time></p>
+          <p class="text-sm text-mute">${esc(x.detail || '')}${x.confirmed ? '' : (x.detail ? '. ' : '') + 'Expected, not yet confirmed'}${x.source ? ` (${esc(x.source)})` : ''}</p></li>`;
+      }).join('') : '<li class="py-3 text-mute">No upcoming dates listed. Add them in data/key-dates.json.</li>';
+    }).catch(() => { $('#date-list').innerHTML = '<li class="py-3">Key dates didn\'t load.</li>'; });
+
+    // Keep relative times honest without reloading.
+    setInterval(() => {
+      document.querySelectorAll('#stories time[datetime]').forEach(t => t.textContent = ago(t.getAttribute('datetime')));
+      renderFreshness();
+    }, 60000);
+  })();
+  </script>
+</body>
+</html>

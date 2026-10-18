@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Orbit and Volt">
+  <rect width="64" height="64" rx="14" fill="#0E141C"/>
+  <ellipse cx="32" cy="32" rx="25" ry="11" fill="none" stroke="#7CC4FF" stroke-width="3.5" transform="rotate(-28 32 32)"/>
+  <path d="M35 13 22 35h9l-3 16 14-23h-9z" fill="#F0B43C"/>
+</svg>

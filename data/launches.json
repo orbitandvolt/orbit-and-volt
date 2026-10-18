@@ -1,0 +1,126 @@
+{
+ "generated_at": "2026-10-18T13:46:55Z",
+ "source": "Launch Library 2 (The Space Devs)",
+ "launches": [
+  {
+   "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
+   "mission": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
+   "net": "2026-10-19T10:30:00Z",
+   "precision": "MIN",
+   "status": "Go",
+   "status_name": "Go for Launch",
+   "pad": "Space Launch Complex 40",
+   "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | Starlink Group 15-15",
+   "mission": "Starlink Group 15-15",
+   "net": "2026-10-20T22:14:00Z",
+   "precision": "MIN",
+   "status": "Go",
+   "status_name": "Go for Launch",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | Starlink Group 15-16",
+   "mission": "Starlink Group 15-16",
+   "net": "2026-10-24T05:29:00Z",
+   "precision": "MIN",
+   "status": "Go",
+   "status_name": "Go for Launch",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
+   "mission": "Cygnus CRS-2 NG-25",
+   "net": "2026-11-30T00:00:00Z",
+   "precision": "M",
+   "status": "TBD",
+   "status_name": "To Be Determined",
+   "pad": "Space Launch Complex 40",
+   "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D",
+   "mission": "SDA Tranche 2 Transport Layer D",
+   "net": "2026-12-31T00:00:00Z",
+   "precision": "M",
+   "status": "TBD",
+   "status_name": "To Be Determined",
+   "pad": "Unknown Pad",
+   "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E",
+   "mission": "SDA Tranche 2 Transport Layer E",
+   "net": "2026-12-31T00:00:00Z",
+   "precision": "M",
+   "status": "TBD",
+   "status_name": "To Be Determined",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | Telesat Lightspeed 1",
+   "mission": "Telesat Lightspeed 1",
+   "net": "2026-12-31T00:00:00Z",
+   "precision": "M",
+   "status": "TBD",
+   "status_name": "To Be Determined",
+   "pad": "Unknown Pad",
+   "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
+   "name": "Falcon Heavy | Griffin Mission One",
+   "mission": "Griffin Mission One",
+   "net": "2026-12-31T00:00:00Z",
+   "precision": "M",
+   "status": "TBD",
+   "status_name": "To Be Determined",
+   "pad": "Launch Complex 39A",
+   "location": "Kennedy Space Center, FL, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
+   "mission": "BlueBird 14-16 (Block 2 #9-11)",
+   "net": "2026-12-31T00:00:00Z",
+   "precision": "Q4",
+   "status": "TBD",
+   "status_name": "To Be Determined",
+   "pad": "Space Launch Complex 40",
+   "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | CHORUS",
+   "mission": "CHORUS",
+   "net": "2026-12-31T00:00:00Z",
+   "precision": "Q4",
+   "status": "TBD",
+   "status_name": "To Be Determined",
+   "pad": "Unknown Pad",
+   "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
+   "mission": "Inmarsat-7 F1 (GX-7)",
+   "net": "2026-12-31T00:00:00Z",
+   "precision": "Q4",
+   "status": "TBD",
+   "status_name": "To Be Determined",
+   "pad": "Unknown Pad",
+   "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A",
+   "mission": "SDA Tranche 1 Tracking Layer A",
+   "net": "2026-12-31T00:00:00Z",
+   "precision": "Q4",
+   "status": "TBD",
+   "status_name": "To Be Determined",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA"
+  }
+ ]
+}
