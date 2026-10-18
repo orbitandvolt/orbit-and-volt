@@ -1,8 +1,22 @@
 {
- "generated_at": "2026-10-18T19:37:46Z",
- "count": 76,
+ "generated_at": "2026-10-18T22:23:23Z",
+ "count": 77,
  "errors": [],
  "stories": [
+  {
+   "title": "SpaceX’s Gwynne Shotwell just made a quiet gesture toward Tesla",
+   "url": "https://www.teslarati.com/spacex-tesla-gwynne-shotwell-x-follow/",
+   "source": "Teslarati",
+   "published": "2026-10-18T20:04:28Z",
+   "category": "both"
+  },
+  {
+   "title": "Musk Confirms Bigger Text Option Coming to Tesla Screens",
+   "url": "https://www.notateslaapp.com/news/4847/musk-confirms-bigger-text-option-coming-to-tesla-screens",
+   "source": "Not a Tesla App",
+   "published": "2026-10-18T19:42:00Z",
+   "category": "tesla"
+  },
   {
    "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
    "url": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
@@ -365,13 +379,6 @@
    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-just-turned-10-years-old-when-will-it-go-to-mars",
    "source": "Space.com",
    "published": "2026-10-14T18:00:00Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Ukraine says Starlink is cutting out its military drones as Poland calls out Elon Musk",
-   "url": "https://www.teslarati.com/ukraine-spacex-starlink-military-drones/",
-   "source": "Teslarati",
-   "published": "2026-10-14T16:24:17Z",
    "category": "spacex"
   },
   {
