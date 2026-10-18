@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-10-18T14:20:20Z",
+ "generated_at": "2026-10-18T17:22:17Z",
  "count": 76,
  "errors": [],
  "stories": [
+  {
+   "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
+   "url": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
+   "source": "Spaceflight Now",
+   "published": "2026-10-18T16:32:02Z",
+   "category": "spacex"
+  },
+  {
+   "title": "SpaceX working through Starship Flight 15 and 16 milestones",
+   "url": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
+   "source": "NASASpaceflight",
+   "published": "2026-10-18T16:31:04Z",
+   "category": "spacex"
+  },
+  {
+   "title": "The Best Tesla Frunk (Trunk) or Treat Ideas & Halloween Decorations",
+   "url": "https://www.notateslaapp.com/news/2199/the-best-tesla-frunk-trunk-or-treat-ideas-halloween-decorations",
+   "source": "Not a Tesla App",
+   "published": "2026-10-18T16:22:00Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Roadster owners to get “Flying Stunt Mode” and looping track access",
    "url": "https://www.teslarati.com/tesla-roadster-autonomous-stunt-sentient-hot-wheels-loop-track/",
@@ -424,13 +445,6 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX rocket launch creates incredible 'space jellyfish' visible throughout US East Coast (photos)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-creates-incredible-space-jellyfish-visible-throughout-us-east-coast-photos",
-   "source": "Space.com",
-   "published": "2026-10-13T17:02:48Z",
-   "category": "spacex"
-  },
-  {
    "title": "The Undocumented Features of Tesla Update 2026.32: Ad Blocker, Seat Heater Timeout and More",
    "url": "https://www.notateslaapp.com/news/4815/tesla-update-2026-32-the-undocumented-changes",
    "source": "Not a Tesla App",
@@ -519,20 +533,6 @@
    "url": "https://insideevs.com/news/811566/electrify-america-growth-6000-ev-charging-ports/",
    "source": "InsideEVs",
    "published": "2026-10-12T08:58:47Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Updates App to 4.61.6: Adds Ability to Speak With Spooky Voice Through Car, Adds Sentry Mode Filter",
-   "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.61.6/release-notes",
-   "source": "Not a Tesla App",
-   "published": "2026-10-11T15:57:21Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Rolls Out Smart Charging for Powerwall, Wall Connector",
-   "url": "https://www.notateslaapp.com/news/4807/tesla-rolls-out-smart-charging-for-powerwall-wall-connector",
-   "source": "Not a Tesla App",
-   "published": "2026-10-11T15:30:00Z",
    "category": "tesla"
   }
  ]
