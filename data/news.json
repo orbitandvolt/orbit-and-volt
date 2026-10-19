@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T05:14:48Z",
- "count": 78,
+ "generated_at": "2026-10-19T11:12:11Z",
+ "count": 77,
  "errors": [],
  "stories": [
   {
@@ -32,7 +32,7 @@
    "category": "tesla"
   },
   {
-   "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
+   "title": "Poor weather forces scrub of Monday launch attempt of Bandwagon-5, SpaceX now targeting Tuesday",
    "url": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
    "source": "Spaceflight Now",
    "published": "2026-10-18T16:32:02Z",
@@ -540,13 +540,6 @@
    "url": "https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/",
    "source": "Electrek",
    "published": "2026-10-12T13:24:01Z",
-   "category": "tesla"
-  },
-  {
-   "title": "America’s Biggest Non-Tesla EV Fast Charging Network Just Hit A New Milestone",
-   "url": "https://insideevs.com/news/811566/electrify-america-growth-6000-ev-charging-ports/",
-   "source": "InsideEVs",
-   "published": "2026-10-12T08:58:47Z",
    "category": "tesla"
   }
  ]

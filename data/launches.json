@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-19T05:14:48Z",
+ "generated_at": "2026-10-19T11:12:11Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
    "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
    "mission": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-   "net": "2026-10-19T10:30:00Z",
+   "net": "2026-10-20T10:30:00Z",
    "precision": "MIN",
    "status": "Go",
    "status_name": "Go for Launch",
