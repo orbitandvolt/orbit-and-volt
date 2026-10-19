@@ -1,8 +1,43 @@
 {
- "generated_at": "2026-10-19T11:12:11Z",
- "count": 77,
+ "generated_at": "2026-10-19T17:44:29Z",
+ "count": 80,
  "errors": [],
  "stories": [
+  {
+   "title": "What If Tesla's Parked Vehicle Screen Matched Your Real Surroundings?",
+   "url": "https://www.notateslaapp.com/news/4852/what-if-teslas-parked-vehicle-screen-matched-your-surroundings",
+   "source": "Not a Tesla App",
+   "published": "2026-10-19T16:49:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla's New Roadster: All the Details You May Not Know",
+   "url": "https://www.notateslaapp.com/news/4850/tesla-roadster-all-the-details-you-may-not-know",
+   "source": "Not a Tesla App",
+   "published": "2026-10-19T15:58:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla CEO Elon Musk reminds everyone about Roadster’s true meaning",
+   "url": "https://www.teslarati.com/tesla-ceo-elon-musk-reminds-everyone-roadster-true-meaning/",
+   "source": "Teslarati",
+   "published": "2026-10-19T15:24:06Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla (TSLA) proxy shows a board getting ready for a SpaceX merger",
+   "url": "https://electrek.co/2026/10/19/tesla-tsla-proxy-annual-meeting-spacex-merger/",
+   "source": "Electrek",
+   "published": "2026-10-19T14:07:33Z",
+   "category": "both"
+  },
+  {
+   "title": "Tesla is Delaying Some Model Y L Orders in the U.S.",
+   "url": "https://www.notateslaapp.com/news/4849/tesla-is-delaying-some-model-y-l-orders-in-the-us",
+   "source": "Not a Tesla App",
+   "published": "2026-10-19T12:32:00Z",
+   "category": "tesla"
+  },
   {
    "title": "SpaceX’s biggest earnings test yet lands Tuesday, and Tesla shareholders should be watching",
    "url": "https://www.teslarati.com/spacex-q3-earnings-preview/",
@@ -340,13 +375,6 @@
    "category": "tesla"
   },
   {
-   "title": "Elon Musk breaks his silence on the Starlink impact to Ukraine drones",
-   "url": "https://www.teslarati.com/elon-musk-starshield-vs-starlink-ukraine/",
-   "source": "Teslarati",
-   "published": "2026-10-15T04:49:32Z",
-   "category": "spacex"
-  },
-  {
    "title": "SpaceX Cargo Dragon delivers more than 6,000 pounds of supplies to the ISS",
    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
    "source": "Space.com",
@@ -533,13 +561,6 @@
    "url": "https://www.notateslaapp.com/news/4811/tesla-is-currently-charging-driverless-robotaxis-by-hand-video",
    "source": "Not a Tesla App",
    "published": "2026-10-12T18:37:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "NHTSA weighs probe into claims Tesla Robotaxis speed in school zones",
-   "url": "https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/",
-   "source": "Electrek",
-   "published": "2026-10-12T13:24:01Z",
    "category": "tesla"
   }
  ]
