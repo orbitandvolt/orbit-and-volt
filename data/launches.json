@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T12:04:26Z",
+ "generated_at": "2026-10-20T16:55:30Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
@@ -7,8 +7,8 @@
    "mission": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
    "net": "2026-10-20T11:04:00Z",
    "precision": "SEC",
-   "status": "In Flight",
-   "status_name": "Launch in Flight",
+   "status": "Success",
+   "status_name": "Launch Successful",
    "pad": "Space Launch Complex 40",
    "location": "Cape Canaveral SFS, FL, USA"
   },
@@ -39,6 +39,16 @@
    "precision": "MIN",
    "status": "Go",
    "status_name": "Go for Launch",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | NROL-195",
+   "mission": "NROL-195",
+   "net": "2026-11-05T22:34:00Z",
+   "precision": "MIN",
+   "status": "TBC",
+   "status_name": "To Be Confirmed",
    "pad": "Space Launch Complex 4E",
    "location": "Vandenberg SFB, CA, USA"
   },
@@ -110,16 +120,6 @@
    "status": "TBD",
    "status_name": "To Be Determined",
    "pad": "Space Launch Complex 40",
-   "location": "Cape Canaveral SFS, FL, USA"
-  },
-  {
-   "name": "Falcon 9 Block 5 | CHORUS",
-   "mission": "CHORUS",
-   "net": "2026-12-31T00:00:00Z",
-   "precision": "Q4",
-   "status": "TBD",
-   "status_name": "To Be Determined",
-   "pad": "Unknown Pad",
    "location": "Cape Canaveral SFS, FL, USA"
   }
  ]

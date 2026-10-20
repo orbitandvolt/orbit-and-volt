@@ -1,8 +1,22 @@
 {
- "generated_at": "2026-10-20T12:04:26Z",
- "count": 76,
+ "generated_at": "2026-10-20T16:55:30Z",
+ "count": 73,
  "errors": [],
  "stories": [
+  {
+   "title": "SpaceX just launched its secret Starfall saucer again",
+   "url": "https://www.teslarati.com/spacex-starfall-capsule-launch-bandwagon-5/",
+   "source": "Teslarati",
+   "published": "2026-10-20T16:10:26Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Announces 2026 Shareholder Meeting for Dec. 3",
+   "url": "https://www.notateslaapp.com/news/4853/tesla-announces-2026-shareholder-meeting-for-dec-3",
+   "source": "Not a Tesla App",
+   "published": "2026-10-20T14:10:00Z",
+   "category": "tesla"
+  },
   {
    "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever (video)",
    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission",
@@ -11,11 +25,25 @@
    "category": "spacex"
   },
   {
+   "title": "Tesla FSD v14.3.13 and FSD v14.3 Lite Release Notes (Update 2026.38.5.10)",
+   "url": "https://www.notateslaapp.com/software-updates/version/2026.38.5.10/release-notes",
+   "source": "Not a Tesla App",
+   "published": "2026-10-20T07:52:54Z",
+   "category": "tesla"
+  },
+  {
    "title": "The Boring Company’s latest Tesla tunnel truck mod “fits like a glove”",
    "url": "https://www.teslarati.com/boring-company-tesla-truck-freight-container/",
    "source": "Teslarati",
    "published": "2026-10-20T05:07:48Z",
    "category": "tesla"
+  },
+  {
+   "title": "Falcon 9 launches Bandwagon-5 rideshare mission from Florida",
+   "url": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
+   "source": "NASASpaceflight",
+   "published": "2026-10-20T05:01:48Z",
+   "category": "spacex"
   },
   {
    "title": "Flying, flipping Tesla Roadster delivered on style, THESE EVs deliver on substance",
@@ -95,13 +123,6 @@
    "category": "both"
   },
   {
-   "title": "Falcon 9 set to launch Bandwagon-5 rideshare mission from Florida",
-   "url": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
-   "source": "NASASpaceflight",
-   "published": "2026-10-18T22:29:48Z",
-   "category": "spacex"
-  },
-  {
    "title": "SpaceX’s Gwynne Shotwell just made a quiet gesture toward Tesla",
    "url": "https://www.teslarati.com/spacex-tesla-gwynne-shotwell-x-follow/",
    "source": "Teslarati",
@@ -116,7 +137,7 @@
    "category": "tesla"
   },
   {
-   "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
+   "title": "SpaceX launches Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
    "url": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
    "source": "Spaceflight Now",
    "published": "2026-10-18T16:32:02Z",
@@ -267,13 +288,6 @@
    "url": "https://www.notateslaapp.com/news/4837/tesla-roadster-event-recap-it-flies-flips-and-hits-0-60-in-081s",
    "source": "Not a Tesla App",
    "published": "2026-10-16T04:15:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "How Tesla’s Roadster fan system and thrusters are built to dominate the corners",
-   "url": "https://www.teslarati.com/tesla-roadster-downforce-fan-system/",
-   "source": "Teslarati",
-   "published": "2026-10-16T04:04:24Z",
    "category": "tesla"
   },
   {
@@ -445,13 +459,6 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX's Starship just turned 10 years old. When will it go to Mars?",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-just-turned-10-years-old-when-will-it-go-to-mars",
-   "source": "Space.com",
-   "published": "2026-10-14T18:00:00Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla Supercharging Prices Have Jumped 15% In A Year",
    "url": "https://insideevs.com/news/811797/tesla-supercharging-prices-increase-2026/",
    "source": "InsideEVs",
@@ -505,34 +512,6 @@
    "url": "https://www.notateslaapp.com/news/4819/tesla-cybercab-to-let-riders-see-rear-and-side-camera-feeds",
    "source": "Not a Tesla App",
    "published": "2026-10-13T19:48:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "The Undocumented Features of Tesla Update 2026.32: Ad Blocker, Seat Heater Timeout and More",
-   "url": "https://www.notateslaapp.com/news/4815/tesla-update-2026-32-the-undocumented-changes",
-   "source": "Not a Tesla App",
-   "published": "2026-10-13T15:29:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla’s China business is flipping: sales down 12%, exports double",
-   "url": "https://electrek.co/2026/10/13/tesla-china-sales-down-exports-double-export-rebate-cut/",
-   "source": "Electrek",
-   "published": "2026-10-13T14:57:09Z",
-   "category": "tesla"
-  },
-  {
-   "title": "SpaceX launches NASA science and cargo to the International Space Station",
-   "url": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
-   "source": "Spaceflight Now",
-   "published": "2026-10-13T14:07:50Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Tesla pauses Model 3 orders in Canada amid China EV quota",
-   "url": "https://electrek.co/2026/10/13/tesla-model-3-canada-orders-paused-china-import-quota/",
-   "source": "Electrek",
-   "published": "2026-10-13T14:07:31Z",
    "category": "tesla"
   }
  ]
