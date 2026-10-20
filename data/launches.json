@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T01:13:35Z",
+ "generated_at": "2026-10-20T06:32:15Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
@@ -15,7 +15,7 @@
   {
    "name": "Falcon 9 Block 5 | Starlink Group 15-15",
    "mission": "Starlink Group 15-15",
-   "net": "2026-10-20T23:09:23Z",
+   "net": "2026-10-20T23:10:02Z",
    "precision": "SEC",
    "status": "Go",
    "status_name": "Go for Launch",
@@ -45,10 +45,10 @@
   {
    "name": "Falcon 9 Block 5 | Starlink Group 15-21",
    "mission": "Starlink Group 15-21",
-   "net": "2026-11-01T05:11:00Z",
-   "precision": "MIN",
-   "status": "Go",
-   "status_name": "Go for Launch",
+   "net": "2026-11-10T00:00:00Z",
+   "precision": "DAY",
+   "status": "TBD",
+   "status_name": "To Be Determined",
    "pad": "Space Launch Complex 4E",
    "location": "Vandenberg SFB, CA, USA"
   },

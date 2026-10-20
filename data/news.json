@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-10-20T01:13:35Z",
- "count": 76,
+ "generated_at": "2026-10-20T06:32:15Z",
+ "count": 75,
  "errors": [],
  "stories": [
+  {
+   "title": "The Boring Company’s latest Tesla tunnel truck mod “fits like a glove”",
+   "url": "https://www.teslarati.com/boring-company-tesla-truck-freight-container/",
+   "source": "Teslarati",
+   "published": "2026-10-20T05:07:48Z",
+   "category": "tesla"
+  },
   {
    "title": "Flying, flipping Tesla Roadster delivered on style, THESE EVs deliver on substance",
    "url": "https://electrek.co/2026/10/19/flying-flipping-tesla-roadster-delivered-on-style-these-evs-deliver-on-substance/",
@@ -284,13 +291,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla Roadster: Three configs, one can fly, 0-60 in 0.8 seconds",
-   "url": "https://www.teslarati.com/tesla-roadster-specs-configurations/",
-   "source": "Teslarati",
-   "published": "2026-10-16T02:04:40Z",
-   "category": "tesla"
-  },
-  {
    "title": "Here Are All Of The Crazy Tricks The Tesla Roadster Just Did",
    "url": "https://insideevs.com/news/812152/tesla-roadster-backflip-suction-2g/",
    "source": "InsideEVs",
@@ -527,13 +527,6 @@
    "source": "Electrek",
    "published": "2026-10-13T14:07:31Z",
    "category": "tesla"
-  },
-  {
-   "title": "Launch preview: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
-   "url": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/",
-   "source": "Spaceflight Now",
-   "published": "2026-10-13T01:19:30Z",
-   "category": "spacex"
   }
  ]
 }
