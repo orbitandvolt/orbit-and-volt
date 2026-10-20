@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-20T06:32:15Z",
+ "generated_at": "2026-10-20T12:04:26Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
    "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
    "mission": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-   "net": "2026-10-20T10:30:00Z",
+   "net": "2026-10-20T11:04:00Z",
    "precision": "SEC",
-   "status": "Go",
-   "status_name": "Go for Launch",
+   "status": "In Flight",
+   "status_name": "Launch in Flight",
    "pad": "Space Launch Complex 40",
    "location": "Cape Canaveral SFS, FL, USA"
   },

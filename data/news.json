@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-10-20T06:32:15Z",
- "count": 75,
+ "generated_at": "2026-10-20T12:04:26Z",
+ "count": 76,
  "errors": [],
  "stories": [
+  {
+   "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever (video)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission",
+   "source": "Space.com",
+   "published": "2026-10-20T11:16:37Z",
+   "category": "spacex"
+  },
   {
    "title": "The Boring Company’s latest Tesla tunnel truck mod “fits like a glove”",
    "url": "https://www.teslarati.com/boring-company-tesla-truck-freight-container/",
@@ -109,7 +116,7 @@
    "category": "tesla"
   },
   {
-   "title": "Poor weather forces scrub of Monday launch attempt of Bandwagon-5, SpaceX now targeting Tuesday",
+   "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
    "url": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
    "source": "Spaceflight Now",
    "published": "2026-10-18T16:32:02Z",
