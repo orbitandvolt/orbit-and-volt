@@ -1,8 +1,57 @@
 {
- "generated_at": "2026-10-20T16:55:30Z",
- "count": 73,
+ "generated_at": "2026-10-20T20:30:20Z",
+ "count": 74,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
+   "url": "https://electrek.co/2026/10/20/tesla-tsla-q3-2026-earnings-preview/",
+   "source": "Electrek",
+   "published": "2026-10-20T20:13:48Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Musk to Give Every Kid in the U.S. a Share of SpaceX",
+   "url": "https://www.notateslaapp.com/news/4857/musk-to-give-every-kid-in-the-us-a-share-of-spacex",
+   "source": "Not a Tesla App",
+   "published": "2026-10-20T19:00:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Ferrari CEO Praises Tesla, Gives Roadster a Perfect 10/10",
+   "url": "https://www.notateslaapp.com/news/4856/ferrari-ceo-praises-tesla-gives-roadster-a-perfect-1010",
+   "source": "Not a Tesla App",
+   "published": "2026-10-20T18:34:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "The Boring Company Uses Tesla Model 3 Sleds To Shuttle Shipping Containers Through Its Tunnels",
+   "url": "https://insideevs.com/news/812647/boring-company-model-3-freight/",
+   "source": "InsideEVs",
+   "published": "2026-10-20T18:19:44Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX reports its second earnings today: here’s what to expect",
+   "url": "https://www.teslarati.com/spacex-spcx-reports-first-earnings-what-to-expect/",
+   "source": "Teslarati",
+   "published": "2026-10-20T17:28:15Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week",
+   "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102026/",
+   "source": "NASASpaceflight",
+   "published": "2026-10-20T17:22:03Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Q3 Earnings Call: How to Listen & What to Expect",
+   "url": "https://www.notateslaapp.com/news/4855/tesla-q3-earnings-call-how-to-listen-what-to-expect",
+   "source": "Not a Tesla App",
+   "published": "2026-10-20T17:12:00Z",
+   "category": "tesla"
+  },
   {
    "title": "SpaceX just launched its secret Starfall saucer again",
    "url": "https://www.teslarati.com/spacex-starfall-capsule-launch-bandwagon-5/",
@@ -242,13 +291,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla’s flying Roadster just revealed something bigger than the car",
-   "url": "https://www.teslarati.com/tesla-spacex-roadster-tech-merger/",
-   "source": "Teslarati",
-   "published": "2026-10-16T16:13:03Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
    "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
    "source": "CNBC",
@@ -410,25 +452,11 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX wants to launch Starship more than 450 times per year from South Texas",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-starship-more-than-450-times-per-year-from-south-texas",
-   "source": "Space.com",
-   "published": "2026-10-15T10:00:00Z",
-   "category": "spacex"
-  },
-  {
    "title": "New Tesla Roadster Reveal: How To Watch The Livestream",
    "url": "https://insideevs.com/news/812012/new-tesla-roadster-reveal-event-livestream/",
    "source": "InsideEVs",
    "published": "2026-10-15T06:45:58Z",
    "category": "tesla"
-  },
-  {
-   "title": "SpaceX Cargo Dragon delivers more than 6,000 pounds of supplies to the ISS",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
-   "source": "Space.com",
-   "published": "2026-10-15T04:05:00Z",
-   "category": "spacex"
   },
   {
    "title": "You Can Now Earn Money by Sharing Your Starlink Connection",
@@ -491,27 +519,6 @@
    "url": "https://www.notateslaapp.com/news/4821/tesla-blocks-rear-screen-browser-workaround-for-unsupported-streaming-apps",
    "source": "Not a Tesla App",
    "published": "2026-10-13T21:13:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Offers Free Supercharging for Hurricane Isaias Relief",
-   "url": "https://www.notateslaapp.com/news/4820/tesla-offers-free-supercharging-for-hurricane-isaias-relief",
-   "source": "Not a Tesla App",
-   "published": "2026-10-13T20:20:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "EVs cost less than a year ago, but September brought a setback",
-   "url": "https://electrek.co/2026/10/13/evs-cost-less-than-a-year-ago-but-september-brought-a-setback/",
-   "source": "Electrek",
-   "published": "2026-10-13T19:55:12Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Cybercab to Let Riders See Rear and Side Camera Feeds",
-   "url": "https://www.notateslaapp.com/news/4819/tesla-cybercab-to-let-riders-see-rear-and-side-camera-feeds",
-   "source": "Not a Tesla App",
-   "published": "2026-10-13T19:48:00Z",
    "category": "tesla"
   }
  ]
