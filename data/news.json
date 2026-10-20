@@ -1,8 +1,36 @@
 {
- "generated_at": "2026-10-20T20:30:20Z",
- "count": 74,
+ "generated_at": "2026-10-20T23:22:11Z",
+ "count": 75,
  "errors": [],
  "stories": [
+  {
+   "title": "Elon Musk just confirmed the Tesla and SpaceX merger step everyone was waiting for",
+   "url": "https://www.teslarati.com/elon-musk-tesla-spacex-merger-committee/",
+   "source": "Teslarati",
+   "published": "2026-10-20T23:13:48Z",
+   "category": "both"
+  },
+  {
+   "title": "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says",
+   "source": "Space.com",
+   "published": "2026-10-20T22:29:46Z",
+   "category": "spacex"
+  },
+  {
+   "title": "SpaceX scrubs launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+   "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
+   "source": "Spaceflight Now",
+   "published": "2026-10-20T21:18:11Z",
+   "category": "spacex"
+  },
+  {
+   "title": "SpaceX delivers blockbuster Q3 results as Super Intelligence segment booms",
+   "url": "https://www.teslarati.com/spacex-spcx-delivers-blockbuster-q3-results-super-intelligence-booms/",
+   "source": "Teslarati",
+   "published": "2026-10-20T20:53:31Z",
+   "category": "spacex"
+  },
   {
    "title": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
    "url": "https://electrek.co/2026/10/20/tesla-tsla-q3-2026-earnings-preview/",
@@ -204,13 +232,6 @@
    "url": "https://www.notateslaapp.com/news/2199/the-best-tesla-frunk-trunk-or-treat-ideas-halloween-decorations",
    "source": "Not a Tesla App",
    "published": "2026-10-18T16:22:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Roadster owners to get “Flying Stunt Mode” and looping track access",
-   "url": "https://www.teslarati.com/tesla-roadster-autonomous-stunt-sentient-hot-wheels-loop-track/",
-   "source": "Teslarati",
-   "published": "2026-10-17T22:52:55Z",
    "category": "tesla"
   },
   {
@@ -505,20 +526,6 @@
    "url": "https://electrek.co/2026/10/13/tesla-roadster-event-thursday-nine-years-delays/",
    "source": "Electrek",
    "published": "2026-10-14T01:36:48Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week",
-   "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-101326/",
-   "source": "NASASpaceflight",
-   "published": "2026-10-13T22:09:39Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Tesla Blocks Rear Screen Browser Workaround for Unsupported Streaming Apps",
-   "url": "https://www.notateslaapp.com/news/4821/tesla-blocks-rear-screen-browser-workaround-for-unsupported-streaming-apps",
-   "source": "Not a Tesla App",
-   "published": "2026-10-13T21:13:00Z",
    "category": "tesla"
   }
  ]
