@@ -1,8 +1,22 @@
 {
- "generated_at": "2026-10-21T01:58:31Z",
- "count": 73,
+ "generated_at": "2026-10-21T07:29:35Z",
+ "count": 75,
  "errors": [],
  "stories": [
+  {
+   "title": "SpaceX showcases exactly how it plans to catch Starship next month",
+   "url": "https://www.teslarati.com/spacex-starship-tower-catch-flight-15/",
+   "source": "Teslarati",
+   "published": "2026-10-21T04:44:49Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla and SpaceX take first step towards merger, would dilute all shareholders",
+   "url": "https://electrek.co/2026/10/20/tesla-and-spacex-take-first-step-towards-merger-would-dilute-all-shareholders/",
+   "source": "Electrek",
+   "published": "2026-10-21T03:14:40Z",
+   "category": "both"
+  },
   {
    "title": "Elon Musk just confirmed the Tesla and SpaceX merger step everyone was waiting for",
    "url": "https://www.teslarati.com/elon-musk-tesla-spacex-merger-committee/",
@@ -50,6 +64,13 @@
    "url": "https://www.notateslaapp.com/news/4856/ferrari-ceo-praises-tesla-gives-roadster-a-perfect-1010",
    "source": "Not a Tesla App",
    "published": "2026-10-20T18:34:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "The Boring Company Uses Tesla Model 3 Sleds To Shuttle Shipping Containers Through Its Tunnels",
+   "url": "https://insideevs.com/news/812647/boring-company-model-3-freight/",
+   "source": "InsideEVs",
+   "published": "2026-10-20T18:19:44Z",
    "category": "tesla"
   },
   {
@@ -190,13 +211,6 @@
    "url": "https://www.teslarati.com/spacex-q3-earnings-preview/",
    "source": "Teslarati",
    "published": "2026-10-19T04:34:35Z",
-   "category": "both"
-  },
-  {
-   "title": "SpaceX’s Gwynne Shotwell just made a quiet gesture toward Tesla",
-   "url": "https://www.teslarati.com/spacex-tesla-gwynne-shotwell-x-follow/",
-   "source": "Teslarati",
-   "published": "2026-10-18T20:04:28Z",
    "category": "both"
   },
   {
