@@ -1,8 +1,78 @@
 {
- "generated_at": "2026-10-21T18:14:37Z",
- "count": 76,
+ "generated_at": "2026-10-21T21:57:24Z",
+ "count": 80,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla FSD Hits Record Subs, Purchased With 75% of New Orders",
+   "url": "https://www.notateslaapp.com/news/4862/tesla-fsd-hits-record-subs-purchased-with-75-of-new-orders",
+   "source": "Not a Tesla App",
+   "published": "2026-10-21T21:30:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla energy revenue drops 16% as it refunds customers over tariffs",
+   "url": "https://electrek.co/2026/10/21/tesla-energy-revenue-drops-tariff-customer-refunds/",
+   "source": "Electrek",
+   "published": "2026-10-21T21:18:18Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla beats on earnings and sales even as auto revenue declines",
+   "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+   "source": "CNBC",
+   "published": "2026-10-21T21:15:57Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla FSD ‘subscriptions’ hit 1.74M, counted the way Musk’s pay package wants",
+   "url": "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/",
+   "source": "Electrek",
+   "published": "2026-10-21T20:45:18Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla blames battery supply for flat sales, but its prices keep falling",
+   "url": "https://electrek.co/2026/10/21/tesla-battery-supply-limiting-sales-prices-falling/",
+   "source": "Electrek",
+   "published": "2026-10-21T20:39:19Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Q3 Earnings Call: How to Listen [TODAY]",
+   "url": "https://www.notateslaapp.com/news/4855/tesla-q3-earnings-call-how-to-listen-what-to-expect",
+   "source": "Not a Tesla App",
+   "published": "2026-10-21T20:26:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Q3 2026 Earnings results: in-line revenues, slight beat on EPS",
+   "url": "https://www.teslarati.com/tesla-tsla-q3-2026-earnings-results/",
+   "source": "Teslarati",
+   "published": "2026-10-21T20:09:06Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla (TSLA) releases Q3 2026 financial results: margins rebound, profit still falls",
+   "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/",
+   "source": "Electrek",
+   "published": "2026-10-21T20:08:17Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Shares Official Roadster Wallpapers for Your Phone",
+   "url": "https://www.notateslaapp.com/news/4861/tesla-shares-official-roadster-wallpapers-for-your-phone",
+   "source": "Not a Tesla App",
+   "published": "2026-10-21T19:33:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Names Next Robotaxi Cities, Shares Miles Driven & Safety Data",
+   "url": "https://www.notateslaapp.com/news/4860/tesla-names-next-robotaxi-cities-shares-miles-driven-safety-data",
+   "source": "Not a Tesla App",
+   "published": "2026-10-21T19:04:00Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Launches iPad and iPhone Duo App",
    "url": "https://www.notateslaapp.com/news/4859/tesla-launches-new-app-for-ipad-and-iphone-duo",
@@ -16,13 +86,6 @@
    "source": "Teslarati",
    "published": "2026-10-21T16:56:56Z",
    "category": "tesla"
-  },
-  {
-   "title": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
-   "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-   "source": "CNBC",
-   "published": "2026-10-21T16:01:25Z",
-   "category": "both"
   },
   {
    "title": "SpaceX confirms Starship 15 launch window with massive ambitions",
@@ -74,7 +137,7 @@
    "category": "spacex"
   },
   {
-   "title": "SpaceX scrubs launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+   "title": "Live coverage: SpaceX to launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
    "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
    "source": "Spaceflight Now",
    "published": "2026-10-20T21:18:11Z",
@@ -128,13 +191,6 @@
    "source": "NASASpaceflight",
    "published": "2026-10-20T17:22:03Z",
    "category": "spacex"
-  },
-  {
-   "title": "Tesla Q3 Earnings Call: How to Listen & What to Expect",
-   "url": "https://www.notateslaapp.com/news/4855/tesla-q3-earnings-call-how-to-listen-what-to-expect",
-   "source": "Not a Tesla App",
-   "published": "2026-10-20T17:12:00Z",
-   "category": "tesla"
   },
   {
    "title": "SpaceX just launched its secret Starfall saucer again",
@@ -198,13 +254,6 @@
    "source": "InsideEVs",
    "published": "2026-10-19T19:39:35Z",
    "category": "tesla"
-  },
-  {
-   "title": "Elon Musk will give ‘every kid in America’ a SpaceX share in 2027",
-   "url": "https://www.teslarati.com/elon-musk-every-kid-america-spacex-share-2027/",
-   "source": "Teslarati",
-   "published": "2026-10-19T17:48:17Z",
-   "category": "spacex"
   },
   {
    "title": "What If Tesla's Parked Vehicle Screen Matched Your Real Surroundings?",
@@ -513,27 +562,6 @@
    "source": "Not a Tesla App",
    "published": "2026-10-14T22:55:00Z",
    "category": "spacex"
-  },
-  {
-   "title": "Tesla Rolls Out FSD V14 Lite to Legacy Model S/X for First Time",
-   "url": "https://www.notateslaapp.com/news/4827/tesla-rolls-out-fsd-v14-lite-to-legacy-model-sx-for-first-time",
-   "source": "Not a Tesla App",
-   "published": "2026-10-14T21:44:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Tinkerers Get CarPlay and AirPlay Running Natively [VIDEOS]",
-   "url": "https://www.notateslaapp.com/news/4825/tesla-tinkerers-get-carplay-and-airplay-running-natively-videos",
-   "source": "Not a Tesla App",
-   "published": "2026-10-14T20:56:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "DeLorean Commends Tesla, Teases Upcoming EV",
-   "url": "https://www.notateslaapp.com/news/4822/delorean-commends-tesla-teases-upcoming-ev",
-   "source": "Not a Tesla App",
-   "published": "2026-10-14T19:22:00Z",
-   "category": "tesla"
   }
  ]
 }
