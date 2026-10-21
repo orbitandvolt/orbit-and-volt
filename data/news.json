@@ -1,10 +1,43 @@
 {
- "generated_at": "2026-10-21T13:10:59Z",
- "count": 72,
- "errors": [
-  "NASASpaceflight: not well-formed (invalid token): line 1, column 4"
- ],
+ "generated_at": "2026-10-21T18:14:37Z",
+ "count": 76,
+ "errors": [],
  "stories": [
+  {
+   "title": "Tesla Launches iPad and iPhone Duo App",
+   "url": "https://www.notateslaapp.com/news/4859/tesla-launches-new-app-for-ipad-and-iphone-duo",
+   "source": "Not a Tesla App",
+   "published": "2026-10-21T17:59:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla reports Q3 Earnings today: here’s what to expect",
+   "url": "https://www.teslarati.com/tesla-tsla-q3-earnings-2026-what-to-expect/",
+   "source": "Teslarati",
+   "published": "2026-10-21T16:56:56Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
+   "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+   "source": "CNBC",
+   "published": "2026-10-21T16:01:25Z",
+   "category": "both"
+  },
+  {
+   "title": "SpaceX confirms Starship 15 launch window with massive ambitions",
+   "url": "https://www.teslarati.com/spacex-confirms-starship-15-launch-window-massive-ambitions/",
+   "source": "Teslarati",
+   "published": "2026-10-21T15:15:35Z",
+   "category": "spacex"
+  },
+  {
+   "title": "SpaceX stock gets a slew of price target boosts after bullish earnings call",
+   "url": "https://www.teslarati.com/spacex-spcx-price-target-boosts-bullish-earnings-call/",
+   "source": "Teslarati",
+   "published": "2026-10-21T13:38:46Z",
+   "category": "spacex"
+  },
   {
    "title": "When will SpaceX and Blue Origin fly to the moon? NASA reveals lunar lander timelines (and an Artemis III update)",
    "url": "https://www.space.com/space-exploration/artemis/when-will-spacex-and-blue-origin-fly-to-the-moon-nasa-reveals-lunar-lander-timelines-and-an-artemis-iii-update",
@@ -90,6 +123,13 @@
    "category": "spacex"
   },
   {
+   "title": "Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week",
+   "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102026/",
+   "source": "NASASpaceflight",
+   "published": "2026-10-20T17:22:03Z",
+   "category": "spacex"
+  },
+  {
    "title": "Tesla Q3 Earnings Call: How to Listen & What to Expect",
    "url": "https://www.notateslaapp.com/news/4855/tesla-q3-earnings-call-how-to-listen-what-to-expect",
    "source": "Not a Tesla App",
@@ -130,6 +170,13 @@
    "source": "Teslarati",
    "published": "2026-10-20T05:07:48Z",
    "category": "tesla"
+  },
+  {
+   "title": "Falcon 9 launches Bandwagon-5 rideshare mission from Florida",
+   "url": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
+   "source": "NASASpaceflight",
+   "published": "2026-10-20T05:01:48Z",
+   "category": "spacex"
   },
   {
    "title": "Flying, flipping Tesla Roadster delivered on style, THESE EVs deliver on substance",
@@ -174,13 +221,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla CEO Elon Musk reminds everyone about Roadster’s true meaning",
-   "url": "https://www.teslarati.com/tesla-ceo-elon-musk-reminds-everyone-roadster-true-meaning/",
-   "source": "Teslarati",
-   "published": "2026-10-19T15:24:06Z",
-   "category": "tesla"
-  },
-  {
    "title": "The Roadster Will Have Tesla’s Most Advanced Battery Pack Yet",
    "url": "https://insideevs.com/news/812290/tesla-roadster-ev-battery-details/",
    "source": "InsideEVs",
@@ -202,13 +242,6 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX’s biggest earnings test yet lands Tuesday, and Tesla shareholders should be watching",
-   "url": "https://www.teslarati.com/spacex-q3-earnings-preview/",
-   "source": "Teslarati",
-   "published": "2026-10-19T04:34:35Z",
-   "category": "both"
-  },
-  {
    "title": "Musk Confirms Bigger Text Option Coming to Tesla Screens",
    "url": "https://www.notateslaapp.com/news/4847/musk-confirms-bigger-text-option-coming-to-tesla-screens",
    "source": "Not a Tesla App",
@@ -220,6 +253,13 @@
    "url": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
    "source": "Spaceflight Now",
    "published": "2026-10-18T16:32:02Z",
+   "category": "spacex"
+  },
+  {
+   "title": "SpaceX working through Starship Flight 15 and 16 milestones",
+   "url": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
+   "source": "NASASpaceflight",
+   "published": "2026-10-18T16:31:04Z",
    "category": "spacex"
   },
   {
@@ -493,20 +533,6 @@
    "url": "https://www.notateslaapp.com/news/4822/delorean-commends-tesla-teases-upcoming-ev",
    "source": "Not a Tesla App",
    "published": "2026-10-14T19:22:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Supercharging Prices Have Jumped 15% In A Year",
-   "url": "https://insideevs.com/news/811797/tesla-supercharging-prices-increase-2026/",
-   "source": "InsideEVs",
-   "published": "2026-10-14T15:30:39Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Powerwalls supply most of record 745 MW California grid dispatch",
-   "url": "https://electrek.co/2026/10/14/tesla-powerwall-sunrun-record-745-mw-california-grid-dispatch/",
-   "source": "Electrek",
-   "published": "2026-10-14T14:46:00Z",
    "category": "tesla"
   }
  ]
