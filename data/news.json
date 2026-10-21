@@ -1,8 +1,17 @@
 {
- "generated_at": "2026-10-21T07:29:35Z",
- "count": 75,
- "errors": [],
+ "generated_at": "2026-10-21T13:10:59Z",
+ "count": 72,
+ "errors": [
+  "NASASpaceflight: not well-formed (invalid token): line 1, column 4"
+ ],
  "stories": [
+  {
+   "title": "When will SpaceX and Blue Origin fly to the moon? NASA reveals lunar lander timelines (and an Artemis III update)",
+   "url": "https://www.space.com/space-exploration/artemis/when-will-spacex-and-blue-origin-fly-to-the-moon-nasa-reveals-lunar-lander-timelines-and-an-artemis-iii-update",
+   "source": "Space.com",
+   "published": "2026-10-21T13:00:00Z",
+   "category": "spacex"
+  },
   {
    "title": "SpaceX showcases exactly how it plans to catch Starship next month",
    "url": "https://www.teslarati.com/spacex-starship-tower-catch-flight-15/",
@@ -81,13 +90,6 @@
    "category": "spacex"
   },
   {
-   "title": "Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week",
-   "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102026/",
-   "source": "NASASpaceflight",
-   "published": "2026-10-20T17:22:03Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla Q3 Earnings Call: How to Listen & What to Expect",
    "url": "https://www.notateslaapp.com/news/4855/tesla-q3-earnings-call-how-to-listen-what-to-expect",
    "source": "Not a Tesla App",
@@ -128,13 +130,6 @@
    "source": "Teslarati",
    "published": "2026-10-20T05:07:48Z",
    "category": "tesla"
-  },
-  {
-   "title": "Falcon 9 launches Bandwagon-5 rideshare mission from Florida",
-   "url": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
-   "source": "NASASpaceflight",
-   "published": "2026-10-20T05:01:48Z",
-   "category": "spacex"
   },
   {
    "title": "Flying, flipping Tesla Roadster delivered on style, THESE EVs deliver on substance",
@@ -225,13 +220,6 @@
    "url": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
    "source": "Spaceflight Now",
    "published": "2026-10-18T16:32:02Z",
-   "category": "spacex"
-  },
-  {
-   "title": "SpaceX working through Starship Flight 15 and 16 milestones",
-   "url": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
-   "source": "NASASpaceflight",
-   "published": "2026-10-18T16:31:04Z",
    "category": "spacex"
   },
   {
@@ -443,13 +431,6 @@
    "source": "Not a Tesla App",
    "published": "2026-10-15T18:26:00Z",
    "category": "tesla"
-  },
-  {
-   "title": "SpaceX launches classified mission for the US Space Force (video)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-space-force-launch-ussf-481-vandenberg",
-   "source": "Space.com",
-   "published": "2026-10-15T18:00:00Z",
-   "category": "spacex"
   },
   {
    "title": "Tesla remote operators keep crashing its ‘Robotaxis,’ data shows",
