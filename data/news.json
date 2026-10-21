@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T23:22:11Z",
- "count": 75,
+ "generated_at": "2026-10-21T01:58:31Z",
+ "count": 73,
  "errors": [],
  "stories": [
   {
@@ -50,13 +50,6 @@
    "url": "https://www.notateslaapp.com/news/4856/ferrari-ceo-praises-tesla-gives-roadster-a-perfect-1010",
    "source": "Not a Tesla App",
    "published": "2026-10-20T18:34:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "The Boring Company Uses Tesla Model 3 Sleds To Shuttle Shipping Containers Through Its Tunnels",
-   "url": "https://insideevs.com/news/812647/boring-company-model-3-freight/",
-   "source": "InsideEVs",
-   "published": "2026-10-20T18:19:44Z",
    "category": "tesla"
   },
   {
@@ -519,13 +512,6 @@
    "url": "https://electrek.co/2026/10/14/tesla-powerwall-sunrun-record-745-mw-california-grid-dispatch/",
    "source": "Electrek",
    "published": "2026-10-14T14:46:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla is unveiling the new Roadster for real this time, promise",
-   "url": "https://electrek.co/2026/10/13/tesla-roadster-event-thursday-nine-years-delays/",
-   "source": "Electrek",
-   "published": "2026-10-14T01:36:48Z",
    "category": "tesla"
   }
  ]
