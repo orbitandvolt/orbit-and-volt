@@ -1,8 +1,43 @@
 {
- "generated_at": "2026-10-21T21:57:24Z",
- "count": 80,
+ "generated_at": "2026-10-22T00:37:43Z",
+ "count": 83,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Says 75% Of New Car Buyers Subscribe To FSD In North America",
+   "url": "https://insideevs.com/news/812833/tesla-backlog-fsd-driver-sales/",
+   "source": "InsideEVs",
+   "published": "2026-10-21T23:39:41Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla beats on earnings and sales even as auto revenue declines",
+   "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+   "source": "CNBC",
+   "published": "2026-10-21T23:32:04Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla wants to sell you a useless car with no steering wheel this year",
+   "url": "https://electrek.co/2026/10/21/tesla-wants-to-sell-you-a-useless-car-with-no-steering-wheel-this-year/",
+   "source": "Electrek",
+   "published": "2026-10-21T22:32:50Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
+   "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/",
+   "source": "Electrek",
+   "published": "2026-10-21T22:18:57Z",
+   "category": "tesla"
+  },
+  {
+   "title": "'End Of The Year': Tesla Says Cybercab Customer Deliveries Will Begin Soon",
+   "url": "https://insideevs.com/news/812834/tesla-cybercab-customer-deliveries/",
+   "source": "InsideEVs",
+   "published": "2026-10-21T22:17:21Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla FSD Hits Record Subs, Purchased With 75% of New Orders",
    "url": "https://www.notateslaapp.com/news/4862/tesla-fsd-hits-record-subs-purchased-with-75-of-new-orders",
@@ -15,13 +50,6 @@
    "url": "https://electrek.co/2026/10/21/tesla-energy-revenue-drops-tariff-customer-refunds/",
    "source": "Electrek",
    "published": "2026-10-21T21:18:18Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla beats on earnings and sales even as auto revenue declines",
-   "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-   "source": "CNBC",
-   "published": "2026-10-21T21:15:57Z",
    "category": "tesla"
   },
   {
@@ -137,7 +165,7 @@
    "category": "spacex"
   },
   {
-   "title": "Live coverage: SpaceX to launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+   "title": "SpaceX scrubs launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
    "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
    "source": "Spaceflight Now",
    "published": "2026-10-20T21:18:11Z",
@@ -555,13 +583,6 @@
    "source": "InsideEVs",
    "published": "2026-10-15T06:45:58Z",
    "category": "tesla"
-  },
-  {
-   "title": "You Can Now Earn Money by Sharing Your Starlink Connection",
-   "url": "https://www.notateslaapp.com/news/4828/you-can-now-earn-money-by-sharing-your-starlink-connection",
-   "source": "Not a Tesla App",
-   "published": "2026-10-14T22:55:00Z",
-   "category": "spacex"
   }
  ]
 }
