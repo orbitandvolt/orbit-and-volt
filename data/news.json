@@ -1,8 +1,36 @@
 {
- "generated_at": "2026-10-22T20:32:27Z",
- "count": 82,
+ "generated_at": "2026-10-22T23:33:23Z",
+ "count": 81,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla’s secretive “Project Crystal Sun” gets a big green light in Texas",
+   "url": "https://www.teslarati.com/tesla-project-crystal-sun-texas-approval/",
+   "source": "Teslarati",
+   "published": "2026-10-22T22:26:20Z",
+   "category": "tesla"
+  },
+  {
+   "title": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
+   "url": "https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/",
+   "source": "NASASpaceflight",
+   "published": "2026-10-22T21:55:02Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla skipped the most important shareholder question on its earnings call",
+   "url": "https://electrek.co/2026/10/22/tesla-skipped-hw3-shareholder-question-earnings-call/",
+   "source": "Electrek",
+   "published": "2026-10-22T21:23:05Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla is building its own maps to fix Navigation issues",
+   "url": "https://www.teslarati.com/tesla-building-its-own-maps-fix-navigation-issues/",
+   "source": "Teslarati",
+   "published": "2026-10-22T21:14:16Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla now says it needs its own maps for FSD after years of dismissing maps",
    "url": "https://electrek.co/2026/10/22/tesla-building-own-maps-fsd-after-mocking-maps/",
@@ -235,17 +263,10 @@
    "category": "spacex"
   },
   {
-   "title": "SpaceX scrubs launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+   "title": "Bad weather scrubs launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
    "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
    "source": "Spaceflight Now",
    "published": "2026-10-20T21:18:11Z",
-   "category": "spacex"
-  },
-  {
-   "title": "SpaceX delivers blockbuster Q3 results as Super Intelligence segment booms",
-   "url": "https://www.teslarati.com/spacex-spcx-delivers-blockbuster-q3-results-super-intelligence-booms/",
-   "source": "Teslarati",
-   "published": "2026-10-20T20:53:31Z",
    "category": "spacex"
   },
   {
@@ -275,13 +296,6 @@
    "source": "InsideEVs",
    "published": "2026-10-20T18:19:44Z",
    "category": "tesla"
-  },
-  {
-   "title": "SpaceX reports its second earnings today: here’s what to expect",
-   "url": "https://www.teslarati.com/spacex-spcx-reports-first-earnings-what-to-expect/",
-   "source": "Teslarati",
-   "published": "2026-10-20T17:28:15Z",
-   "category": "spacex"
   },
   {
    "title": "Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week",
@@ -466,13 +480,6 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX thrusters just made a Tesla Roadster 'fly' (and Elon Musk's car is still out there in space)",
-   "url": "https://www.space.com/technology/spacex-thrusters-just-made-a-tesla-roadster-fly-and-elon-musks-car-is-still-out-there-in-space",
-   "source": "Space.com",
-   "published": "2026-10-16T17:38:34Z",
-   "category": "both"
-  },
-  {
    "title": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt",
    "url": "https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/",
    "source": "Electrek",
@@ -561,20 +568,6 @@
    "url": "https://insideevs.com/news/812151/2027-tesla-roadster-price-specs-release-date/",
    "source": "InsideEVs",
    "published": "2026-10-16T01:17:24Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Plans to Expand Giga Berlin Output to 1 Million Vehicles Per Year",
-   "url": "https://www.notateslaapp.com/news/4836/tesla-plans-to-expand-giga-berlin-output-to-1-million-vehicles-per-year",
-   "source": "Not a Tesla App",
-   "published": "2026-10-15T22:45:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Company that put gas engines in Teslas goes bankrupt owing $37 million",
-   "url": "https://electrek.co/2026/10/15/obrist-hyperhybrid-gas-engine-tesla-bankruptcy/",
-   "source": "Electrek",
-   "published": "2026-10-15T21:26:12Z",
    "category": "tesla"
   }
  ]
