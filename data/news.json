@@ -1,8 +1,36 @@
 {
- "generated_at": "2026-10-22T17:04:42Z",
- "count": 83,
+ "generated_at": "2026-10-22T20:32:27Z",
+ "count": 82,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla now says it needs its own maps for FSD after years of dismissing maps",
+   "url": "https://electrek.co/2026/10/22/tesla-building-own-maps-fsd-after-mocking-maps/",
+   "source": "Electrek",
+   "published": "2026-10-22T20:03:18Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Is Building Its Own AI-Based Maps, Will Begin Rolling Out In the Next Few Months With FSD v15",
+   "url": "https://www.notateslaapp.com/news/4868/tesla-is-building-its-own-ai-maps-starting-with-fsd-v15",
+   "source": "Not a Tesla App",
+   "published": "2026-10-22T19:54:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla buyers are buying for Full Self-Driving and not for the car, data shows",
+   "url": "https://www.teslarati.com/tesla-buyers-buying-full-self-driving-not-for-car-data-shows/",
+   "source": "Teslarati",
+   "published": "2026-10-22T17:25:12Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Q3 2026 Earnings Call Recap: Everything You Need to Know",
+   "url": "https://www.notateslaapp.com/news/4867/tesla-q3-2026-earnings-call-recap-everything-you-need-to-know",
+   "source": "Not a Tesla App",
+   "published": "2026-10-22T17:20:00Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla pushes Optimus deliveries to late 2027, says hands still a problem",
    "url": "https://electrek.co/2026/10/22/tesla-optimus-delivery-late-2027-hands-ai-problems/",
@@ -260,13 +288,6 @@
    "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102026/",
    "source": "NASASpaceflight",
    "published": "2026-10-20T17:22:03Z",
-   "category": "spacex"
-  },
-  {
-   "title": "SpaceX just launched its secret Starfall saucer again",
-   "url": "https://www.teslarati.com/spacex-starfall-capsule-launch-bandwagon-5/",
-   "source": "Teslarati",
-   "published": "2026-10-20T16:10:26Z",
    "category": "spacex"
   },
   {
@@ -554,34 +575,6 @@
    "url": "https://electrek.co/2026/10/15/obrist-hyperhybrid-gas-engine-tesla-bankruptcy/",
    "source": "Electrek",
    "published": "2026-10-15T21:26:12Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Musk Considers Creating Amazon Rival After Grok Bot Gets Blocked",
-   "url": "https://www.notateslaapp.com/news/4834/musk-considers-creating-amazon-competitor",
-   "source": "Not a Tesla App",
-   "published": "2026-10-15T19:54:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "SpaceX launches a classified payload for U.S. Space Force",
-   "url": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/",
-   "source": "Spaceflight Now",
-   "published": "2026-10-15T19:11:45Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Tesla Roadster Event: Watch on Demand",
-   "url": "https://www.notateslaapp.com/news/4818/tesla-roadster-event-how-to-watch-what-to-expect",
-   "source": "Not a Tesla App",
-   "published": "2026-10-15T18:37:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Roadster Reveal Hints at 'Back to the Future' Tie-In",
-   "url": "https://www.notateslaapp.com/news/4833/tesla-roadster-reveal-hints-at-back-to-the-future-tie-in",
-   "source": "Not a Tesla App",
-   "published": "2026-10-15T18:26:00Z",
    "category": "tesla"
   }
  ]
