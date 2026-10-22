@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-22T06:02:31Z",
- "count": 83,
+ "generated_at": "2026-10-22T11:41:40Z",
+ "count": 81,
  "errors": [],
  "stories": [
   {
@@ -11,13 +11,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla Says 75% Of New Car Buyers Subscribe To FSD In North America",
-   "url": "https://insideevs.com/news/812833/tesla-backlog-fsd-driver-sales/",
-   "source": "InsideEVs",
-   "published": "2026-10-21T23:39:41Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla beats on earnings and sales even as auto revenue declines",
    "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
    "source": "CNBC",
@@ -25,7 +18,7 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla wants to sell you a useless car with no steering wheel this year",
+   "title": "Tesla wants to sell you an unusable car with no steering wheel this year",
    "url": "https://electrek.co/2026/10/21/tesla-wants-to-sell-you-a-useless-car-with-no-steering-wheel-this-year/",
    "source": "Electrek",
    "published": "2026-10-21T22:32:50Z",
@@ -575,13 +568,6 @@
    "url": "https://electrek.co/2026/10/15/tesla-cybercab-assembly-lead-leaves-rivian-r2/",
    "source": "Electrek",
    "published": "2026-10-15T12:43:06Z",
-   "category": "tesla"
-  },
-  {
-   "title": "New Tesla Roadster Reveal: How To Watch The Livestream",
-   "url": "https://insideevs.com/news/812012/new-tesla-roadster-reveal-event-livestream/",
-   "source": "InsideEVs",
-   "published": "2026-10-15T06:45:58Z",
    "category": "tesla"
   }
  ]
