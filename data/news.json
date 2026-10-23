@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-10-23T21:19:57Z",
- "count": 75,
+ "generated_at": "2026-10-23T23:58:04Z",
+ "count": 74,
  "errors": [],
  "stories": [
+  {
+   "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (photos)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly",
+   "source": "Space.com",
+   "published": "2026-10-23T23:26:41Z",
+   "category": "spacex"
+  },
   {
    "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
    "url": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
@@ -15,13 +22,6 @@
    "url": "https://www.notateslaapp.com/news/4885/tesla-supercharger-prices-are-up-15-in-the-last-year",
    "source": "Not a Tesla App",
    "published": "2026-10-23T18:49:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
-   "url": "https://insideevs.com/news/813113/tesla-cybertruck-australia-canceled/",
-   "source": "InsideEVs",
-   "published": "2026-10-23T17:13:54Z",
    "category": "tesla"
   },
   {
@@ -340,7 +340,7 @@
    "category": "spacex"
   },
   {
-   "title": "Another try for Falcon 9 launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg",
+   "title": "SpaceX launches Starlink 15-15 mission following a trio of scrubs",
    "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
    "source": "Spaceflight Now",
    "published": "2026-10-20T21:18:11Z",
@@ -519,13 +519,6 @@
    "url": "https://www.notateslaapp.com/news/4842/why-the-new-tesla-roadster-wont-get-full-fsd",
    "source": "Not a Tesla App",
    "published": "2026-10-17T15:00:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Watch Tesla FSD Clear a Path for an Ambulance at a Red Light [VIDEO]",
-   "url": "https://www.notateslaapp.com/news/4841/watch-tesla-fsd-clear-a-path-for-an-ambulance-at-a-red-light-video",
-   "source": "Not a Tesla App",
-   "published": "2026-10-16T22:14:00Z",
    "category": "tesla"
   }
  ]
