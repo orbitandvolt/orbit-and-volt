@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-10-23T07:23:02Z",
- "count": 75,
+ "generated_at": "2026-10-23T12:50:40Z",
+ "count": 74,
  "errors": [],
  "stories": [
+  {
+   "title": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
+   "url": "https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
+   "source": "CNBC",
+   "published": "2026-10-23T11:00:01Z",
+   "category": "both"
+  },
   {
    "title": "The Starship moon landing number NASA and Elon Musk can’t agree on",
    "url": "https://www.teslarati.com/elon-musk-nasa-starship-moon-landing/",
@@ -512,20 +519,6 @@
    "url": "https://insideevs.com/news/812247/tesla-roadster-preorder-delivery-guarantee/",
    "source": "InsideEVs",
    "published": "2026-10-16T15:29:22Z",
-   "category": "tesla"
-  },
-  {
-   "title": "The Tesla Roadster Has 1,341 HP And Half The Range Elon Musk Once Promised. Here Are The Full Specs",
-   "url": "https://insideevs.com/news/812242/tesla-roadster-2026-specs/",
-   "source": "InsideEVs",
-   "published": "2026-10-16T12:46:53Z",
-   "category": "tesla"
-  },
-  {
-   "title": "The Tesla Roadster's Thrusters Last Seconds. Refilling Takes Hours",
-   "url": "https://insideevs.com/news/812205/tesla-roadster-replenishes-air-tanks/",
-   "source": "InsideEVs",
-   "published": "2026-10-16T09:09:00Z",
    "category": "tesla"
   }
  ]

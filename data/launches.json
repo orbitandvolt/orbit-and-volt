@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-23T07:23:02Z",
+ "generated_at": "2026-10-23T12:50:40Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
    "name": "Falcon 9 Block 5 | Starlink Group 15-15",
    "mission": "Starlink Group 15-15",
-   "net": "2026-10-23T21:30:00Z",
-   "precision": "MIN",
+   "net": "2026-10-23T22:28:53Z",
+   "precision": "SEC",
    "status": "Go",
    "status_name": "Go for Launch",
    "pad": "Space Launch Complex 4E",
