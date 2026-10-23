@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-10-23T17:51:01Z",
+ "generated_at": "2026-10-23T21:19:57Z",
  "count": 75,
  "errors": [],
  "stories": [
+  {
+   "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+   "url": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
+   "source": "CNBC",
+   "published": "2026-10-23T20:52:23Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Supercharger Prices Are Up 15% in the Last Year",
+   "url": "https://www.notateslaapp.com/news/4885/tesla-supercharger-prices-are-up-15-in-the-last-year",
+   "source": "Not a Tesla App",
+   "published": "2026-10-23T18:49:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
+   "url": "https://insideevs.com/news/813113/tesla-cybertruck-australia-canceled/",
+   "source": "InsideEVs",
+   "published": "2026-10-23T17:13:54Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla reveals Optimus Academy, where robots teach themselves",
    "url": "https://www.teslarati.com/tesla-reveals-optimus-academy-where-robots-teach-themselves/",
@@ -319,7 +340,7 @@
    "category": "spacex"
   },
   {
-   "title": "Bad weather scrubs launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+   "title": "Another try for Falcon 9 launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg",
    "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
    "source": "Spaceflight Now",
    "published": "2026-10-20T21:18:11Z",
@@ -505,27 +526,6 @@
    "url": "https://www.notateslaapp.com/news/4841/watch-tesla-fsd-clear-a-path-for-an-ambulance-at-a-red-light-video",
    "source": "Not a Tesla App",
    "published": "2026-10-16T22:14:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "New Tesla Roadster Specs: Battery, Range, Speed, Trims, and More",
-   "url": "https://www.notateslaapp.com/news/4840/new-tesla-roadster-specs-battery-range-speed-trims-and-more",
-   "source": "Not a Tesla App",
-   "published": "2026-10-16T21:01:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
-   "url": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
-   "source": "CNBC",
-   "published": "2026-10-16T20:28:10Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Slovakia Becomes 9th European Country to Approve Tesla FSD",
-   "url": "https://www.notateslaapp.com/news/4838/slovakia-becomes-9th-european-country-to-approve-tesla-fsd",
-   "source": "Not a Tesla App",
-   "published": "2026-10-16T19:02:00Z",
    "category": "tesla"
   }
  ]
