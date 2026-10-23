@@ -1,14 +1,56 @@
 {
- "generated_at": "2026-10-23T12:50:40Z",
- "count": 74,
+ "generated_at": "2026-10-23T17:51:01Z",
+ "count": 75,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla reveals Optimus Academy, where robots teach themselves",
+   "url": "https://www.teslarati.com/tesla-reveals-optimus-academy-where-robots-teach-themselves/",
+   "source": "Teslarati",
+   "published": "2026-10-23T17:11:56Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Cancels Cybertruck in Australia and New Zealand",
+   "url": "https://www.notateslaapp.com/news/4883/tesla-cancels-cybertruck-in-australia-and-new-zealand",
+   "source": "Not a Tesla App",
+   "published": "2026-10-23T16:26:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla to Launch Unsupervised FSD, Let Owners Join Robotaxi Network in Q2 2027",
+   "url": "https://www.notateslaapp.com/news/4879/tesla-to-launch-unsupervised-fsd-let-owners-join-robotaxi-network-in-q2-2027",
+   "source": "Not a Tesla App",
+   "published": "2026-10-23T15:31:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits",
+   "url": "https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/",
+   "source": "Electrek",
+   "published": "2026-10-23T14:35:37Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla’s $10B solar factory could get 35 years of tax breaks in Texas",
+   "url": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/",
+   "source": "Electrek",
+   "published": "2026-10-23T14:25:54Z",
+   "category": "tesla"
+  },
   {
    "title": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
    "url": "https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
    "source": "CNBC",
    "published": "2026-10-23T11:00:01Z",
    "category": "both"
+  },
+  {
+   "title": "Tesla App Update 4.62: iPad Support, FSD Referral Rewards, X Money Support and More",
+   "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.0/release-notes",
+   "source": "Not a Tesla App",
+   "published": "2026-10-23T09:35:00Z",
+   "category": "tesla"
   },
   {
    "title": "The Starship moon landing number NASA and Elon Musk can’t agree on",
@@ -263,13 +305,6 @@
    "category": "spacex"
   },
   {
-   "title": "SpaceX showcases exactly how it plans to catch Starship next month",
-   "url": "https://www.teslarati.com/spacex-starship-tower-catch-flight-15/",
-   "source": "Teslarati",
-   "published": "2026-10-21T04:44:49Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla and SpaceX take first step towards merger, would dilute all shareholders",
    "url": "https://electrek.co/2026/10/20/tesla-and-spacex-take-first-step-towards-merger-would-dilute-all-shareholders/",
    "source": "Electrek",
@@ -473,13 +508,6 @@
    "category": "tesla"
   },
   {
-   "title": "'It really does change you': SpaceX Crew-12 commander wishes we could all see our fragile Earth from space",
-   "url": "https://www.space.com/space-exploration/international-space-station/it-really-does-change-you-spacex-crew-12-commander-wishes-we-could-all-see-our-fragile-earth-from-space",
-   "source": "Space.com",
-   "published": "2026-10-16T22:00:00Z",
-   "category": "spacex"
-  },
-  {
    "title": "New Tesla Roadster Specs: Battery, Range, Speed, Trims, and More",
    "url": "https://www.notateslaapp.com/news/4840/new-tesla-roadster-specs-battery-range-speed-trims-and-more",
    "source": "Not a Tesla App",
@@ -498,27 +526,6 @@
    "url": "https://www.notateslaapp.com/news/4838/slovakia-becomes-9th-european-country-to-approve-tesla-fsd",
    "source": "Not a Tesla App",
    "published": "2026-10-16T19:02:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt",
-   "url": "https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/",
-   "source": "Electrek",
-   "published": "2026-10-16T17:14:43Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
-   "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-   "source": "CNBC",
-   "published": "2026-10-16T15:52:41Z",
-   "category": "both"
-  },
-  {
-   "title": "Tesla 'Cannot Guarantee' Your Roadster Pre-Order Will Ever Be Delivered",
-   "url": "https://insideevs.com/news/812247/tesla-roadster-preorder-delivery-guarantee/",
-   "source": "InsideEVs",
-   "published": "2026-10-16T15:29:22Z",
    "category": "tesla"
   }
  ]
