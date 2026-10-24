@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T13:17:00Z",
- "count": 75,
+ "generated_at": "2026-10-24T16:54:51Z",
+ "count": 74,
  "errors": [],
  "stories": [
   {
@@ -11,7 +11,7 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (photos)",
+   "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (video)",
    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly",
    "source": "Space.com",
    "published": "2026-10-23T23:26:41Z",
@@ -519,13 +519,6 @@
    "url": "https://www.notateslaapp.com/news/4843/tesla-to-build-looping-hot-wheels-track-for-roadster-owners",
    "source": "Not a Tesla App",
    "published": "2026-10-17T18:32:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Why the New Tesla Roadster Won’t Get Full FSD",
-   "url": "https://www.notateslaapp.com/news/4842/why-the-new-tesla-roadster-wont-get-full-fsd",
-   "source": "Not a Tesla App",
-   "published": "2026-10-17T15:00:00Z",
    "category": "tesla"
   }
  ]
