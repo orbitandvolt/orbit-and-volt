@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-23T23:58:04Z",
- "count": 74,
+ "generated_at": "2026-10-24T04:27:17Z",
+ "count": 75,
  "errors": [],
  "stories": [
   {
@@ -22,6 +22,13 @@
    "url": "https://www.notateslaapp.com/news/4885/tesla-supercharger-prices-are-up-15-in-the-last-year",
    "source": "Not a Tesla App",
    "published": "2026-10-23T18:49:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
+   "url": "https://insideevs.com/news/813113/tesla-cybertruck-australia-canceled/",
+   "source": "InsideEVs",
+   "published": "2026-10-23T17:13:54Z",
    "category": "tesla"
   },
   {
