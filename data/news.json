@@ -1,8 +1,22 @@
 {
- "generated_at": "2026-10-24T19:25:53Z",
+ "generated_at": "2026-10-24T21:50:45Z",
  "count": 73,
  "errors": [],
  "stories": [
+  {
+   "title": "Intel to Make Mystery Chip for Tesla: AI6 or Something New?",
+   "url": "https://www.notateslaapp.com/news/4887/intel-to-make-mystery-chip-for-tesla-ai6-or-something-new",
+   "source": "Not a Tesla App",
+   "published": "2026-10-24T20:34:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla FSD v14.3.13 & FSD v14.3 Lite Release Notes (Update 2026.38.5.10)",
+   "url": "https://www.notateslaapp.com/software-updates/version/2026.38.5.11/release-notes",
+   "source": "Not a Tesla App",
+   "published": "2026-10-24T08:45:06Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla shows what Roadster drivers will see on screen before thruster activation",
    "url": "https://www.teslarati.com/tesla-roadster-center-display-ui-ux/",
@@ -498,20 +512,6 @@
    "url": "https://www.notateslaapp.com/news/2199/the-best-tesla-frunk-trunk-or-treat-ideas-halloween-decorations",
    "source": "Not a Tesla App",
    "published": "2026-10-18T16:22:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Roadster Old vs. New: How the Design Changed [Photo Comparisons]",
-   "url": "https://www.notateslaapp.com/news/4846/tesla-roadster-old-vs-new-how-the-design-changed-photo-comparisons",
-   "source": "Not a Tesla App",
-   "published": "2026-10-17T21:17:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Extends Robotaxi Hours Again, Now Until Midnight",
-   "url": "https://www.notateslaapp.com/news/4844/tesla-extends-robotaxi-hours-again-now-until-midnight",
-   "source": "Not a Tesla App",
-   "published": "2026-10-17T19:48:00Z",
    "category": "tesla"
   }
  ]
