@@ -1,14 +1,23 @@
 {
- "generated_at": "2026-10-25T17:49:29Z",
- "count": 73,
- "errors": [],
+ "generated_at": "2026-10-25T20:45:16Z",
+ "count": 64,
+ "errors": [
+  "Teslarati: HTTP Error 502: Bad Gateway"
+ ],
  "stories": [
   {
-   "title": "Tesla makes good on its Cybercab promise in just two weeks",
-   "url": "https://www.teslarati.com/tesla-cybercab-rear-view-camera/",
-   "source": "Teslarati",
-   "published": "2026-10-25T14:34:00Z",
+   "title": "First Look at Tesla's Roadster New User Interface[VIDEO]",
+   "url": "https://www.notateslaapp.com/news/4894/tesla-shows-off-new-roadsters-fighter-jet-inspired-ui-video",
+   "source": "Not a Tesla App",
+   "published": "2026-10-25T19:28:00Z",
    "category": "tesla"
+  },
+  {
+   "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
+   "url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
+   "source": "NASASpaceflight",
+   "published": "2026-10-25T18:21:44Z",
+   "category": "spacex"
   },
   {
    "title": "NHTSA Proposes Cyan Lights for Driverless Cars Like Cybercab",
@@ -46,13 +55,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla shows what Roadster drivers will see on screen before thruster activation",
-   "url": "https://www.teslarati.com/tesla-roadster-center-display-ui-ux/",
-   "source": "Teslarati",
-   "published": "2026-10-24T05:05:40Z",
-   "category": "tesla"
-  },
-  {
    "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (video)",
    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly",
    "source": "Space.com",
@@ -78,13 +80,6 @@
    "url": "https://insideevs.com/news/813113/tesla-cybertruck-australia-canceled/",
    "source": "InsideEVs",
    "published": "2026-10-23T17:13:54Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla reveals Optimus Academy, where robots teach themselves",
-   "url": "https://www.teslarati.com/tesla-reveals-optimus-academy-where-robots-teach-themselves/",
-   "source": "Teslarati",
-   "published": "2026-10-23T17:11:56Z",
    "category": "tesla"
   },
   {
@@ -130,25 +125,11 @@
    "category": "tesla"
   },
   {
-   "title": "The Starship moon landing number NASA and Elon Musk can’t agree on",
-   "url": "https://www.teslarati.com/elon-musk-nasa-starship-moon-landing/",
-   "source": "Teslarati",
-   "published": "2026-10-23T03:51:35Z",
-   "category": "spacex"
-  },
-  {
    "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
    "url": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
    "source": "CNBC",
    "published": "2026-10-23T00:46:09Z",
    "category": "spacex"
-  },
-  {
-   "title": "Tesla’s secretive “Project Crystal Sun” gets a big green light in Texas",
-   "url": "https://www.teslarati.com/tesla-project-crystal-sun-texas-approval/",
-   "source": "Teslarati",
-   "published": "2026-10-22T22:26:20Z",
-   "category": "tesla"
   },
   {
    "title": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
@@ -162,13 +143,6 @@
    "url": "https://electrek.co/2026/10/22/tesla-skipped-hw3-shareholder-question-earnings-call/",
    "source": "Electrek",
    "published": "2026-10-22T21:23:05Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla is building its own maps to fix Navigation issues",
-   "url": "https://www.teslarati.com/tesla-building-its-own-maps-fix-navigation-issues/",
-   "source": "Teslarati",
-   "published": "2026-10-22T21:14:16Z",
    "category": "tesla"
   },
   {
@@ -190,13 +164,6 @@
    "url": "https://www.notateslaapp.com/news/4868/tesla-is-building-its-own-ai-maps-starting-with-fsd-v15",
    "source": "Not a Tesla App",
    "published": "2026-10-22T19:54:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla buyers are buying for Full Self-Driving and not for the car, data shows",
-   "url": "https://www.teslarati.com/tesla-buyers-buying-full-self-driving-not-for-car-data-shows/",
-   "source": "Teslarati",
-   "published": "2026-10-22T17:25:12Z",
    "category": "tesla"
   },
   {
@@ -232,13 +199,6 @@
    "url": "https://www.notateslaapp.com/news/4864/tesla-targets-5m-cars-a-year-by-2030-cybercab-sales-soon",
    "source": "Not a Tesla App",
    "published": "2026-10-22T13:46:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Cybercab gets a for sale date at last",
-   "url": "https://www.teslarati.com/tesla-cybercab-gets-sale-date-at-last/",
-   "source": "Teslarati",
-   "published": "2026-10-22T00:51:48Z",
    "category": "tesla"
   },
   {
@@ -319,13 +279,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla Q3 2026 Earnings results: in-line revenues, slight beat on EPS",
-   "url": "https://www.teslarati.com/tesla-tsla-q3-2026-earnings-results/",
-   "source": "Teslarati",
-   "published": "2026-10-21T20:09:06Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla (TSLA) releases Q3 2026 financial results: margins rebound, profit still falls",
    "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/",
    "source": "Electrek",
@@ -351,13 +304,6 @@
    "url": "https://www.notateslaapp.com/news/4859/tesla-launches-new-app-for-ipad-and-iphone-duo",
    "source": "Not a Tesla App",
    "published": "2026-10-21T17:59:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla reports Q3 Earnings today: here’s what to expect",
-   "url": "https://www.teslarati.com/tesla-tsla-q3-earnings-2026-what-to-expect/",
-   "source": "Teslarati",
-   "published": "2026-10-21T16:56:56Z",
    "category": "tesla"
   },
   {
@@ -505,13 +451,6 @@
    "url": "https://www.notateslaapp.com/news/4849/tesla-is-delaying-some-model-y-l-orders-in-the-us",
    "source": "Not a Tesla App",
    "published": "2026-10-19T12:32:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Musk Confirms Bigger Text Option Coming to Tesla Screens",
-   "url": "https://www.notateslaapp.com/news/4847/musk-confirms-bigger-text-option-coming-to-tesla-screens",
-   "source": "Not a Tesla App",
-   "published": "2026-10-18T19:42:00Z",
    "category": "tesla"
   }
  ]
