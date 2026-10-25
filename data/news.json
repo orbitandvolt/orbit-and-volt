@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-10-25T14:20:50Z",
- "count": 76,
+ "generated_at": "2026-10-25T17:49:29Z",
+ "count": 73,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla makes good on its Cybercab promise in just two weeks",
+   "url": "https://www.teslarati.com/tesla-cybercab-rear-view-camera/",
+   "source": "Teslarati",
+   "published": "2026-10-25T14:34:00Z",
+   "category": "tesla"
+  },
   {
    "title": "NHTSA Proposes Cyan Lights for Driverless Cars Like Cybercab",
    "url": "https://www.notateslaapp.com/news/4892/nhtsa-proposes-cyan-lights-for-driverless-cars-like-cybercab",
@@ -354,13 +361,6 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX confirms Starship 15 launch window with massive ambitions",
-   "url": "https://www.teslarati.com/spacex-confirms-starship-15-launch-window-massive-ambitions/",
-   "source": "Teslarati",
-   "published": "2026-10-21T15:15:35Z",
-   "category": "spacex"
-  },
-  {
    "title": "When will SpaceX and Blue Origin fly to the moon? NASA reveals lunar lander timelines (and an Artemis III update)",
    "url": "https://www.space.com/space-exploration/artemis/when-will-spacex-and-blue-origin-fly-to-the-moon-nasa-reveals-lunar-lander-timelines-and-an-artemis-iii-update",
    "source": "Space.com",
@@ -512,27 +512,6 @@
    "url": "https://www.notateslaapp.com/news/4847/musk-confirms-bigger-text-option-coming-to-tesla-screens",
    "source": "Not a Tesla App",
    "published": "2026-10-18T19:42:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "SpaceX launches Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
-   "url": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
-   "source": "Spaceflight Now",
-   "published": "2026-10-18T16:32:02Z",
-   "category": "spacex"
-  },
-  {
-   "title": "SpaceX working through Starship Flight 15 and 16 milestones",
-   "url": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
-   "source": "NASASpaceflight",
-   "published": "2026-10-18T16:31:04Z",
-   "category": "spacex"
-  },
-  {
-   "title": "The Best Tesla Frunk (Trunk) or Treat Ideas & Halloween Decorations",
-   "url": "https://www.notateslaapp.com/news/2199/the-best-tesla-frunk-trunk-or-treat-ideas-halloween-decorations",
-   "source": "Not a Tesla App",
-   "published": "2026-10-18T16:22:00Z",
    "category": "tesla"
   }
  ]
