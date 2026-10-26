@@ -1,8 +1,43 @@
 {
- "generated_at": "2026-10-26T07:43:27Z",
- "count": 74,
+ "generated_at": "2026-10-26T15:07:23Z",
+ "count": 75,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla expands Robotaxi geofence in Houston with an ode to SpaceX merger",
+   "url": "https://www.teslarati.com/tesla-expands-robotaxi-geofence-houston-spacex/",
+   "source": "Teslarati",
+   "published": "2026-10-26T15:02:45Z",
+   "category": "both"
+  },
+  {
+   "title": "Tesla Robotaxi App Now Supports iPad, iPhone Duo and Improved Live Activities",
+   "url": "https://www.notateslaapp.com/news/4896/tesla-adds-ipad-iphone-duo-support-to-robotaxi-app",
+   "source": "Not a Tesla App",
+   "published": "2026-10-26T14:58:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla and SpaceX Form Special Committees to Discuss Potential Merger",
+   "url": "https://www.notateslaapp.com/news/4899/tesla-and-spacex-form-special-committees-to-discuss-potential-merger",
+   "source": "Not a Tesla App",
+   "published": "2026-10-26T14:02:00Z",
+   "category": "both"
+  },
+  {
+   "title": "Tesla App Lead Talks Upcoming Features: Mac App, More Vehicle Controls and Immersive Powerwall View",
+   "url": "https://www.notateslaapp.com/news/4897/tesla-app-lead-talks-upcoming-features-mac-app-more-vehicle-controls-and-immersive-powerwall-view",
+   "source": "Not a Tesla App",
+   "published": "2026-10-26T13:18:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+   "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
+   "source": "SpaceNews",
+   "published": "2026-10-26T13:00:00Z",
+   "category": "spacex"
+  },
   {
    "title": "Tesla Cybercabs take over Austin’s F1 weekend",
    "url": "https://www.teslarati.com/tesla-cybercabs-take-over-austins-f1-weekend/",
@@ -340,13 +375,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla Q3 2026 Earnings results: in-line revenues, slight beat on EPS",
-   "url": "https://www.teslarati.com/tesla-tsla-q3-2026-earnings-results/",
-   "source": "Teslarati",
-   "published": "2026-10-21T20:09:06Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla (TSLA) releases Q3 2026 financial results: margins rebound, profit still falls",
    "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/",
    "source": "Electrek",
@@ -498,27 +526,6 @@
    "url": "https://www.notateslaapp.com/news/4850/tesla-roadster-all-the-details-you-may-not-know",
    "source": "Not a Tesla App",
    "published": "2026-10-19T15:58:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "The Roadster Will Have Tesla’s Most Advanced Battery Pack Yet",
-   "url": "https://insideevs.com/news/812290/tesla-roadster-ev-battery-details/",
-   "source": "InsideEVs",
-   "published": "2026-10-19T14:42:41Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla (TSLA) proxy shows a board getting ready for a SpaceX merger",
-   "url": "https://electrek.co/2026/10/19/tesla-tsla-proxy-annual-meeting-spacex-merger/",
-   "source": "Electrek",
-   "published": "2026-10-19T14:07:33Z",
-   "category": "both"
-  },
-  {
-   "title": "Tesla is Delaying Some Model Y L Orders in the U.S.",
-   "url": "https://www.notateslaapp.com/news/4849/tesla-is-delaying-some-model-y-l-orders-in-the-us",
-   "source": "Not a Tesla App",
-   "published": "2026-10-19T12:32:00Z",
    "category": "tesla"
   }
  ]
