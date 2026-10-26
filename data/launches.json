@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-26T15:07:23Z",
+ "generated_at": "2026-10-26T20:43:38Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
    "name": "Falcon 9 Block 5 | Starlink Group 15-16",
    "mission": "Starlink Group 15-16",
-   "net": "2026-10-27T04:45:00Z",
-   "precision": "MIN",
+   "net": "2026-10-27T05:46:37Z",
+   "precision": "SEC",
    "status": "Go",
    "status_name": "Go for Launch",
    "pad": "Space Launch Complex 4E",
@@ -16,6 +16,16 @@
    "name": "Falcon 9 Block 5 | Starlink Group 15-18",
    "mission": "Starlink Group 15-18",
    "net": "2026-10-30T04:02:00Z",
+   "precision": "MIN",
+   "status": "Go",
+   "status_name": "Go for Launch",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | USSF-432",
+   "mission": "USSF-432",
+   "net": "2026-11-02T01:56:00Z",
    "precision": "MIN",
    "status": "Go",
    "status_name": "Go for Launch",
@@ -33,16 +43,6 @@
    "location": "Vandenberg SFB, CA, USA"
   },
   {
-   "name": "Falcon 9 Block 5 | NROL-195",
-   "mission": "NROL-195",
-   "net": "2026-11-05T22:34:00Z",
-   "precision": "MIN",
-   "status": "TBC",
-   "status_name": "To Be Confirmed",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA"
-  },
-  {
    "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
    "mission": "Cygnus CRS-2 NG-25",
    "net": "2026-11-30T00:00:00Z",
@@ -51,6 +51,16 @@
    "status_name": "To Be Determined",
    "pad": "Space Launch Complex 40",
    "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | NROL-195",
+   "mission": "NROL-195",
+   "net": "2026-11-30T00:00:00Z",
+   "precision": "M",
+   "status": "TBD",
+   "status_name": "To Be Determined",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA"
   },
   {
    "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D",
@@ -105,16 +115,6 @@
   {
    "name": "Falcon 9 Block 5 | CHORUS",
    "mission": "CHORUS",
-   "net": "2026-12-31T00:00:00Z",
-   "precision": "Q4",
-   "status": "TBD",
-   "status_name": "To Be Determined",
-   "pad": "Unknown Pad",
-   "location": "Cape Canaveral SFS, FL, USA"
-  },
-  {
-   "name": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
-   "mission": "Inmarsat-7 F1 (GX-7)",
    "net": "2026-12-31T00:00:00Z",
    "precision": "Q4",
    "status": "TBD",

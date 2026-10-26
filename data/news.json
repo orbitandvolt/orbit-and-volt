@@ -1,8 +1,50 @@
 {
- "generated_at": "2026-10-26T15:07:23Z",
+ "generated_at": "2026-10-26T20:43:38Z",
  "count": 75,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla And Turo Have A New Way To Get People Hooked On FSD",
+   "url": "https://insideevs.com/news/813307/tesla-turo-fsd-tie-up/",
+   "source": "InsideEVs",
+   "published": "2026-10-26T19:24:29Z",
+   "category": "tesla"
+  },
+  {
+   "title": "How SpaceX Is raising Raptor’s sea-level thrust while holding engine mass steady",
+   "url": "https://www.teslarati.com/spacex-raising-raptor-sea-level-thrust-engine-mass-steady/",
+   "source": "Teslarati",
+   "published": "2026-10-26T18:36:44Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla makes another joke of its Robotaxi geofence expansion",
+   "url": "https://electrek.co/2026/10/26/tesla-robotaxi-houston-geofence-expansion-shape/",
+   "source": "Electrek",
+   "published": "2026-10-26T17:23:44Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla turns to car rental platform Turo for Full Self-Driving test drives",
+   "url": "https://electrek.co/2026/10/26/tesla-turo-full-self-driving-test-drives/",
+   "source": "Electrek",
+   "published": "2026-10-26T16:22:31Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX ignites giant Super Heavy booster engines ahead of daring Starship launch (video)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-giant-super-heavy-booster-engines-ahead-of-daring-starship-launch-video",
+   "source": "Space.com",
+   "published": "2026-10-26T16:00:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Assisted Driving expands to tenth EU country",
+   "url": "https://www.teslarati.com/tesla-expands-fsd-tad-tenth-eu-country/",
+   "source": "Teslarati",
+   "published": "2026-10-26T15:48:45Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla expands Robotaxi geofence in Houston with an ode to SpaceX merger",
    "url": "https://www.teslarati.com/tesla-expands-robotaxi-geofence-houston-spacex/",
@@ -37,6 +79,13 @@
    "source": "SpaceNews",
    "published": "2026-10-26T13:00:00Z",
    "category": "spacex"
+  },
+  {
+   "title": "The BMW iX3 Destroyed The Rivian R2 In A Highway Range Test",
+   "url": "https://insideevs.com/news/813217/bmw-ix3-rivia-r2-highway/",
+   "source": "InsideEVs",
+   "published": "2026-10-26T10:38:47Z",
+   "category": "tesla"
   },
   {
    "title": "Tesla Cybercabs take over Austin’s F1 weekend",
@@ -249,13 +298,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla buyers are buying for Full Self-Driving and not for the car, data shows",
-   "url": "https://www.teslarati.com/tesla-buyers-buying-full-self-driving-not-for-car-data-shows/",
-   "source": "Teslarati",
-   "published": "2026-10-22T17:25:12Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla Q3 2026 Earnings Call Recap: Everything You Need to Know",
    "url": "https://www.notateslaapp.com/news/4867/tesla-q3-2026-earnings-call-recap-everything-you-need-to-know",
    "source": "Not a Tesla App",
@@ -288,13 +330,6 @@
    "url": "https://www.notateslaapp.com/news/4864/tesla-targets-5m-cars-a-year-by-2030-cybercab-sales-soon",
    "source": "Not a Tesla App",
    "published": "2026-10-22T13:46:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Cybercab gets a for sale date at last",
-   "url": "https://www.teslarati.com/tesla-cybercab-gets-sale-date-at-last/",
-   "source": "Teslarati",
-   "published": "2026-10-22T00:51:48Z",
    "category": "tesla"
   },
   {
@@ -473,13 +508,6 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever (video)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission",
-   "source": "Space.com",
-   "published": "2026-10-20T11:16:37Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla FSD v14.3.13 and FSD v14.3 Lite Release Notes (Update 2026.38.5.10)",
    "url": "https://www.notateslaapp.com/software-updates/version/2026.38.5.10/release-notes",
    "source": "Not a Tesla App",
@@ -498,34 +526,6 @@
    "url": "https://electrek.co/2026/10/19/flying-flipping-tesla-roadster-delivered-on-style-these-evs-deliver-on-substance/",
    "source": "Electrek",
    "published": "2026-10-19T22:57:37Z",
-   "category": "tesla"
-  },
-  {
-   "title": "New 'Blade Runner 2099' trailer is a space fan's dream with sinister starships and strange exoplanets (video)",
-   "url": "https://www.space.com/entertainment/space-movies-shows/new-blade-runner-2099-trailer-is-a-space-fans-dream-with-sinister-starships-and-strange-exoplanets-video",
-   "source": "Space.com",
-   "published": "2026-10-19T22:00:00Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Used EVs Hit A Record Share Of Overall Used Car Sales In September",
-   "url": "https://insideevs.com/news/812497/record-used-ev-sales-september-2026/",
-   "source": "InsideEVs",
-   "published": "2026-10-19T19:39:35Z",
-   "category": "tesla"
-  },
-  {
-   "title": "What If Tesla's Parked Vehicle Screen Matched Your Real Surroundings?",
-   "url": "https://www.notateslaapp.com/news/4852/what-if-teslas-parked-vehicle-screen-matched-your-surroundings",
-   "source": "Not a Tesla App",
-   "published": "2026-10-19T16:49:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla's New Roadster: All the Details You May Not Know",
-   "url": "https://www.notateslaapp.com/news/4850/tesla-roadster-all-the-details-you-may-not-know",
-   "source": "Not a Tesla App",
-   "published": "2026-10-19T15:58:00Z",
    "category": "tesla"
   }
  ]
