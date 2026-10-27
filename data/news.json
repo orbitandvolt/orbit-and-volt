@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-10-27T00:22:01Z",
- "count": 78,
+ "generated_at": "2026-10-27T05:31:52Z",
+ "count": 79,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla has a Cybercab problem nobody saw coming",
+   "url": "https://www.teslarati.com/tesla-has-a-cybercab-problem-nobody-saw-coming/",
+   "source": "Teslarati",
+   "published": "2026-10-27T04:49:20Z",
+   "category": "tesla"
+  },
+  {
+   "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
+   "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
+   "source": "Spaceflight Now",
+   "published": "2026-10-27T00:50:37Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Designed The Cybercab To Use LFP Cells In The Future",
+   "url": "https://insideevs.com/news/813324/tesla-cybercab-lfp-battery-chemistry/",
+   "source": "InsideEVs",
+   "published": "2026-10-27T00:13:08Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla’s New Houston Robotaxi Area Is Shaped Like a Rocket",
    "url": "https://www.notateslaapp.com/news/4903/teslas-new-houston-robotaxi-area-is-shaped-like-a-rocket",
@@ -298,13 +319,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla is building its own maps to fix Navigation issues",
-   "url": "https://www.teslarati.com/tesla-building-its-own-maps-fix-navigation-issues/",
-   "source": "Teslarati",
-   "published": "2026-10-22T21:14:16Z",
-   "category": "tesla"
-  },
-  {
    "title": "‘Propulsion-Agnostic’: GM Wants To Bring Tesla-Style Software Features To Its Gas SUVs, Too",
    "url": "https://insideevs.com/features/812982/gm-software-platform-powertrain-agnostic/",
    "source": "InsideEVs",
@@ -541,13 +555,6 @@
    "source": "Not a Tesla App",
    "published": "2026-10-20T07:52:54Z",
    "category": "tesla"
-  },
-  {
-   "title": "Falcon 9 launches Bandwagon-5 rideshare mission from Florida",
-   "url": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
-   "source": "NASASpaceflight",
-   "published": "2026-10-20T05:01:48Z",
-   "category": "spacex"
   }
  ]
 }
