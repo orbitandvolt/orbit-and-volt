@@ -1,8 +1,50 @@
 {
- "generated_at": "2026-10-27T10:54:42Z",
- "count": 78,
+ "generated_at": "2026-10-27T16:28:56Z",
+ "count": 80,
  "errors": [],
  "stories": [
+  {
+   "title": "Korean police book 80 Tesla drivers over illegal FSD unlock devices",
+   "url": "https://electrek.co/2026/10/27/tesla-fsd-south-korea-police-80-illegal-unlock-devices/",
+   "source": "Electrek",
+   "published": "2026-10-27T15:43:32Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla’s Optimus Robot Will Soon Plug In Robotaxis to Charge",
+   "url": "https://www.notateslaapp.com/news/4904/teslas-optimus-robot-will-soon-plug-in-robotaxis-to-charge",
+   "source": "Not a Tesla App",
+   "published": "2026-10-27T15:25:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Starlink is ‘biggest competitive advantage,’ but it’s temporary, United CEO says",
+   "url": "https://www.teslarati.com/starlink-biggest-competitive-advantage-its-temporary-united-ceo-says/",
+   "source": "Teslarati",
+   "published": "2026-10-27T15:19:11Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Cybercab’s unorthodox paint process explained",
+   "url": "https://www.teslarati.com/tesla-cybercab-unorthodox-paint-process-explained/",
+   "source": "Teslarati",
+   "published": "2026-10-27T14:42:53Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Musk declares Tesla Robotaxi win over Waymo, but Waymo still drives 7x more",
+   "url": "https://electrek.co/2026/10/27/musk-robotaxi-victory-waymo-austin-miles/",
+   "source": "Electrek",
+   "published": "2026-10-27T14:21:45Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX Falcon 9 launches early morning Starlink mission from California (video)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-16-b1082-ocisly",
+   "source": "Space.com",
+   "published": "2026-10-27T11:04:19Z",
+   "category": "spacex"
+  },
   {
    "title": "Tesla has a Cybercab problem nobody saw coming",
    "url": "https://www.teslarati.com/tesla-has-a-cybercab-problem-nobody-saw-coming/",
@@ -284,25 +326,11 @@
    "category": "tesla"
   },
   {
-   "title": "The Starship moon landing number NASA and Elon Musk can’t agree on",
-   "url": "https://www.teslarati.com/elon-musk-nasa-starship-moon-landing/",
-   "source": "Teslarati",
-   "published": "2026-10-23T03:51:35Z",
-   "category": "spacex"
-  },
-  {
    "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
    "url": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
    "source": "CNBC",
    "published": "2026-10-23T00:46:09Z",
    "category": "spacex"
-  },
-  {
-   "title": "Tesla’s secretive “Project Crystal Sun” gets a big green light in Texas",
-   "url": "https://www.teslarati.com/tesla-project-crystal-sun-texas-approval/",
-   "source": "Teslarati",
-   "published": "2026-10-22T22:26:20Z",
-   "category": "tesla"
   },
   {
    "title": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
@@ -494,13 +522,6 @@
    "category": "both"
   },
   {
-   "title": "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says",
-   "source": "Space.com",
-   "published": "2026-10-20T22:29:46Z",
-   "category": "spacex"
-  },
-  {
    "title": "SpaceX launches Starlink 15-15 mission following a trio of scrubs",
    "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
    "source": "Spaceflight Now",
@@ -541,13 +562,6 @@
    "source": "NASASpaceflight",
    "published": "2026-10-20T17:22:03Z",
    "category": "spacex"
-  },
-  {
-   "title": "Tesla Announces 2026 Shareholder Meeting for Dec. 3",
-   "url": "https://www.notateslaapp.com/news/4853/tesla-announces-2026-shareholder-meeting-for-dec-3",
-   "source": "Not a Tesla App",
-   "published": "2026-10-20T14:10:00Z",
-   "category": "tesla"
   }
  ]
 }
