@@ -1,8 +1,36 @@
 {
- "generated_at": "2026-10-26T20:43:38Z",
- "count": 75,
+ "generated_at": "2026-10-27T00:22:01Z",
+ "count": 78,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla’s New Houston Robotaxi Area Is Shaped Like a Rocket",
+   "url": "https://www.notateslaapp.com/news/4903/teslas-new-houston-robotaxi-area-is-shaped-like-a-rocket",
+   "source": "Not a Tesla App",
+   "published": "2026-10-26T23:32:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Latvia Becomes 10th EU Country to Approve Tesla FSD",
+   "url": "https://www.notateslaapp.com/news/4902/latvia-becomes-10th-eu-country-to-approve-tesla-fsd",
+   "source": "Not a Tesla App",
+   "published": "2026-10-26T21:42:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla appears to be preparing to sell US-built Model 3s in Canada again",
+   "url": "https://electrek.co/2026/10/26/tesla-us-built-model-3-canada-return-584-km/",
+   "source": "Electrek",
+   "published": "2026-10-26T21:18:39Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
+   "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
+   "source": "NASASpaceflight",
+   "published": "2026-10-26T21:11:56Z",
+   "category": "spacex"
+  },
   {
    "title": "Tesla And Turo Have A New Way To Get People Hooked On FSD",
    "url": "https://insideevs.com/news/813307/tesla-turo-fsd-tie-up/",
@@ -95,7 +123,7 @@
    "category": "tesla"
   },
   {
-   "title": "First Look at Tesla's Roadster New User Interface[VIDEO]",
+   "title": "First Look at Tesla's Roadster New User Interface [VIDEO]",
    "url": "https://www.notateslaapp.com/news/4894/tesla-shows-off-new-roadsters-fighter-jet-inspired-ui-video",
    "source": "Not a Tesla App",
    "published": "2026-10-25T19:28:00Z",
@@ -520,13 +548,6 @@
    "source": "NASASpaceflight",
    "published": "2026-10-20T05:01:48Z",
    "category": "spacex"
-  },
-  {
-   "title": "Flying, flipping Tesla Roadster delivered on style, THESE EVs deliver on substance",
-   "url": "https://electrek.co/2026/10/19/flying-flipping-tesla-roadster-delivered-on-style-these-evs-deliver-on-substance/",
-   "source": "Electrek",
-   "published": "2026-10-19T22:57:37Z",
-   "category": "tesla"
   }
  ]
 }
