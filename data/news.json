@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-27T05:31:52Z",
- "count": 79,
+ "generated_at": "2026-10-27T10:54:42Z",
+ "count": 78,
  "errors": [],
  "stories": [
   {
@@ -11,7 +11,7 @@
    "category": "tesla"
   },
   {
-   "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
+   "title": "West Coast Falcon 9 rocket launches 27 Starlink satellites",
    "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
    "source": "Spaceflight Now",
    "published": "2026-10-27T00:50:37Z",
@@ -547,13 +547,6 @@
    "url": "https://www.notateslaapp.com/news/4853/tesla-announces-2026-shareholder-meeting-for-dec-3",
    "source": "Not a Tesla App",
    "published": "2026-10-20T14:10:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla FSD v14.3.13 and FSD v14.3 Lite Release Notes (Update 2026.38.5.10)",
-   "url": "https://www.notateslaapp.com/software-updates/version/2026.38.5.10/release-notes",
-   "source": "Not a Tesla App",
-   "published": "2026-10-20T07:52:54Z",
    "category": "tesla"
   }
  ]

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T05:31:52Z",
+ "generated_at": "2026-10-27T10:54:42Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
@@ -7,8 +7,8 @@
    "mission": "Starlink Group 15-16",
    "net": "2026-10-27T07:25:51Z",
    "precision": "SEC",
-   "status": "Go",
-   "status_name": "Go for Launch",
+   "status": "In Flight",
+   "status_name": "Launch in Flight",
    "pad": "Space Launch Complex 4E",
    "location": "Vandenberg SFB, CA, USA"
   },
