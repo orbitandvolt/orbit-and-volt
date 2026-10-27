@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-10-27T16:28:56Z",
- "count": 80,
+ "generated_at": "2026-10-27T20:56:04Z",
+ "count": 78,
  "errors": [],
  "stories": [
+  {
+   "title": "Goodbye AI4, Hello SI4: Tesla Renames Its FSD Computers",
+   "url": "https://www.notateslaapp.com/news/4910/goodbye-ai4-hello-si4-tesla-renames-its-fsd-computers",
+   "source": "Not a Tesla App",
+   "published": "2026-10-27T20:16:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla App to Add X Money Support for Payments",
+   "url": "https://www.notateslaapp.com/news/4907/tesla-app-to-add-x-money-support-for-payments",
+   "source": "Not a Tesla App",
+   "published": "2026-10-27T17:56:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla App Code Reveals FSD Referral Rewards Are Coming",
+   "url": "https://www.notateslaapp.com/news/4905/tesla-app-code-reveals-fsd-referral-rewards-are-coming",
+   "source": "Not a Tesla App",
+   "published": "2026-10-27T16:55:00Z",
+   "category": "tesla"
+  },
   {
    "title": "Korean police book 80 Tesla drivers over illegal FSD unlock devices",
    "url": "https://electrek.co/2026/10/27/tesla-fsd-south-korea-police-80-illegal-unlock-devices/",
@@ -36,6 +57,13 @@
    "url": "https://electrek.co/2026/10/27/musk-robotaxi-victory-waymo-austin-miles/",
    "source": "Electrek",
    "published": "2026-10-27T14:21:45Z",
+   "category": "tesla"
+  },
+  {
+   "title": "This Cheap Tesla Model S With 135,000 Miles Has A Surprising Amount Of Range Left",
+   "url": "https://insideevs.com/reviews/813410/tesla-model-s-used-emunds/",
+   "source": "InsideEVs",
+   "published": "2026-10-27T13:49:15Z",
    "category": "tesla"
   },
   {
@@ -508,13 +536,6 @@
    "category": "tesla"
   },
   {
-   "title": "When will SpaceX and Blue Origin fly to the moon? NASA reveals lunar lander timelines (and an Artemis III update)",
-   "url": "https://www.space.com/space-exploration/artemis/when-will-spacex-and-blue-origin-fly-to-the-moon-nasa-reveals-lunar-lander-timelines-and-an-artemis-iii-update",
-   "source": "Space.com",
-   "published": "2026-10-21T13:00:00Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla and SpaceX take first step towards merger, would dilute all shareholders",
    "url": "https://electrek.co/2026/10/20/tesla-and-spacex-take-first-step-towards-merger-would-dilute-all-shareholders/",
    "source": "Electrek",
@@ -526,41 +547,6 @@
    "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
    "source": "Spaceflight Now",
    "published": "2026-10-20T21:18:11Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
-   "url": "https://electrek.co/2026/10/20/tesla-tsla-q3-2026-earnings-preview/",
-   "source": "Electrek",
-   "published": "2026-10-20T20:13:48Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Musk to Give Every Kid in the U.S. a Share of SpaceX",
-   "url": "https://www.notateslaapp.com/news/4857/musk-to-give-every-kid-in-the-us-a-share-of-spacex",
-   "source": "Not a Tesla App",
-   "published": "2026-10-20T19:00:00Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Ferrari CEO Praises Tesla, Gives Roadster a Perfect 10/10",
-   "url": "https://www.notateslaapp.com/news/4856/ferrari-ceo-praises-tesla-gives-roadster-a-perfect-1010",
-   "source": "Not a Tesla App",
-   "published": "2026-10-20T18:34:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "The Boring Company Uses Tesla Model 3 Sleds To Shuttle Shipping Containers Through Its Tunnels",
-   "url": "https://insideevs.com/news/812647/boring-company-model-3-freight/",
-   "source": "InsideEVs",
-   "published": "2026-10-20T18:19:44Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week",
-   "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102026/",
-   "source": "NASASpaceflight",
-   "published": "2026-10-20T17:22:03Z",
    "category": "spacex"
   }
  ]
