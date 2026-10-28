@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T13:28:32Z",
+ "generated_at": "2026-10-28T19:03:59Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
@@ -29,6 +29,16 @@
    "precision": "MIN",
    "status": "Go",
    "status_name": "Go for Launch",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | USSF-xxx (\"R-5\")",
+   "mission": "USSF-xxx (\"R-5\")",
+   "net": "2026-11-10T03:03:00Z",
+   "precision": "MIN",
+   "status": "TBC",
+   "status_name": "To Be Confirmed",
    "pad": "Space Launch Complex 4E",
    "location": "Vandenberg SFB, CA, USA"
   },
@@ -105,16 +115,6 @@
   {
    "name": "Falcon 9 Block 5 | CHORUS",
    "mission": "CHORUS",
-   "net": "2026-12-31T00:00:00Z",
-   "precision": "Q4",
-   "status": "TBD",
-   "status_name": "To Be Determined",
-   "pad": "Unknown Pad",
-   "location": "Cape Canaveral SFS, FL, USA"
-  },
-  {
-   "name": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
-   "mission": "Inmarsat-7 F1 (GX-7)",
    "net": "2026-12-31T00:00:00Z",
    "precision": "Q4",
    "status": "TBD",

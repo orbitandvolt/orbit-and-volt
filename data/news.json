@@ -1,8 +1,50 @@
 {
- "generated_at": "2026-10-28T13:28:32Z",
- "count": 77,
+ "generated_at": "2026-10-28T19:03:59Z",
+ "count": 83,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Semi catches fire in California: what we know",
+   "url": "https://www.teslarati.com/tesla-semi-catches-fire-california-what-we-know/",
+   "source": "Teslarati",
+   "published": "2026-10-28T17:36:38Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Semi Catches Fire on the Highway [VIDEOS]",
+   "url": "https://www.notateslaapp.com/news/4912/tesla-semi-catches-fire-on-the-highway-videos",
+   "source": "Not a Tesla App",
+   "published": "2026-10-28T16:26:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Driver Accidentally Uses Emergency Drive Away [VIDEO]",
+   "url": "https://www.notateslaapp.com/news/4911/tesla-driver-accidentally-uses-emergency-drive-away-video",
+   "source": "Not a Tesla App",
+   "published": "2026-10-28T15:20:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla’s rocket-shaped Robotaxi map in Houston is partly ‘fake’",
+   "url": "https://electrek.co/2026/10/28/tesla-robotaxi-houston-rocket-service-area-fake/",
+   "source": "Electrek",
+   "published": "2026-10-28T15:18:25Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla confirms Vietnam entry to take on VinFast and its 36% market share",
+   "url": "https://electrek.co/2026/10/28/tesla-vietnam-entry-vinfast/",
+   "source": "Electrek",
+   "published": "2026-10-28T14:28:21Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Ford casts 5,000 ‘unicastings’ for Fathom EV truck in Tesla-style shift",
+   "url": "https://electrek.co/2026/10/28/ford-fathom-5000-unicastings-tesla-giga-press/",
+   "source": "Electrek",
+   "published": "2026-10-28T13:56:15Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Semi catches fire on I-880 with no crash, closes freeway for 10 hours",
    "url": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
@@ -22,6 +64,20 @@
    "url": "https://www.teslarati.com/tesla-cybercab-battery-pack-design-structure/",
    "source": "Teslarati",
    "published": "2026-10-28T05:15:28Z",
+   "category": "tesla"
+  },
+  {
+   "title": "'A Weird Religious Stance:' GM Exec Says Ditching Radar For Self-Driving 'Ignores Physics'",
+   "url": "https://insideevs.com/news/813467/gm-autonomous-lidar-tesla-criticism/",
+   "source": "InsideEVs",
+   "published": "2026-10-27T22:08:26Z",
+   "category": "tesla"
+  },
+  {
+   "title": "The Tesla Model Y's Structural Battery Was Nearly Impossible To Repair. The Cybercab Fixes That",
+   "url": "https://insideevs.com/news/813446/tesla-cybercab-battery-pack-modules-model-y-structural/",
+   "source": "InsideEVs",
+   "published": "2026-10-27T20:30:45Z",
    "category": "tesla"
   },
   {
@@ -109,7 +165,7 @@
    "category": "spacex"
   },
   {
-   "title": "Tesla Designed The Cybercab To Use LFP Cells In The Future",
+   "title": "Tesla Designed The Cybercab To Use LFP Batteries In The Future",
    "url": "https://insideevs.com/news/813324/tesla-cybercab-lfp-battery-chemistry/",
    "source": "InsideEVs",
    "published": "2026-10-27T00:13:08Z",
@@ -247,13 +303,6 @@
    "source": "NASASpaceflight",
    "published": "2026-10-25T18:21:44Z",
    "category": "spacex"
-  },
-  {
-   "title": "Tesla makes good on its Cybercab promise in just two weeks",
-   "url": "https://www.teslarati.com/tesla-cybercab-rear-view-camera/",
-   "source": "Teslarati",
-   "published": "2026-10-25T14:34:00Z",
-   "category": "tesla"
   },
   {
    "title": "NHTSA Proposes Cyan Lights for Driverless Cars Like Cybercab",
@@ -533,13 +582,6 @@
    "url": "https://www.notateslaapp.com/news/4860/tesla-names-next-robotaxi-cities-shares-miles-driven-safety-data",
    "source": "Not a Tesla App",
    "published": "2026-10-21T19:04:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Launches iPad and iPhone Duo App",
-   "url": "https://www.notateslaapp.com/news/4859/tesla-launches-new-app-for-ipad-and-iphone-duo",
-   "source": "Not a Tesla App",
-   "published": "2026-10-21T17:59:00Z",
    "category": "tesla"
   }
  ]
