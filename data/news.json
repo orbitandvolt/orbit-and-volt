@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-10-28T06:13:20Z",
- "count": 78,
+ "generated_at": "2026-10-28T13:28:32Z",
+ "count": 77,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Semi catches fire on I-880 with no crash, closes freeway for 10 hours",
+   "url": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
+   "source": "Electrek",
+   "published": "2026-10-28T12:34:10Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla’s ‘Emergency Drive Away’ function gets its first use in the real world",
+   "url": "https://www.teslarati.com/tesla-emergency-drive-away-function-first-use-real-world/",
+   "source": "Teslarati",
+   "published": "2026-10-28T12:34:09Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla’s Cybercab battery design could make robotaxis even cheaper",
    "url": "https://www.teslarati.com/tesla-cybercab-battery-pack-design-structure/",
    "source": "Teslarati",
    "published": "2026-10-28T05:15:28Z",
-   "category": "tesla"
-  },
-  {
-   "title": "'A Weird Religious Stance:' GM Exec Says Ditching Radar For Self-Driving 'Ignores Physics'",
-   "url": "https://insideevs.com/news/813467/gm-autonomous-lidar-tesla-criticism/",
-   "source": "InsideEVs",
-   "published": "2026-10-27T22:08:26Z",
-   "category": "tesla"
-  },
-  {
-   "title": "The Tesla Model Y's Structural Battery Was Nearly Impossible To Repair. The Cybercab Fixes That",
-   "url": "https://insideevs.com/news/813446/tesla-cybercab-battery-pack-modules-model-y-structural/",
-   "source": "InsideEVs",
-   "published": "2026-10-27T20:30:45Z",
    "category": "tesla"
   },
   {
@@ -109,7 +109,7 @@
    "category": "spacex"
   },
   {
-   "title": "Tesla Designed The Cybercab To Use LFP Batteries In The Future",
+   "title": "Tesla Designed The Cybercab To Use LFP Cells In The Future",
    "url": "https://insideevs.com/news/813324/tesla-cybercab-lfp-battery-chemistry/",
    "source": "InsideEVs",
    "published": "2026-10-27T00:13:08Z",
@@ -235,7 +235,7 @@
    "category": "tesla"
   },
   {
-   "title": "First Look at Tesla's Roadster New User Interface [VIDEO]",
+   "title": "First Look at Tesla Roadster's New User Interface [VIDEO]",
    "url": "https://www.notateslaapp.com/news/4894/tesla-shows-off-new-roadsters-fighter-jet-inspired-ui-video",
    "source": "Not a Tesla App",
    "published": "2026-10-25T19:28:00Z",
@@ -288,13 +288,6 @@
    "url": "https://www.notateslaapp.com/software-updates/version/2026.38.5.11/release-notes",
    "source": "Not a Tesla App",
    "published": "2026-10-24T08:45:06Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla shows what Roadster drivers will see on screen before thruster activation",
-   "url": "https://www.teslarati.com/tesla-roadster-center-display-ui-ux/",
-   "source": "Teslarati",
-   "published": "2026-10-24T05:05:40Z",
    "category": "tesla"
   },
   {
