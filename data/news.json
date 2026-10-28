@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-10-28T00:27:10Z",
- "count": 79,
+ "generated_at": "2026-10-28T06:13:20Z",
+ "count": 78,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla’s Cybercab battery design could make robotaxis even cheaper",
+   "url": "https://www.teslarati.com/tesla-cybercab-battery-pack-design-structure/",
+   "source": "Teslarati",
+   "published": "2026-10-28T05:15:28Z",
+   "category": "tesla"
+  },
   {
    "title": "'A Weird Religious Stance:' GM Exec Says Ditching Radar For Self-Driving 'Ignores Physics'",
    "url": "https://insideevs.com/news/813467/gm-autonomous-lidar-tesla-criticism/",
@@ -319,13 +326,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla reveals Optimus Academy, where robots teach themselves",
-   "url": "https://www.teslarati.com/tesla-reveals-optimus-academy-where-robots-teach-themselves/",
-   "source": "Teslarati",
-   "published": "2026-10-23T17:11:56Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla Cancels Cybertruck in Australia and New Zealand",
    "url": "https://www.notateslaapp.com/news/4883/tesla-cancels-cybertruck-in-australia-and-new-zealand",
    "source": "Not a Tesla App",
@@ -548,13 +548,6 @@
    "source": "Not a Tesla App",
    "published": "2026-10-21T17:59:00Z",
    "category": "tesla"
-  },
-  {
-   "title": "Tesla and SpaceX take first step towards merger, would dilute all shareholders",
-   "url": "https://electrek.co/2026/10/20/tesla-and-spacex-take-first-step-towards-merger-would-dilute-all-shareholders/",
-   "source": "Electrek",
-   "published": "2026-10-21T03:14:40Z",
-   "category": "both"
   }
  ]
 }
