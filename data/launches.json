@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-28T19:03:59Z",
+ "generated_at": "2026-10-28T23:08:45Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
    "name": "Falcon 9 Block 5 | Starlink Group 15-18",
    "mission": "Starlink Group 15-18",
-   "net": "2026-10-30T04:02:00Z",
+   "net": "2026-10-31T03:48:00Z",
    "precision": "MIN",
    "status": "Go",
    "status_name": "Go for Launch",
@@ -15,7 +15,7 @@
   {
    "name": "Falcon 9 Block 5 | USSF-432",
    "mission": "USSF-432",
-   "net": "2026-11-02T01:56:00Z",
+   "net": "2026-11-03T01:42:00Z",
    "precision": "MIN",
    "status": "Go",
    "status_name": "Go for Launch",
@@ -25,7 +25,7 @@
   {
    "name": "Falcon 9 Block 5 | Starlink Group 15-21",
    "mission": "Starlink Group 15-21",
-   "net": "2026-11-05T02:35:00Z",
+   "net": "2026-11-06T02:21:00Z",
    "precision": "MIN",
    "status": "Go",
    "status_name": "Go for Launch",
@@ -61,6 +61,16 @@
    "status_name": "To Be Determined",
    "pad": "Space Launch Complex 4E",
    "location": "Vandenberg SFB, CA, USA"
+  },
+  {
+   "name": "Starship | Flight 15",
+   "mission": "Flight 15",
+   "net": "2026-11-30T00:00:00Z",
+   "precision": "M",
+   "status": "TBD",
+   "status_name": "To Be Determined",
+   "pad": "Orbital Launch Pad 2",
+   "location": "SpaceX Starbase, TX, USA"
   },
   {
    "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D",
@@ -110,16 +120,6 @@
    "status": "TBD",
    "status_name": "To Be Determined",
    "pad": "Space Launch Complex 40",
-   "location": "Cape Canaveral SFS, FL, USA"
-  },
-  {
-   "name": "Falcon 9 Block 5 | CHORUS",
-   "mission": "CHORUS",
-   "net": "2026-12-31T00:00:00Z",
-   "precision": "Q4",
-   "status": "TBD",
-   "status_name": "To Be Determined",
-   "pad": "Unknown Pad",
    "location": "Cape Canaveral SFS, FL, USA"
   }
  ]

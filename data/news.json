@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-10-28T19:03:59Z",
- "count": 83,
+ "generated_at": "2026-10-28T23:08:45Z",
+ "count": 76,
  "errors": [],
  "stories": [
+  {
+   "title": "Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana",
+   "url": "https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/",
+   "source": "NASASpaceflight",
+   "published": "2026-10-28T21:12:08Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Considered Other Innovative Ways to Color the Cybercab",
+   "url": "https://www.notateslaapp.com/news/4914/tesla-considered-other-innovative-ways-to-color-the-cybercab",
+   "source": "Not a Tesla App",
+   "published": "2026-10-28T20:00:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "New Bill Would Bring Back U.S. EV Tax Credit, Doubled to $15K",
+   "url": "https://www.notateslaapp.com/news/4913/new-bill-would-bring-back-us-ev-tax-credit-doubled-to-15k",
+   "source": "Not a Tesla App",
+   "published": "2026-10-28T19:25:00Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Semi catches fire in California: what we know",
    "url": "https://www.teslarati.com/tesla-semi-catches-fire-california-what-we-know/",
@@ -15,6 +36,13 @@
    "url": "https://www.notateslaapp.com/news/4912/tesla-semi-catches-fire-on-the-highway-videos",
    "source": "Not a Tesla App",
    "published": "2026-10-28T16:26:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Do Those Funky Tesla Wheel Covers Actually Boost Range?",
+   "url": "https://insideevs.com/news/813477/tesla-wheel-cover-boost-range/",
+   "source": "InsideEVs",
+   "published": "2026-10-28T15:27:20Z",
    "category": "tesla"
   },
   {
@@ -505,83 +533,6 @@
    "url": "https://www.notateslaapp.com/software-updates/version/2026.38.5.5/release-notes",
    "source": "Not a Tesla App",
    "published": "2026-10-21T23:29:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla wants to sell you an unusable car with no steering wheel this year",
-   "url": "https://electrek.co/2026/10/21/tesla-wants-to-sell-you-a-useless-car-with-no-steering-wheel-this-year/",
-   "source": "Electrek",
-   "published": "2026-10-21T22:32:50Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
-   "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/",
-   "source": "Electrek",
-   "published": "2026-10-21T22:18:57Z",
-   "category": "tesla"
-  },
-  {
-   "title": "'End Of The Year': Tesla Says Cybercab Customer Deliveries Will Begin Soon",
-   "url": "https://insideevs.com/news/812834/tesla-cybercab-customer-deliveries/",
-   "source": "InsideEVs",
-   "published": "2026-10-21T22:17:21Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla FSD Hits Record Subs, Purchased With 75% of New Orders",
-   "url": "https://www.notateslaapp.com/news/4862/tesla-fsd-hits-record-subs-purchased-with-75-of-new-orders",
-   "source": "Not a Tesla App",
-   "published": "2026-10-21T21:30:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla energy revenue drops 16% as it refunds customers over tariffs",
-   "url": "https://electrek.co/2026/10/21/tesla-energy-revenue-drops-tariff-customer-refunds/",
-   "source": "Electrek",
-   "published": "2026-10-21T21:18:18Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla FSD ‘subscriptions’ hit 1.74M, counted the way Musk’s pay package wants",
-   "url": "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/",
-   "source": "Electrek",
-   "published": "2026-10-21T20:45:18Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla blames battery supply for flat sales, but its prices keep falling",
-   "url": "https://electrek.co/2026/10/21/tesla-battery-supply-limiting-sales-prices-falling/",
-   "source": "Electrek",
-   "published": "2026-10-21T20:39:19Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Q3 Earnings Call: Listen to Replay",
-   "url": "https://www.notateslaapp.com/news/4855/tesla-q3-earnings-call-how-to-listen-what-to-expect",
-   "source": "Not a Tesla App",
-   "published": "2026-10-21T20:26:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla (TSLA) releases Q3 2026 financial results: margins rebound, profit still falls",
-   "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/",
-   "source": "Electrek",
-   "published": "2026-10-21T20:08:17Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Shares Official Roadster Wallpapers for Your Phone",
-   "url": "https://www.notateslaapp.com/news/4861/tesla-shares-official-roadster-wallpapers-for-your-phone",
-   "source": "Not a Tesla App",
-   "published": "2026-10-21T19:33:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Names Next Robotaxi Cities, Shares Miles Driven & Safety Data",
-   "url": "https://www.notateslaapp.com/news/4860/tesla-names-next-robotaxi-cities-shares-miles-driven-safety-data",
-   "source": "Not a Tesla App",
-   "published": "2026-10-21T19:04:00Z",
    "category": "tesla"
   }
  ]
