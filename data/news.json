@@ -1,8 +1,22 @@
 {
- "generated_at": "2026-10-29T16:52:22Z",
- "count": 75,
+ "generated_at": "2026-10-29T21:44:36Z",
+ "count": 71,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Semi Wins Top Gear’s 2027 Tech Award",
+   "url": "https://www.notateslaapp.com/news/4918/tesla-semi-wins-top-gears-2027-tech-award",
+   "source": "Not a Tesla App",
+   "published": "2026-10-29T19:32:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Offers Free Robotaxi Rides for First-Time Riders",
+   "url": "https://www.notateslaapp.com/news/4917/tesla-offers-free-robotaxi-rides-for-first-time-riders",
+   "source": "Not a Tesla App",
+   "published": "2026-10-29T17:54:00Z",
+   "category": "tesla"
+  },
   {
    "title": "FCC green lights SpaceX’s move to a showdown with Verizon and AT&T",
    "url": "https://www.teslarati.com/fcc-green-light-spacex-starlink-mobile-competitor-verizon-att/",
@@ -410,13 +424,6 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (video)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly",
-   "source": "Space.com",
-   "published": "2026-10-23T23:26:41Z",
-   "category": "spacex"
-  },
-  {
    "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
    "url": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
    "source": "CNBC",
@@ -492,41 +499,6 @@
    "source": "NASASpaceflight",
    "published": "2026-10-22T21:55:02Z",
    "category": "spacex"
-  },
-  {
-   "title": "Tesla skipped the most important shareholder question on its earnings call",
-   "url": "https://electrek.co/2026/10/22/tesla-skipped-hw3-shareholder-question-earnings-call/",
-   "source": "Electrek",
-   "published": "2026-10-22T21:23:05Z",
-   "category": "tesla"
-  },
-  {
-   "title": "‘Propulsion-Agnostic’: GM Wants To Bring Tesla-Style Software Features To Its Gas SUVs, Too",
-   "url": "https://insideevs.com/features/812982/gm-software-platform-powertrain-agnostic/",
-   "source": "InsideEVs",
-   "published": "2026-10-22T20:35:10Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla now says it needs its own maps for FSD after years of dismissing maps",
-   "url": "https://electrek.co/2026/10/22/tesla-building-own-maps-fsd-after-mocking-maps/",
-   "source": "Electrek",
-   "published": "2026-10-22T20:03:18Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Is Building Its Own AI-Based Maps, Will Begin Rolling Out In the Next Few Months With FSD v15",
-   "url": "https://www.notateslaapp.com/news/4868/tesla-is-building-its-own-ai-maps-starting-with-fsd-v15",
-   "source": "Not a Tesla App",
-   "published": "2026-10-22T19:54:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Q3 2026 Earnings Call Recap: Everything You Need to Know",
-   "url": "https://www.notateslaapp.com/news/4867/tesla-q3-2026-earnings-call-recap-everything-you-need-to-know",
-   "source": "Not a Tesla App",
-   "published": "2026-10-22T17:20:00Z",
-   "category": "tesla"
   }
  ]
 }
