@@ -1,8 +1,50 @@
 {
- "generated_at": "2026-10-29T09:49:54Z",
- "count": 74,
+ "generated_at": "2026-10-29T16:52:22Z",
+ "count": 75,
  "errors": [],
  "stories": [
+  {
+   "title": "FCC green lights SpaceX’s move to a showdown with Verizon and AT&T",
+   "url": "https://www.teslarati.com/fcc-green-light-spacex-starlink-mobile-competitor-verizon-att/",
+   "source": "Teslarati",
+   "published": "2026-10-29T16:29:50Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Breaks Compatibility With Third-Party V2L Devices",
+   "url": "https://www.notateslaapp.com/news/4916/tesla-breaks-compatibility-with-third-party-v2l-devices",
+   "source": "Not a Tesla App",
+   "published": "2026-10-29T16:17:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Ex-Tesla Autopilot head calls vision-only a ‘weird religious stance’",
+   "url": "https://electrek.co/2026/10/29/ex-tesla-autopilot-head-vision-only-weird-religious-stance/",
+   "source": "Electrek",
+   "published": "2026-10-29T16:10:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX fires up Starship upper stage ahead of landmark Flight 15 test launch (video)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video",
+   "source": "Space.com",
+   "published": "2026-10-29T13:00:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "SpaceX's Starfall capsule delivers cargo for US Air Force in landmark 'point to point' space mission",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starfall-capsule-delivers-cargo-for-us-air-force-in-landmark-point-to-point-space-mission",
+   "source": "Space.com",
+   "published": "2026-10-29T10:00:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla FSD Is Hitting Europe. It's Not Perfect",
+   "url": "https://insideevs.com/news/813661/tesla-full-self-driving-bratislava/",
+   "source": "InsideEVs",
+   "published": "2026-10-29T09:31:24Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla’s Roadster appearance at SpaceX has merger watchers talking",
    "url": "https://www.teslarati.com/tesla-roadster-spacex-hq-display/",
@@ -284,13 +326,6 @@
    "category": "spacex"
   },
   {
-   "title": "Tesla Assisted Driving expands to tenth EU country",
-   "url": "https://www.teslarati.com/tesla-expands-fsd-tad-tenth-eu-country/",
-   "source": "Teslarati",
-   "published": "2026-10-26T15:48:45Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla Robotaxi App Now Supports iPad, iPhone Duo and Improved Live Activities",
    "url": "https://www.notateslaapp.com/news/4896/tesla-adds-ipad-iphone-duo-support-to-robotaxi-app",
    "source": "Not a Tesla App",
@@ -491,34 +526,6 @@
    "url": "https://www.notateslaapp.com/news/4867/tesla-q3-2026-earnings-call-recap-everything-you-need-to-know",
    "source": "Not a Tesla App",
    "published": "2026-10-22T17:20:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla pushes Optimus deliveries to late 2027, says hands still a problem",
-   "url": "https://electrek.co/2026/10/22/tesla-optimus-delivery-late-2027-hands-ai-problems/",
-   "source": "Electrek",
-   "published": "2026-10-22T15:56:42Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Officially Begins Optimus Robot Production; Demo Coming Soon",
-   "url": "https://www.notateslaapp.com/news/4866/tesla-officially-begins-optimus-robot-production",
-   "source": "Not a Tesla App",
-   "published": "2026-10-22T14:38:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla (TSLA) quietly cuts 2026 capex guidance to $20B",
-   "url": "https://electrek.co/2026/10/22/tesla-cuts-2026-capex-guidance-q3-cash-flow/",
-   "source": "Electrek",
-   "published": "2026-10-22T14:00:01Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Says It's Trying to Get Cybercabs to Customers by the End of This Year",
-   "url": "https://www.notateslaapp.com/news/4864/tesla-targets-5m-cars-a-year-by-2030-cybercab-sales-soon",
-   "source": "Not a Tesla App",
-   "published": "2026-10-22T13:46:00Z",
    "category": "tesla"
   }
  ]
