@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-10-30T01:53:54Z",
+ "generated_at": "2026-10-30T08:31:38Z",
  "count": 69,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla made napping in a Robotaxi easier with its latest update",
+   "url": "https://www.teslarati.com/tesla-robotaxi-sleeping-nap-quiet-mode/",
+   "source": "Teslarati",
+   "published": "2026-10-30T03:44:34Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Semi Wins Top Gear’s 2027 Tech Award",
    "url": "https://www.notateslaapp.com/news/4918/tesla-semi-wins-top-gears-2027-tech-award",
@@ -310,13 +317,6 @@
    "source": "InsideEVs",
    "published": "2026-10-26T19:24:29Z",
    "category": "tesla"
-  },
-  {
-   "title": "How SpaceX Is raising Raptor’s sea-level thrust while holding engine mass steady",
-   "url": "https://www.teslarati.com/spacex-raising-raptor-sea-level-thrust-engine-mass-steady/",
-   "source": "Teslarati",
-   "published": "2026-10-26T18:36:44Z",
-   "category": "spacex"
   },
   {
    "title": "Tesla makes another joke of its Robotaxi geofence expansion",
