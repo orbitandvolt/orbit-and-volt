@@ -1,8 +1,36 @@
 {
- "generated_at": "2026-10-30T20:05:24Z",
- "count": 65,
+ "generated_at": "2026-10-30T23:42:36Z",
+ "count": 67,
  "errors": [],
  "stories": [
+  {
+   "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
+   "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
+   "source": "Spaceflight Now",
+   "published": "2026-10-30T22:46:02Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Gwynne Shotwell’s 2M SpaceX Share Gift to Kids Is Underway",
+   "url": "https://www.notateslaapp.com/news/4924/gwynne-shotwells-2m-spacex-share-gift-to-kids-is-underway",
+   "source": "Not a Tesla App",
+   "published": "2026-10-30T22:15:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
+   "url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/",
+   "source": "NASASpaceflight",
+   "published": "2026-10-30T21:53:38Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla’s New FSD Referral Program Is Live: How It Works",
+   "url": "https://www.notateslaapp.com/news/4923/teslas-new-fsd-referral-program-is-live-how-it-works",
+   "source": "Not a Tesla App",
+   "published": "2026-10-30T21:27:00Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Reveals 36 New Supercharger Sites Picked by Owners",
    "url": "https://www.notateslaapp.com/news/4922/tesla-reveals-36-new-supercharger-sites-picked-by-owners",
@@ -361,13 +389,6 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX ignites giant Super Heavy booster engines ahead of daring Starship launch (video)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-giant-super-heavy-booster-engines-ahead-of-daring-starship-launch-video",
-   "source": "Space.com",
-   "published": "2026-10-26T16:00:00Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla Robotaxi App Now Supports iPad, iPhone Duo and Improved Live Activities",
    "url": "https://www.notateslaapp.com/news/4896/tesla-adds-ipad-iphone-duo-support-to-robotaxi-app",
    "source": "Not a Tesla App",
@@ -450,13 +471,6 @@
    "source": "Not a Tesla App",
    "published": "2026-10-24T08:45:06Z",
    "category": "tesla"
-  },
-  {
-   "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
-   "url": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
-   "source": "CNBC",
-   "published": "2026-10-23T20:52:23Z",
-   "category": "spacex"
   }
  ]
 }
