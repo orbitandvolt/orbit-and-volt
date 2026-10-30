@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-10-30T15:18:02Z",
- "count": 66,
+ "generated_at": "2026-10-30T20:05:24Z",
+ "count": 65,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Reveals 36 New Supercharger Sites Picked by Owners",
+   "url": "https://www.notateslaapp.com/news/4922/tesla-reveals-36-new-supercharger-sites-picked-by-owners",
+   "source": "Not a Tesla App",
+   "published": "2026-10-30T19:23:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla's Cybercab Is Built In A Radical New Way. Here's How It Works",
+   "url": "https://insideevs.com/news/813774/tesla-cybercab-factory-munro-live/",
+   "source": "InsideEVs",
+   "published": "2026-10-30T15:57:11Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Italy Backs EU-Wide Tesla FSD Approval After Salvini Speaks With Elon Musk",
+   "url": "https://www.notateslaapp.com/news/4921/italy-backs-eu-wide-tesla-fsd-approval-after-salvini-speaks-with-elon-musk",
+   "source": "Not a Tesla App",
+   "published": "2026-10-30T15:56:00Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Extends Robotaxi Hours to 2 AM, Adds New Calm Mode That Hides FSD Visuals",
    "url": "https://www.notateslaapp.com/news/4920/tesla-extends-robotaxi-hours-to-2-am-adds-new-calm-mode-that-hides-fsd-visuals",
@@ -436,34 +457,6 @@
    "source": "CNBC",
    "published": "2026-10-23T20:52:23Z",
    "category": "spacex"
-  },
-  {
-   "title": "Tesla Supercharger Prices Are Up 15% in the Last Year",
-   "url": "https://www.notateslaapp.com/news/4885/tesla-supercharger-prices-are-up-15-in-the-last-year",
-   "source": "Not a Tesla App",
-   "published": "2026-10-23T18:49:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
-   "url": "https://insideevs.com/news/813113/tesla-cybertruck-australia-canceled/",
-   "source": "InsideEVs",
-   "published": "2026-10-23T17:13:54Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Cancels Cybertruck in Australia and New Zealand",
-   "url": "https://www.notateslaapp.com/news/4883/tesla-cancels-cybertruck-in-australia-and-new-zealand",
-   "source": "Not a Tesla App",
-   "published": "2026-10-23T16:26:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla to Launch Unsupervised FSD, Let Owners Join Robotaxi Network in Q2 2027",
-   "url": "https://www.notateslaapp.com/news/4879/tesla-to-launch-unsupervised-fsd-let-owners-join-robotaxi-network-in-q2-2027",
-   "source": "Not a Tesla App",
-   "published": "2026-10-23T15:31:00Z",
-   "category": "tesla"
   }
  ]
 }
