@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T21:44:36Z",
- "count": 71,
+ "generated_at": "2026-10-30T01:53:54Z",
+ "count": 69,
  "errors": [],
  "stories": [
   {
@@ -485,20 +485,6 @@
    "source": "Not a Tesla App",
    "published": "2026-10-23T09:35:00Z",
    "category": "tesla"
-  },
-  {
-   "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
-   "url": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
-   "source": "CNBC",
-   "published": "2026-10-23T00:46:09Z",
-   "category": "spacex"
-  },
-  {
-   "title": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
-   "url": "https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/",
-   "source": "NASASpaceflight",
-   "published": "2026-10-22T21:55:02Z",
-   "category": "spacex"
   }
  ]
 }
