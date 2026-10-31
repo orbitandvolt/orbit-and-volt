@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-10-31T20:15:44Z",
- "count": 68,
+ "generated_at": "2026-10-31T23:40:16Z",
+ "count": 66,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Driver in Mexico Makes His Model Y Fly [VIDEO]",
+   "url": "https://www.notateslaapp.com/news/4929/tesla-driver-in-mexico-makes-his-model-y-fly-video",
+   "source": "Not a Tesla App",
+   "published": "2026-10-31T20:25:00Z",
+   "category": "tesla"
+  },
   {
    "title": "What Happens If You Use Tesla's Emergency Drive Away Feature",
    "url": "https://www.notateslaapp.com/news/4928/what-happens-if-you-use-teslas-emergency-drive-away-feature",
@@ -18,7 +25,7 @@
    "category": "tesla"
   },
   {
-   "title": "One Year Without EV Tax Credits: 4 Key Takeaways",
+   "title": "After A Year Without Tax Credits, EVs Are Down But Not Out",
    "url": "https://insideevs.com/features/813947/after-a-year-without-tax-credits-evs-are-down-not-out/",
    "source": "InsideEVs",
    "published": "2026-10-31T11:00:00Z",
@@ -457,27 +464,6 @@
    "source": "NASASpaceflight",
    "published": "2026-10-25T18:21:44Z",
    "category": "spacex"
-  },
-  {
-   "title": "NHTSA Proposes Cyan Lights for Driverless Cars Like Cybercab",
-   "url": "https://www.notateslaapp.com/news/4892/nhtsa-proposes-cyan-lights-for-driverless-cars-like-cybercab",
-   "source": "Not a Tesla App",
-   "published": "2026-10-24T23:23:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "New Tesla Roadster Now on Display at LA’s Petersen Museum",
-   "url": "https://www.notateslaapp.com/news/4891/new-tesla-roadster-now-on-display-at-las-petersen-museum",
-   "source": "Not a Tesla App",
-   "published": "2026-10-24T21:53:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Intel to Make Mystery Chip for Tesla: AI6 or Something New?",
-   "url": "https://www.notateslaapp.com/news/4887/intel-to-make-mystery-chip-for-tesla-ai6-or-something-new",
-   "source": "Not a Tesla App",
-   "published": "2026-10-24T20:34:00Z",
-   "category": "tesla"
   }
  ]
 }
