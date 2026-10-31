@@ -1,10 +1,17 @@
 {
- "generated_at": "2026-10-31T11:10:17Z",
+ "generated_at": "2026-10-31T16:18:13Z",
  "count": 67,
  "errors": [],
  "stories": [
   {
-   "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California",
+   "title": "After A Year Without Tax Credits, EVs Are Down But Not Out",
+   "url": "https://insideevs.com/features/813947/after-a-year-without-tax-credits-evs-are-down-not-out/",
+   "source": "InsideEVs",
+   "published": "2026-10-31T11:00:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California (video)",
    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
    "source": "Space.com",
    "published": "2026-10-31T05:24:11Z",
@@ -18,7 +25,7 @@
    "category": "spacex"
   },
   {
-   "title": "SpaceX closes out October with Halloween eve Falcon 9 launch, 700th Falcon 9 launch to date",
+   "title": "SpaceX closes out October with 700th Falcon 9 launch to date",
    "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
    "source": "Spaceflight Now",
    "published": "2026-10-30T22:46:02Z",
@@ -324,13 +331,6 @@
    "source": "InsideEVs",
    "published": "2026-10-27T13:49:15Z",
    "category": "tesla"
-  },
-  {
-   "title": "SpaceX Falcon 9 launches early morning Starlink mission from California (video)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-16-b1082-ocisly",
-   "source": "Space.com",
-   "published": "2026-10-27T11:04:19Z",
-   "category": "spacex"
   },
   {
    "title": "West Coast Falcon 9 rocket launches 27 Starlink satellites",
