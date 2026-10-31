@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-10-31T05:26:11Z",
+ "generated_at": "2026-10-31T11:10:17Z",
  "count": 67,
  "errors": [],
  "stories": [
+  {
+   "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
+   "source": "Space.com",
+   "published": "2026-10-31T05:24:11Z",
+   "category": "spacex"
+  },
   {
    "title": "SpaceX President to gift Trump Accounts her SpaceX stock",
    "url": "https://www.teslarati.com/spacexs-gwynne-shotwell-stocks-trump-accounts/",
@@ -463,13 +470,6 @@
    "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.3/release-notes",
    "source": "Not a Tesla App",
    "published": "2026-10-24T16:59:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla FSD v14.3.13 & FSD v14.3 Lite Release Notes (Update 2026.38.5.10)",
-   "url": "https://www.notateslaapp.com/software-updates/version/2026.38.5.11/release-notes",
-   "source": "Not a Tesla App",
-   "published": "2026-10-24T08:45:06Z",
    "category": "tesla"
   }
  ]
