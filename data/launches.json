@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-10-30T23:42:36Z",
+ "generated_at": "2026-10-31T05:26:11Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
    "name": "Falcon 9 Block 5 | Starlink Group 15-18",
    "mission": "Starlink Group 15-18",
-   "net": "2026-10-31T04:02:22Z",
+   "net": "2026-10-31T04:04:34Z",
    "precision": "SEC",
-   "status": "Go",
-   "status_name": "Go for Launch",
+   "status": "Success",
+   "status_name": "Launch Successful",
    "pad": "Space Launch Complex 4E",
    "location": "Vandenberg SFB, CA, USA"
   },

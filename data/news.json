@@ -1,10 +1,17 @@
 {
- "generated_at": "2026-10-30T23:42:36Z",
+ "generated_at": "2026-10-31T05:26:11Z",
  "count": 67,
  "errors": [],
  "stories": [
   {
-   "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
+   "title": "SpaceX President to gift Trump Accounts her SpaceX stock",
+   "url": "https://www.teslarati.com/spacexs-gwynne-shotwell-stocks-trump-accounts/",
+   "source": "Teslarati",
+   "published": "2026-10-31T04:28:52Z",
+   "category": "spacex"
+  },
+  {
+   "title": "SpaceX closes out October with Halloween eve Falcon 9 launch, 700th Falcon 9 launch to date",
    "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
    "source": "Spaceflight Now",
    "published": "2026-10-30T22:46:02Z",
@@ -296,13 +303,6 @@
    "source": "Teslarati",
    "published": "2026-10-27T15:19:11Z",
    "category": "spacex"
-  },
-  {
-   "title": "Tesla Cybercab’s unorthodox paint process explained",
-   "url": "https://www.teslarati.com/tesla-cybercab-unorthodox-paint-process-explained/",
-   "source": "Teslarati",
-   "published": "2026-10-27T14:42:53Z",
-   "category": "tesla"
   },
   {
    "title": "Musk declares Tesla Robotaxi win over Waymo, but Waymo still drives 7x more",
