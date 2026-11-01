@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-10-31T23:40:16Z",
+ "generated_at": "2026-11-01T05:51:57Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
-  {
-   "name": "Falcon 9 Block 5 | Starlink Group 15-18",
-   "mission": "Starlink Group 15-18",
-   "net": "2026-10-31T04:04:34Z",
-   "precision": "SEC",
-   "status": "Success",
-   "status_name": "Launch Successful",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA"
-  },
   {
    "name": "Falcon 9 Block 5 | USSF-432",
    "mission": "USSF-432",
@@ -103,16 +93,6 @@
    "location": "Vandenberg SFB, CA, USA"
   },
   {
-   "name": "Falcon Heavy | Griffin Mission One",
-   "mission": "Griffin Mission One",
-   "net": "2026-12-31T00:00:00Z",
-   "precision": "M",
-   "status": "TBD",
-   "status_name": "To Be Determined",
-   "pad": "Launch Complex 39A",
-   "location": "Kennedy Space Center, FL, USA"
-  },
-  {
    "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
    "mission": "BlueBird 14-16 (Block 2 #9-11)",
    "net": "2026-12-31T00:00:00Z",
@@ -120,6 +100,26 @@
    "status": "TBD",
    "status_name": "To Be Determined",
    "pad": "Space Launch Complex 40",
+   "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | CHORUS",
+   "mission": "CHORUS",
+   "net": "2026-12-31T00:00:00Z",
+   "precision": "Q4",
+   "status": "TBD",
+   "status_name": "To Be Determined",
+   "pad": "Unknown Pad",
+   "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
+   "mission": "Inmarsat-7 F1 (GX-7)",
+   "net": "2026-12-31T00:00:00Z",
+   "precision": "Q4",
+   "status": "TBD",
+   "status_name": "To Be Determined",
+   "pad": "Unknown Pad",
    "location": "Cape Canaveral SFS, FL, USA"
   }
  ]
