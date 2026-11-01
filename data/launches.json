@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-01T18:31:36Z",
+ "generated_at": "2026-11-01T22:21:10Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
    "name": "Falcon 9 Block 5 | USSF-432",
    "mission": "USSF-432",
-   "net": "2026-11-03T01:42:00Z",
+   "net": "2026-11-04T01:28:00Z",
    "precision": "MIN",
    "status": "Go",
    "status_name": "Go for Launch",

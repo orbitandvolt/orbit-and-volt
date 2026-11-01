@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-11-01T18:31:36Z",
- "count": 67,
+ "generated_at": "2026-11-01T22:21:10Z",
+ "count": 66,
  "errors": [],
  "stories": [
+  {
+   "title": "Elon Musk calls Earth’s data centers “peanuts” next to what SpaceX is planning in orbit",
+   "url": "https://www.teslarati.com/elon-musk-calls-earths-data-centers-peanuts-next-to-what-spacex-is-planning-in-orbit/",
+   "source": "Teslarati",
+   "published": "2026-11-01T18:31:40Z",
+   "category": "spacex"
+  },
   {
    "title": "This Fan-Made Browser Game Lets You Fly Tesla’s New Roadster",
    "url": "https://www.notateslaapp.com/news/4931/this-fan-made-browser-game-lets-you-fly-teslas-new-roadster",
@@ -347,13 +354,6 @@
    "category": "tesla"
   },
   {
-   "title": "Starlink is ‘biggest competitive advantage,’ but it’s temporary, United CEO says",
-   "url": "https://www.teslarati.com/starlink-biggest-competitive-advantage-its-temporary-united-ceo-says/",
-   "source": "Teslarati",
-   "published": "2026-10-27T15:19:11Z",
-   "category": "spacex"
-  },
-  {
    "title": "Musk declares Tesla Robotaxi win over Waymo, but Waymo still drives 7x more",
    "url": "https://electrek.co/2026/10/27/musk-robotaxi-victory-waymo-austin-miles/",
    "source": "Electrek",
@@ -463,13 +463,6 @@
    "url": "https://insideevs.com/news/813217/bmw-ix3-rivia-r2-highway/",
    "source": "InsideEVs",
    "published": "2026-10-26T10:38:47Z",
-   "category": "tesla"
-  },
-  {
-   "title": "First Look at Tesla Roadster's New User Interface [VIDEO]",
-   "url": "https://www.notateslaapp.com/news/4894/tesla-shows-off-new-roadsters-fighter-jet-inspired-ui-video",
-   "source": "Not a Tesla App",
-   "published": "2026-10-25T19:28:00Z",
    "category": "tesla"
   }
  ]
