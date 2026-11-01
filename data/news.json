@@ -1,8 +1,22 @@
 {
- "generated_at": "2026-11-01T13:11:58Z",
- "count": 66,
+ "generated_at": "2026-11-01T18:31:36Z",
+ "count": 67,
  "errors": [],
  "stories": [
+  {
+   "title": "This Fan-Made Browser Game Lets You Fly Tesla’s New Roadster",
+   "url": "https://www.notateslaapp.com/news/4931/this-fan-made-browser-game-lets-you-fly-teslas-new-roadster",
+   "source": "Not a Tesla App",
+   "published": "2026-11-01T17:00:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla to Update App To Better Handle Android Foldables",
+   "url": "https://www.notateslaapp.com/news/4930/tesla-to-update-app-to-better-handle-android-foldables",
+   "source": "Not a Tesla App",
+   "published": "2026-11-01T15:30:00Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Driver in Mexico Makes His Model Y Fly [VIDEO]",
    "url": "https://www.notateslaapp.com/news/4929/tesla-driver-in-mexico-makes-his-model-y-fly-video",
@@ -457,13 +471,6 @@
    "source": "Not a Tesla App",
    "published": "2026-10-25T19:28:00Z",
    "category": "tesla"
-  },
-  {
-   "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
-   "url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
-   "source": "NASASpaceflight",
-   "published": "2026-10-25T18:21:44Z",
-   "category": "spacex"
   }
  ]
 }
