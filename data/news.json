@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-11-03T02:13:09Z",
- "count": 59,
+ "generated_at": "2026-11-03T09:59:05Z",
+ "count": 58,
  "errors": [],
  "stories": [
+  {
+   "title": "SpaceX’s Starfall just went from secret to storefront",
+   "url": "https://www.teslarati.com/spacexs-starfall-just-went-from-secret-to-storefront/",
+   "source": "Teslarati",
+   "published": "2026-11-03T06:18:47Z",
+   "category": "spacex"
+  },
   {
    "title": "Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites",
    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-110226/",
@@ -29,13 +36,6 @@
    "url": "https://www.notateslaapp.com/news/4935/tesla-drops-new-cybercab-backpack-tees-and-gold-cup",
    "source": "Not a Tesla App",
    "published": "2026-11-02T20:09:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Warned Owners Not To Test Emergency Drive Away. Some Did Anyway.",
-   "url": "https://insideevs.com/news/814089/tesla-supercharger-inspection-drive-away/",
-   "source": "InsideEVs",
-   "published": "2026-11-02T18:40:21Z",
    "category": "tesla"
   },
   {
@@ -295,13 +295,6 @@
    "url": "https://insideevs.com/news/813617/korea-tesla-fsd-jailbreak-arrests/",
    "source": "InsideEVs",
    "published": "2026-10-28T18:00:06Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Semi catches fire in California: what we know",
-   "url": "https://www.teslarati.com/tesla-semi-catches-fire-california-what-we-know/",
-   "source": "Teslarati",
-   "published": "2026-10-28T17:36:38Z",
    "category": "tesla"
   },
   {
