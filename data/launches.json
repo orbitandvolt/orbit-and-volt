@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T17:45:16Z",
+ "generated_at": "2026-11-03T23:13:44Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
@@ -13,12 +13,12 @@
    "location": "Vandenberg SFB, CA, USA"
   },
   {
-   "name": "Falcon 9 Block 5 | USSF-xxx (\"R-5\")",
-   "mission": "USSF-xxx (\"R-5\")",
+   "name": "Falcon 9 Block 5 | USSF-627",
+   "mission": "USSF-627",
    "net": "2026-11-10T03:03:00Z",
    "precision": "MIN",
-   "status": "TBC",
-   "status_name": "To Be Confirmed",
+   "status": "Go",
+   "status_name": "Go for Launch",
    "pad": "Space Launch Complex 4E",
    "location": "Vandenberg SFB, CA, USA"
   },

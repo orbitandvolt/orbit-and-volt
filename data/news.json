@@ -1,8 +1,50 @@
 {
- "generated_at": "2026-11-03T17:45:16Z",
- "count": 57,
+ "generated_at": "2026-11-03T23:13:44Z",
+ "count": 55,
  "errors": [],
  "stories": [
+  {
+   "title": "Your Tesla Runs Cleaner Today Than When You Bought It",
+   "url": "https://www.notateslaapp.com/news/4941/your-tesla-runs-cleaner-today-than-when-you-bought-it",
+   "source": "Not a Tesla App",
+   "published": "2026-11-03T22:09:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Model 3/Y Could Get an Inverter Upgrade From Cybercab",
+   "url": "https://www.notateslaapp.com/news/4939/tesla-model-3y-could-get-an-inverter-upgrade-from-cybercab",
+   "source": "Not a Tesla App",
+   "published": "2026-11-03T20:08:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Full Self-Driving gets hit with some adjustments in Europe",
+   "url": "https://www.teslarati.com/tesla-full-self-driving-gets-hit-with-some-adjustments-europe/",
+   "source": "Teslarati",
+   "published": "2026-11-03T19:46:21Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla shows off Roadster ‘kickflip’ over vehicle lineup in crazy new POV video",
+   "url": "https://www.teslarati.com/tesla-shows-off-roadster-kickflip-new-pov-video/",
+   "source": "Teslarati",
+   "published": "2026-11-03T19:22:34Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla FSD Gets Reduced Speed Offset & More Changes in Europe",
+   "url": "https://www.notateslaapp.com/news/4938/tesla-fsd-gets-reduced-speed-offset-more-changes-in-europe",
+   "source": "Not a Tesla App",
+   "published": "2026-11-03T19:13:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla cuts FSD’s speed margin from 50% to 10% over the limit in Europe",
+   "url": "https://electrek.co/2026/11/03/tesla-assisted-driving-rdw-speed-cap-10-percent-europe/",
+   "source": "Electrek",
+   "published": "2026-11-03T17:55:10Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Cybercab Teardown Reveals Modular Battery, Improved Inverter & More",
    "url": "https://www.notateslaapp.com/news/4937/tesla-cybercab-teardown-reveals-modular-battery-improved-inverter-more",
@@ -263,39 +305,11 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX fires up Starship upper stage ahead of landmark Flight 15 test launch (video)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video",
-   "source": "Space.com",
-   "published": "2026-10-29T13:00:00Z",
-   "category": "spacex"
-  },
-  {
-   "title": "SpaceX's Starfall capsule delivers cargo for US Air Force in landmark 'point to point' space mission",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starfall-capsule-delivers-cargo-for-us-air-force-in-landmark-point-to-point-space-mission",
-   "source": "Space.com",
-   "published": "2026-10-29T10:00:00Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla FSD Is Hitting Europe. It's Not Perfect",
    "url": "https://insideevs.com/news/813661/tesla-full-self-driving-bratislava/",
    "source": "InsideEVs",
    "published": "2026-10-29T09:31:24Z",
    "category": "tesla"
-  },
-  {
-   "title": "Tesla’s Roadster appearance at SpaceX has merger watchers talking",
-   "url": "https://www.teslarati.com/tesla-roadster-spacex-hq-display/",
-   "source": "Teslarati",
-   "published": "2026-10-29T04:56:29Z",
-   "category": "both"
-  },
-  {
-   "title": "Verizon, AT&T and T-Mobile are trying to shut Starlink out before FCC vote",
-   "url": "https://www.teslarati.com/spacex-starlink-fcc-vote-verizon-att/",
-   "source": "Teslarati",
-   "published": "2026-10-28T23:13:18Z",
-   "category": "spacex"
   },
   {
    "title": "Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana",
@@ -372,34 +386,6 @@
    "url": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
    "source": "Electrek",
    "published": "2026-10-28T12:34:10Z",
-   "category": "tesla"
-  },
-  {
-   "title": "'A Weird Religious Stance:' GM Exec Says Ditching Radar For Self-Driving 'Ignores Physics'",
-   "url": "https://insideevs.com/news/813467/gm-autonomous-lidar-tesla-criticism/",
-   "source": "InsideEVs",
-   "published": "2026-10-27T22:08:26Z",
-   "category": "tesla"
-  },
-  {
-   "title": "The Tesla Model Y's Structural Battery Was Nearly Impossible To Repair. The Cybercab Fixes That",
-   "url": "https://insideevs.com/news/813446/tesla-cybercab-battery-pack-modules-model-y-structural/",
-   "source": "InsideEVs",
-   "published": "2026-10-27T20:30:45Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Goodbye AI4, Hello SI4: Tesla Renames Its FSD Computers",
-   "url": "https://www.notateslaapp.com/news/4910/goodbye-ai4-hello-si4-tesla-renames-its-fsd-computers",
-   "source": "Not a Tesla App",
-   "published": "2026-10-27T20:16:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla App to Add X Money Support for Payments",
-   "url": "https://www.notateslaapp.com/news/4907/tesla-app-to-add-x-money-support-for-payments",
-   "source": "Not a Tesla App",
-   "published": "2026-10-27T17:56:00Z",
    "category": "tesla"
   }
  ]
