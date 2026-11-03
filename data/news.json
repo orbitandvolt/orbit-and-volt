@@ -1,8 +1,43 @@
 {
- "generated_at": "2026-11-02T19:44:21Z",
- "count": 61,
+ "generated_at": "2026-11-03T02:13:09Z",
+ "count": 59,
  "errors": [],
  "stories": [
+  {
+   "title": "Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites",
+   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-110226/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-02T22:21:38Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla’s Next Earnings Call Will Have Video, Musk Says",
+   "url": "https://www.notateslaapp.com/news/4936/teslas-next-earnings-call-will-have-video-musk-says",
+   "source": "Not a Tesla App",
+   "published": "2026-11-02T21:09:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Powerwall 3 now boosts heat pumps to store cheap solar as heat",
+   "url": "https://electrek.co/2026/11/02/tesla-powerwall-3-heat-pump-optimization-sg-ready/",
+   "source": "Electrek",
+   "published": "2026-11-02T20:30:29Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Drops New Cybercab Backpack, Tees, and Gold Cup",
+   "url": "https://www.notateslaapp.com/news/4935/tesla-drops-new-cybercab-backpack-tees-and-gold-cup",
+   "source": "Not a Tesla App",
+   "published": "2026-11-02T20:09:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Warned Owners Not To Test Emergency Drive Away. Some Did Anyway.",
+   "url": "https://insideevs.com/news/814089/tesla-supercharger-inspection-drive-away/",
+   "source": "InsideEVs",
+   "published": "2026-11-02T18:40:21Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Cybercab Goes on Tour in Europe: Cities & Dates",
    "url": "https://www.notateslaapp.com/news/4933/tesla-cybercab-goes-on-tour-in-europe-cities-dates",
@@ -319,13 +354,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla’s ‘Emergency Drive Away’ function gets its first use in the real world",
-   "url": "https://www.teslarati.com/tesla-emergency-drive-away-function-first-use-real-world/",
-   "source": "Teslarati",
-   "published": "2026-10-28T12:34:09Z",
-   "category": "tesla"
-  },
-  {
    "title": "'A Weird Religious Stance:' GM Exec Says Ditching Radar For Self-Driving 'Ignores Physics'",
    "url": "https://insideevs.com/news/813467/gm-autonomous-lidar-tesla-criticism/",
    "source": "InsideEVs",
@@ -387,48 +415,6 @@
    "source": "InsideEVs",
    "published": "2026-10-27T13:49:15Z",
    "category": "tesla"
-  },
-  {
-   "title": "West Coast Falcon 9 rocket launches 27 Starlink satellites",
-   "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
-   "source": "Spaceflight Now",
-   "published": "2026-10-27T00:50:37Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Tesla Designed The Cybercab To Use LFP Batteries In The Future",
-   "url": "https://insideevs.com/news/813324/tesla-cybercab-lfp-battery-chemistry/",
-   "source": "InsideEVs",
-   "published": "2026-10-27T00:13:08Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla’s New Houston Robotaxi Area Is Shaped Like a Rocket",
-   "url": "https://www.notateslaapp.com/news/4903/teslas-new-houston-robotaxi-area-is-shaped-like-a-rocket",
-   "source": "Not a Tesla App",
-   "published": "2026-10-26T23:32:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Latvia Becomes 10th EU Country to Approve Tesla FSD",
-   "url": "https://www.notateslaapp.com/news/4902/latvia-becomes-10th-eu-country-to-approve-tesla-fsd",
-   "source": "Not a Tesla App",
-   "published": "2026-10-26T21:42:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla appears to be preparing to sell US-built Model 3s in Canada again",
-   "url": "https://electrek.co/2026/10/26/tesla-us-built-model-3-canada-return-584-km/",
-   "source": "Electrek",
-   "published": "2026-10-26T21:18:39Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
-   "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
-   "source": "NASASpaceflight",
-   "published": "2026-10-26T21:11:56Z",
-   "category": "spacex"
   }
  ]
 }
