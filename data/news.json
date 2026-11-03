@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-11-03T09:59:05Z",
- "count": 58,
+ "generated_at": "2026-11-03T17:45:16Z",
+ "count": 57,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Cybercab Teardown Reveals Modular Battery, Improved Inverter & More",
+   "url": "https://www.notateslaapp.com/news/4937/tesla-cybercab-teardown-reveals-modular-battery-improved-inverter-more",
+   "source": "Not a Tesla App",
+   "published": "2026-11-03T17:29:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla wins trade zone status for Texas Megapacks, but China tariffs stay",
+   "url": "https://electrek.co/2026/11/03/tesla-megapack-texas-foreign-trade-zone-china-tariffs/",
+   "source": "Electrek",
+   "published": "2026-11-03T14:15:23Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Do we know how many Starship launches SpaceX will need to get NASA astronauts to the moon? No. Will its refuelling plan be simple? Also no.",
+   "url": "https://www.space.com/space-exploration/artemis/do-we-know-how-many-starship-launches-spacex-will-need-to-get-nasa-astronauts-to-the-moon-no-will-its-refuelling-plan-be-simple-also-no",
+   "source": "Space.com",
+   "published": "2026-11-03T13:00:00Z",
+   "category": "spacex"
+  },
   {
    "title": "SpaceX’s Starfall just went from secret to storefront",
    "url": "https://www.teslarati.com/spacexs-starfall-just-went-from-secret-to-storefront/",
@@ -36,6 +57,13 @@
    "url": "https://www.notateslaapp.com/news/4935/tesla-drops-new-cybercab-backpack-tees-and-gold-cup",
    "source": "Not a Tesla App",
    "published": "2026-11-02T20:09:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Warned Owners Not To Test Emergency Drive Away. Some Did Anyway.",
+   "url": "https://insideevs.com/news/814089/tesla-supercharger-inspection-drive-away/",
+   "source": "InsideEVs",
+   "published": "2026-11-02T18:40:21Z",
    "category": "tesla"
   },
   {
@@ -372,41 +400,6 @@
    "url": "https://www.notateslaapp.com/news/4907/tesla-app-to-add-x-money-support-for-payments",
    "source": "Not a Tesla App",
    "published": "2026-10-27T17:56:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla App Code Reveals FSD Referral Rewards Are Coming",
-   "url": "https://www.notateslaapp.com/news/4905/tesla-app-code-reveals-fsd-referral-rewards-are-coming",
-   "source": "Not a Tesla App",
-   "published": "2026-10-27T16:55:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Korean police book 80 Tesla drivers over illegal FSD unlock devices",
-   "url": "https://electrek.co/2026/10/27/tesla-fsd-south-korea-police-80-illegal-unlock-devices/",
-   "source": "Electrek",
-   "published": "2026-10-27T15:43:32Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla’s Optimus Robot Will Soon Plug In Robotaxis to Charge",
-   "url": "https://www.notateslaapp.com/news/4904/teslas-optimus-robot-will-soon-plug-in-robotaxis-to-charge",
-   "source": "Not a Tesla App",
-   "published": "2026-10-27T15:25:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Musk declares Tesla Robotaxi win over Waymo, but Waymo still drives 7x more",
-   "url": "https://electrek.co/2026/10/27/musk-robotaxi-victory-waymo-austin-miles/",
-   "source": "Electrek",
-   "published": "2026-10-27T14:21:45Z",
-   "category": "tesla"
-  },
-  {
-   "title": "This Cheap Tesla Model S With 135,000 Miles Has A Surprising Amount Of Range Left",
-   "url": "https://insideevs.com/reviews/813410/tesla-model-s-used-emunds/",
-   "source": "InsideEVs",
-   "published": "2026-10-27T13:49:15Z",
    "category": "tesla"
   }
  ]
