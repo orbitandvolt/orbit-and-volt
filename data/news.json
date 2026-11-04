@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-03T23:13:44Z",
- "count": 55,
- "errors": [],
+ "generated_at": "2026-11-04T03:11:03Z",
+ "count": 53,
+ "errors": [
+  "NASASpaceflight: HTTP Error 403: Forbidden"
+ ],
  "stories": [
   {
    "title": "Your Tesla Runs Cleaner Today Than When You Bought It",
@@ -29,6 +31,13 @@
    "url": "https://www.teslarati.com/tesla-shows-off-roadster-kickflip-new-pov-video/",
    "source": "Teslarati",
    "published": "2026-11-03T19:22:34Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Used EVs Are Selling Like Hotcakes. The Fastest Movers May Surprise You",
+   "url": "https://insideevs.com/news/814282/used-evs-selling-fast/",
+   "source": "InsideEVs",
+   "published": "2026-11-03T19:15:07Z",
    "category": "tesla"
   },
   {
@@ -71,13 +80,6 @@
    "url": "https://www.teslarati.com/spacexs-starfall-just-went-from-secret-to-storefront/",
    "source": "Teslarati",
    "published": "2026-11-03T06:18:47Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites",
-   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-110226/",
-   "source": "NASASpaceflight",
-   "published": "2026-11-02T22:21:38Z",
    "category": "spacex"
   },
   {
@@ -214,13 +216,6 @@
    "category": "spacex"
   },
   {
-   "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
-   "url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/",
-   "source": "NASASpaceflight",
-   "published": "2026-10-30T21:53:38Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla’s New FSD Referral Program Is Live: How It Works",
    "url": "https://www.notateslaapp.com/news/4923/teslas-new-fsd-referral-program-is-live-how-it-works",
    "source": "Not a Tesla App",
@@ -310,13 +305,6 @@
    "source": "InsideEVs",
    "published": "2026-10-29T09:31:24Z",
    "category": "tesla"
-  },
-  {
-   "title": "Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana",
-   "url": "https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/",
-   "source": "NASASpaceflight",
-   "published": "2026-10-28T21:12:08Z",
-   "category": "spacex"
   },
   {
    "title": "Tesla Considered Other Innovative Ways to Color the Cybercab",
