@@ -1,8 +1,57 @@
 {
- "generated_at": "2026-11-04T11:29:55Z",
- "count": 55,
+ "generated_at": "2026-11-04T18:50:40Z",
+ "count": 50,
  "errors": [],
  "stories": [
+  {
+   "title": "Musk’s Tesla and SpaceX decline after Democratic Midterm sweep",
+   "url": "https://www.teslarati.com/musk-tesla-tsla-spacex-spcx-decline-after-democratic-midterm-sweep/",
+   "source": "Teslarati",
+   "published": "2026-11-04T18:49:56Z",
+   "category": "both"
+  },
+  {
+   "title": "Tesla registrations in Germany nearly quadruple in October",
+   "url": "https://www.teslarati.com/tesla-registrations-germany-nearly-quadruple-october/",
+   "source": "Teslarati",
+   "published": "2026-11-04T17:47:52Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX moves to challenge AT&T, Verizon with Qualcomm-powered 5G",
+   "url": "https://www.teslarati.com/spacex-moves-challenge-att-verizon-qualcomm-powered-5g/",
+   "source": "Teslarati",
+   "published": "2026-11-04T16:05:53Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla accused of selling FSD to Korean owners who can’t legally use it",
+   "url": "https://electrek.co/2026/11/04/tesla-fsd-south-korea-consumer-group-complaint-kftc/",
+   "source": "Electrek",
+   "published": "2026-11-04T14:27:02Z",
+   "category": "tesla"
+  },
+  {
+   "title": "What does a blue Texas sweep mean for Tesla, SpaceX & Elon Musk?",
+   "url": "https://electrek.co/2026/11/04/what-does-a-blue-texas-sweep-mean-for-tesla-spacex-elon-musk/",
+   "source": "Electrek",
+   "published": "2026-11-04T14:00:00Z",
+   "category": "both"
+  },
+  {
+   "title": "Tesla 2026 Shareholder Meeting: What’s on the Ballot",
+   "url": "https://www.notateslaapp.com/news/4943/tesla-2026-shareholder-meeting-whats-on-the-ballot",
+   "source": "Not a Tesla App",
+   "published": "2026-11-04T14:00:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
+   "url": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
+   "source": "CNBC",
+   "published": "2026-11-04T13:53:54Z",
+   "category": "spacex"
+  },
   {
    "title": "Your Tesla Runs Cleaner Today Than When You Bought It",
    "url": "https://www.notateslaapp.com/news/4941/your-tesla-runs-cleaner-today-than-when-you-bought-it",
@@ -144,13 +193,6 @@
    "category": "tesla"
   },
   {
-   "title": "Elon Musk calls Earth’s data centers “peanuts” next to what SpaceX is planning in orbit",
-   "url": "https://www.teslarati.com/elon-musk-calls-earths-data-centers-peanuts-next-to-what-spacex-is-planning-in-orbit/",
-   "source": "Teslarati",
-   "published": "2026-11-01T18:31:40Z",
-   "category": "spacex"
-  },
-  {
    "title": "Race and Fly the New Tesla Roadster in New ‘Need for Speed’ Type Game",
    "url": "https://www.notateslaapp.com/news/4931/this-fan-made-browser-game-lets-you-fly-teslas-new-roadster",
    "source": "Not a Tesla App",
@@ -197,13 +239,6 @@
    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
    "source": "Space.com",
    "published": "2026-10-31T05:24:11Z",
-   "category": "spacex"
-  },
-  {
-   "title": "SpaceX President to gift Trump Accounts her SpaceX stock",
-   "url": "https://www.teslarati.com/spacexs-gwynne-shotwell-stocks-trump-accounts/",
-   "source": "Teslarati",
-   "published": "2026-10-31T04:28:52Z",
    "category": "spacex"
   },
   {
@@ -263,20 +298,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla Full Self-Driving becomes main pillar of new Referral Program",
-   "url": "https://www.teslarati.com/tesla-full-self-driving-becomes-main-pillar-new-referral-program/",
-   "source": "Teslarati",
-   "published": "2026-10-30T14:42:52Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla made napping in a Robotaxi easier with its latest update",
-   "url": "https://www.teslarati.com/tesla-robotaxi-sleeping-nap-quiet-mode/",
-   "source": "Teslarati",
-   "published": "2026-10-30T03:44:34Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla Semi Wins Top Gear’s 2027 Tech Award",
    "url": "https://www.notateslaapp.com/news/4918/tesla-semi-wins-top-gears-2027-tech-award",
    "source": "Not a Tesla App",
@@ -330,62 +351,6 @@
    "url": "https://www.notateslaapp.com/news/4913/new-bill-would-bring-back-us-ev-tax-credit-doubled-to-15k",
    "source": "Not a Tesla App",
    "published": "2026-10-28T19:25:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "South Korean Police Are Cracking Down On Tesla Owners Jailbreaking FSD",
-   "url": "https://insideevs.com/news/813617/korea-tesla-fsd-jailbreak-arrests/",
-   "source": "InsideEVs",
-   "published": "2026-10-28T18:00:06Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Semi Catches Fire on the Highway [VIDEOS]",
-   "url": "https://www.notateslaapp.com/news/4912/tesla-semi-catches-fire-on-the-highway-videos",
-   "source": "Not a Tesla App",
-   "published": "2026-10-28T16:26:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Do Those Funky Tesla Wheel Covers Actually Boost Range?",
-   "url": "https://insideevs.com/news/813477/tesla-wheel-cover-boost-range/",
-   "source": "InsideEVs",
-   "published": "2026-10-28T15:27:20Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Driver Accidentally Uses Emergency Drive Away [VIDEO]",
-   "url": "https://www.notateslaapp.com/news/4911/tesla-driver-accidentally-uses-emergency-drive-away-video",
-   "source": "Not a Tesla App",
-   "published": "2026-10-28T15:20:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla’s rocket-shaped Robotaxi map in Houston is partly ‘fake’",
-   "url": "https://electrek.co/2026/10/28/tesla-robotaxi-houston-rocket-service-area-fake/",
-   "source": "Electrek",
-   "published": "2026-10-28T15:18:25Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla confirms Vietnam entry to take on VinFast and its 36% market share",
-   "url": "https://electrek.co/2026/10/28/tesla-vietnam-entry-vinfast/",
-   "source": "Electrek",
-   "published": "2026-10-28T14:28:21Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Ford casts 5,000 ‘unicastings’ for Fathom EV truck in Tesla-style shift",
-   "url": "https://electrek.co/2026/10/28/ford-fathom-5000-unicastings-tesla-giga-press/",
-   "source": "Electrek",
-   "published": "2026-10-28T13:56:15Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Semi catches fire on I-880 with no crash, closes freeway for 10 hours",
-   "url": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
-   "source": "Electrek",
-   "published": "2026-10-28T12:34:10Z",
    "category": "tesla"
   }
  ]
