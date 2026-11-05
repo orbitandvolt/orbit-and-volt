@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T15:46:52Z",
+ "generated_at": "2026-11-05T21:56:00Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
@@ -21,6 +21,16 @@
    "status_name": "Go for Launch",
    "pad": "Space Launch Complex 4E",
    "location": "Vandenberg SFB, CA, USA"
+  },
+  {
+   "name": "Starship | Flight 15",
+   "mission": "Flight 15",
+   "net": "2026-11-13T00:00:00Z",
+   "precision": "DAY",
+   "status": "TBD",
+   "status_name": "To Be Determined",
+   "pad": "Orbital Launch Pad 2",
+   "location": "SpaceX Starbase, TX, USA"
   },
   {
    "name": "Falcon 9 Block 5 | USSF-317",
@@ -73,14 +83,24 @@
    "location": "Vandenberg SFB, CA, USA"
   },
   {
-   "name": "Starship | Flight 15",
-   "mission": "Flight 15",
-   "net": "2026-11-30T00:00:00Z",
+   "name": "Falcon 9 Block 5 | CHORUS",
+   "mission": "CHORUS",
+   "net": "2026-12-31T00:00:00Z",
    "precision": "M",
    "status": "TBD",
    "status_name": "To Be Determined",
-   "pad": "Orbital Launch Pad 2",
-   "location": "SpaceX Starbase, TX, USA"
+   "pad": "Unknown Pad",
+   "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 9)",
+   "mission": "Globalstar 2-R Mission 2 (x 9)",
+   "net": "2026-12-31T00:00:00Z",
+   "precision": "M",
+   "status": "TBD",
+   "status_name": "To Be Determined",
+   "pad": "Space Launch Complex 40",
+   "location": "Cape Canaveral SFS, FL, USA"
   },
   {
    "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D",
@@ -101,26 +121,6 @@
    "status_name": "To Be Determined",
    "pad": "Space Launch Complex 4E",
    "location": "Vandenberg SFB, CA, USA"
-  },
-  {
-   "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
-   "mission": "BlueBird 14-16 (Block 2 #9-11)",
-   "net": "2026-12-31T00:00:00Z",
-   "precision": "Q4",
-   "status": "TBD",
-   "status_name": "To Be Determined",
-   "pad": "Space Launch Complex 40",
-   "location": "Cape Canaveral SFS, FL, USA"
-  },
-  {
-   "name": "Falcon 9 Block 5 | CHORUS",
-   "mission": "CHORUS",
-   "net": "2026-12-31T00:00:00Z",
-   "precision": "Q4",
-   "status": "TBD",
-   "status_name": "To Be Determined",
-   "pad": "Unknown Pad",
-   "location": "Cape Canaveral SFS, FL, USA"
   }
  ]
 }

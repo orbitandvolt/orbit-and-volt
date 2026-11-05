@@ -1,8 +1,64 @@
 {
- "generated_at": "2026-11-05T15:46:52Z",
- "count": 53,
+ "generated_at": "2026-11-05T21:56:00Z",
+ "count": 55,
  "errors": [],
  "stories": [
+  {
+   "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+   "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+   "source": "CNBC",
+   "published": "2026-11-05T21:43:33Z",
+   "category": "both"
+  },
+  {
+   "title": "Tesla's Robotaxi Geofences Are Smaller Than Advertised: Their Actual Sizes",
+   "url": "https://www.notateslaapp.com/news/4953/teslas-robotaxi-geofences-are-smaller-than-advertised-their-actual-sizes",
+   "source": "Not a Tesla App",
+   "published": "2026-11-05T19:58:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Is Now Powering One Of Its Biggest Charging Rivals",
+   "url": "https://insideevs.com/news/814582/tesla-supercharging-ev-go-chicago/",
+   "source": "InsideEVs",
+   "published": "2026-11-05T19:13:57Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla's Kickflipping Roadster Looks Like A Great Way To Lose Your Lunch",
+   "url": "https://insideevs.com/news/814440/tesla-roadster-flip-pov-video/",
+   "source": "InsideEVs",
+   "published": "2026-11-05T18:37:21Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret",
+   "url": "https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/",
+   "source": "Electrek",
+   "published": "2026-11-05T18:32:57Z",
+   "category": "tesla"
+  },
+  {
+   "title": "All of Tesla's Robotaxi Markets and Their Actual Sizes [UPDATED]",
+   "url": "https://www.notateslaapp.com/news/4748/teslas-active-robotaxi-markets-and-their-sizes",
+   "source": "Not a Tesla App",
+   "published": "2026-11-05T18:06:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Introducing Our Tesla Feature Requests Feature, Where Owners Can Submit and Vote on Ideas",
+   "url": "https://www.notateslaapp.com/news/4951/introducing-our-tesla-feature-requests-feature-where-owners-can-submit-and-vote-on-ideas",
+   "source": "Not a Tesla App",
+   "published": "2026-11-05T18:03:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "EVgo taps Tesla Superchargers for mass charging expansion",
+   "url": "https://www.teslarati.com/evgo-taps-tesla-superchargers-mass-charging-expansion/",
+   "source": "Teslarati",
+   "published": "2026-11-05T17:15:30Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Wouldn’t Build a Cybervan, So Hoffman EV Did",
    "url": "https://www.notateslaapp.com/news/4950/tesla-wouldnt-build-a-cybervan-so-hoffman-ev-did",
@@ -134,13 +190,6 @@
    "url": "https://www.teslarati.com/tesla-full-self-driving-gets-hit-with-some-adjustments-europe/",
    "source": "Teslarati",
    "published": "2026-11-03T19:46:21Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla shows off Roadster ‘kickflip’ over vehicle lineup in crazy new POV video",
-   "url": "https://www.teslarati.com/tesla-shows-off-roadster-kickflip-new-pov-video/",
-   "source": "Teslarati",
-   "published": "2026-11-03T19:22:34Z",
    "category": "tesla"
   },
   {
@@ -284,13 +333,6 @@
    "category": "tesla"
   },
   {
-   "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California (video)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
-   "source": "Space.com",
-   "published": "2026-10-31T05:24:11Z",
-   "category": "spacex"
-  },
-  {
    "title": "SpaceX closes out October with 700th Falcon 9 launch to date",
    "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
    "source": "Spaceflight Now",
@@ -344,34 +386,6 @@
    "url": "https://www.notateslaapp.com/news/4920/tesla-extends-robotaxi-hours-to-2-am-adds-new-calm-mode-that-hides-fsd-visuals",
    "source": "Not a Tesla App",
    "published": "2026-10-30T15:17:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Semi Wins Top Gear’s 2027 Tech Award",
-   "url": "https://www.notateslaapp.com/news/4918/tesla-semi-wins-top-gears-2027-tech-award",
-   "source": "Not a Tesla App",
-   "published": "2026-10-29T19:32:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Offers Free Robotaxi Rides for First-Time Riders",
-   "url": "https://www.notateslaapp.com/news/4917/tesla-offers-free-robotaxi-rides-for-first-time-riders",
-   "source": "Not a Tesla App",
-   "published": "2026-10-29T17:54:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Breaks Compatibility With Third-Party V2L Devices",
-   "url": "https://www.notateslaapp.com/news/4916/tesla-breaks-compatibility-with-third-party-v2l-devices",
-   "source": "Not a Tesla App",
-   "published": "2026-10-29T16:17:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Ex-Tesla Autopilot head calls vision-only a ‘weird religious stance’",
-   "url": "https://electrek.co/2026/10/29/ex-tesla-autopilot-head-vision-only-weird-religious-stance/",
-   "source": "Electrek",
-   "published": "2026-10-29T16:10:00Z",
    "category": "tesla"
   }
  ]
