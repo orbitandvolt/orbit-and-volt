@@ -1,8 +1,43 @@
 {
- "generated_at": "2026-11-05T07:19:02Z",
- "count": 50,
+ "generated_at": "2026-11-05T15:46:52Z",
+ "count": 53,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Wouldn’t Build a Cybervan, So Hoffman EV Did",
+   "url": "https://www.notateslaapp.com/news/4950/tesla-wouldnt-build-a-cybervan-so-hoffman-ev-did",
+   "source": "Not a Tesla App",
+   "published": "2026-11-05T15:44:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Giga Texas reportedly moves to 24/7 production",
+   "url": "https://www.teslarati.com/tesla-giga-texas-reportedly-moves-24-7-production/",
+   "source": "Teslarati",
+   "published": "2026-11-05T15:39:26Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Starlink Is Replacing OG ‘Dishy McFlatface’ Dishes for Free",
+   "url": "https://www.notateslaapp.com/news/4949/starlink-is-replacing-og-dishy-mcflatface-dishes-for-free",
+   "source": "Not a Tesla App",
+   "published": "2026-11-05T13:30:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "This Startup Wants To Turn Teslas Into Anything, From 11-Seat Minibuses To Pickups",
+   "url": "https://insideevs.com/news/814513/tesla-custom-ev-bus-pickup-hoffman-badger/",
+   "source": "InsideEVs",
+   "published": "2026-11-05T11:10:07Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla opens new “Cybaer” Engineering Center in Berlin",
+   "url": "https://www.teslarati.com/tesla-berlin-btec-engineering-center/",
+   "source": "Teslarati",
+   "published": "2026-11-05T10:06:27Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Sold FSD To Koreans Who Still Can't Use It. Now It's Facing A Complaint",
    "url": "https://insideevs.com/news/814404/tesla-fsd-south-korea-claims/",
@@ -148,13 +183,6 @@
    "url": "https://www.space.com/space-exploration/artemis/do-we-know-how-many-starship-launches-spacex-will-need-to-get-nasa-astronauts-to-the-moon-no-will-its-refuelling-plan-be-simple-also-no",
    "source": "Space.com",
    "published": "2026-11-03T13:00:00Z",
-   "category": "spacex"
-  },
-  {
-   "title": "SpaceX’s Starfall just went from secret to storefront",
-   "url": "https://www.teslarati.com/spacexs-starfall-just-went-from-secret-to-storefront/",
-   "source": "Teslarati",
-   "published": "2026-11-03T06:18:47Z",
    "category": "spacex"
   },
   {
@@ -344,13 +372,6 @@
    "url": "https://electrek.co/2026/10/29/ex-tesla-autopilot-head-vision-only-weird-religious-stance/",
    "source": "Electrek",
    "published": "2026-10-29T16:10:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla FSD Is Hitting Europe. It's Not Perfect",
-   "url": "https://insideevs.com/news/813661/tesla-full-self-driving-bratislava/",
-   "source": "InsideEVs",
-   "published": "2026-10-29T09:31:24Z",
    "category": "tesla"
   }
  ]
