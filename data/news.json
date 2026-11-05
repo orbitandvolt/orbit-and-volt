@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-11-04T18:50:40Z",
- "count": 50,
+ "generated_at": "2026-11-05T00:19:28Z",
+ "count": 49,
  "errors": [],
  "stories": [
+  {
+   "title": "SpaceX Taps Qualcomm to Build Nationwide Starlink Mobile Network",
+   "url": "https://www.notateslaapp.com/news/4947/spacex-taps-qualcomm-to-build-nationwide-starlink-mobile-network",
+   "source": "Not a Tesla App",
+   "published": "2026-11-04T21:16:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "The Model S Is Gone, but Tesla Just Patented Its Design",
+   "url": "https://www.notateslaapp.com/news/4946/the-model-s-is-gone-but-tesla-just-patented-its-design",
+   "source": "Not a Tesla App",
+   "published": "2026-11-04T20:26:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Is Reportedly Doubling Production at Giga Texas",
+   "url": "https://www.notateslaapp.com/news/4945/tesla-is-reportedly-doubling-production-at-giga-texas",
+   "source": "Not a Tesla App",
+   "published": "2026-11-04T19:01:00Z",
+   "category": "tesla"
+  },
   {
    "title": "Musk’s Tesla and SpaceX decline after Democratic Midterm sweep",
    "url": "https://www.teslarati.com/musk-tesla-tsla-spacex-spcx-decline-after-democratic-midterm-sweep/",
@@ -32,7 +53,7 @@
    "category": "tesla"
   },
   {
-   "title": "What does a blue Texas sweep mean for Tesla, SpaceX & Elon Musk?",
+   "title": "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?",
    "url": "https://electrek.co/2026/11/04/what-does-a-blue-texas-sweep-mean-for-tesla-spacex-elon-musk/",
    "source": "Electrek",
    "published": "2026-11-04T14:00:00Z",
@@ -186,13 +207,6 @@
    "category": "spacex"
   },
   {
-   "title": "Tesla owners who tap Emergency Drive Away for fun are in for a surprise",
-   "url": "https://www.teslarati.com/tesla-emergency-drive-away-service-cost/",
-   "source": "Teslarati",
-   "published": "2026-11-02T05:36:38Z",
-   "category": "tesla"
-  },
-  {
    "title": "Race and Fly the New Tesla Roadster in New ‘Need for Speed’ Type Game",
    "url": "https://www.notateslaapp.com/news/4931/this-fan-made-browser-game-lets-you-fly-teslas-new-roadster",
    "source": "Not a Tesla App",
@@ -330,27 +344,6 @@
    "url": "https://insideevs.com/news/813661/tesla-full-self-driving-bratislava/",
    "source": "InsideEVs",
    "published": "2026-10-29T09:31:24Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana",
-   "url": "https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/",
-   "source": "NASASpaceflight",
-   "published": "2026-10-28T21:12:08Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Tesla Considered Other Innovative Ways to Color the Cybercab",
-   "url": "https://www.notateslaapp.com/news/4914/tesla-considered-other-innovative-ways-to-color-the-cybercab",
-   "source": "Not a Tesla App",
-   "published": "2026-10-28T20:00:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "New Bill Would Bring Back U.S. EV Tax Credit, Doubled to $15K",
-   "url": "https://www.notateslaapp.com/news/4913/new-bill-would-bring-back-us-ev-tax-credit-doubled-to-15k",
-   "source": "Not a Tesla App",
-   "published": "2026-10-28T19:25:00Z",
    "category": "tesla"
   }
  ]
