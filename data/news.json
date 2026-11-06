@@ -1,13 +1,20 @@
 {
- "generated_at": "2026-11-06T02:17:20Z",
+ "generated_at": "2026-11-06T09:47:44Z",
  "count": 55,
  "errors": [],
  "stories": [
   {
+   "title": "SpaceX’s next Starship flight set to make history on Friday the 13th",
+   "url": "https://www.teslarati.com/spacex-starship-catch-nov-13/",
+   "source": "Teslarati",
+   "published": "2026-11-06T06:59:50Z",
+   "category": "spacex"
+  },
+  {
    "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
    "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
    "source": "CNBC",
-   "published": "2026-11-05T22:31:13Z",
+   "published": "2026-11-06T03:20:43Z",
    "category": "both"
   },
   {
@@ -183,13 +190,6 @@
    "url": "https://www.notateslaapp.com/news/4939/tesla-model-3y-could-get-an-inverter-upgrade-from-cybercab",
    "source": "Not a Tesla App",
    "published": "2026-11-03T20:08:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Full Self-Driving gets hit with some adjustments in Europe",
-   "url": "https://www.teslarati.com/tesla-full-self-driving-gets-hit-with-some-adjustments-europe/",
-   "source": "Teslarati",
-   "published": "2026-11-03T19:46:21Z",
    "category": "tesla"
   },
   {
