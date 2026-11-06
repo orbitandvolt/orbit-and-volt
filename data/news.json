@@ -1,8 +1,36 @@
 {
- "generated_at": "2026-11-06T17:25:26Z",
- "count": 62,
+ "generated_at": "2026-11-06T22:20:45Z",
+ "count": 61,
  "errors": [],
  "stories": [
+  {
+   "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
+   "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
+   "source": "Spaceflight Now",
+   "published": "2026-11-06T22:00:39Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Musk: Tesla Will Rent Optimus Robots Instead of Selling Them",
+   "url": "https://www.notateslaapp.com/news/4959/musk-tesla-will-rent-optimus-robots-instead-of-selling-them",
+   "source": "Not a Tesla App",
+   "published": "2026-11-06T20:09:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Everything You Can Control With Grok in Your Tesla",
+   "url": "https://www.notateslaapp.com/news/4958/everything-you-can-control-with-grok-in-your-tesla",
+   "source": "Not a Tesla App",
+   "published": "2026-11-06T17:41:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "It’s Official: The Cybertruck Is One Of The Greatest Flops In Automotive History",
+   "url": "https://insideevs.com/features/814702/tesla-cybertruck-failure/",
+   "source": "InsideEVs",
+   "published": "2026-11-06T17:29:56Z",
+   "category": "tesla"
+  },
   {
    "title": "NHTSA to Modernize Vehicle Recalls With a Focus on OTA Fixes",
    "url": "https://www.notateslaapp.com/news/4957/nhtsa-to-modernize-vehicle-recalls-with-a-focus-on-ota-fixes",
@@ -354,13 +382,6 @@
    "category": "tesla"
   },
   {
-   "title": "What is Starshield? A look at SpaceX's military satellite network",
-   "url": "https://www.space.com/space-exploration/satellites/what-is-starshield-a-look-at-spacexs-military-satellite-network",
-   "source": "Space.com",
-   "published": "2026-11-02T11:00:00Z",
-   "category": "spacex"
-  },
-  {
    "title": "Race and Fly the New Tesla Roadster in New ‘Need for Speed’ Type Game",
    "url": "https://www.notateslaapp.com/news/4931/this-fan-made-browser-game-lets-you-fly-teslas-new-roadster",
    "source": "Not a Tesla App",
@@ -408,34 +429,6 @@
    "source": "Spaceflight Now",
    "published": "2026-10-30T22:46:02Z",
    "category": "spacex"
-  },
-  {
-   "title": "Gwynne Shotwell’s 2M SpaceX Share Gift to Kids Is Underway",
-   "url": "https://www.notateslaapp.com/news/4924/gwynne-shotwells-2m-spacex-share-gift-to-kids-is-underway",
-   "source": "Not a Tesla App",
-   "published": "2026-10-30T22:15:00Z",
-   "category": "spacex"
-  },
-  {
-   "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
-   "url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/",
-   "source": "NASASpaceflight",
-   "published": "2026-10-30T21:53:38Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Tesla’s New FSD Referral Program Is Live: How It Works",
-   "url": "https://www.notateslaapp.com/news/4923/teslas-new-fsd-referral-program-is-live-how-it-works",
-   "source": "Not a Tesla App",
-   "published": "2026-10-30T21:27:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Reveals 36 New Supercharger Sites Picked by Owners",
-   "url": "https://www.notateslaapp.com/news/4922/tesla-reveals-36-new-supercharger-sites-picked-by-owners",
-   "source": "Not a Tesla App",
-   "published": "2026-10-30T19:23:00Z",
-   "category": "tesla"
   }
  ]
 }
