@@ -1,8 +1,22 @@
 {
- "generated_at": "2026-11-07T15:53:39Z",
- "count": 61,
+ "generated_at": "2026-11-07T20:09:58Z",
+ "count": 60,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Robotaxi app update now tells riders if Cybercab is the better choice",
+   "url": "https://www.teslarati.com/tesla-robotaxi-app-cybercab-vs-model-y/",
+   "source": "Teslarati",
+   "published": "2026-11-07T18:27:46Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
+   "url": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/",
+   "source": "Electrek",
+   "published": "2026-11-07T16:01:23Z",
+   "category": "tesla"
+  },
   {
    "title": "EVgo Opens Its First Tesla Supercharger Site in Chicago",
    "url": "https://www.notateslaapp.com/news/4961/evgo-opens-its-first-tesla-supercharger-site-in-chicago",
@@ -263,13 +277,6 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX moves to challenge AT&T, Verizon with Qualcomm-powered 5G",
-   "url": "https://www.teslarati.com/spacex-moves-challenge-att-verizon-qualcomm-powered-5g/",
-   "source": "Teslarati",
-   "published": "2026-11-04T16:05:53Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla accused of selling FSD to Korean owners who can’t legally use it",
    "url": "https://electrek.co/2026/11/04/tesla-fsd-south-korea-consumer-group-complaint-kftc/",
    "source": "Electrek",
@@ -414,20 +421,6 @@
    "url": "https://www.notateslaapp.com/news/4929/tesla-driver-in-mexico-makes-his-model-y-fly-video",
    "source": "Not a Tesla App",
    "published": "2026-10-31T20:25:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "What Happens If You Use Tesla's Emergency Drive Away Feature",
-   "url": "https://www.notateslaapp.com/news/4928/what-happens-if-you-use-teslas-emergency-drive-away-feature",
-   "source": "Not a Tesla App",
-   "published": "2026-10-31T20:00:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Adds Grok Files to Intel Cars in Update 2026.38: Will It Be Enabled?",
-   "url": "https://www.notateslaapp.com/news/4927/tesla-adds-grok-files-to-intel-cars-in-update-202638-will-it-be-enabled",
-   "source": "Not a Tesla App",
-   "published": "2026-10-31T18:06:00Z",
    "category": "tesla"
   }
  ]

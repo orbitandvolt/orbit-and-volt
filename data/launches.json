@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T15:53:39Z",
+ "generated_at": "2026-11-07T20:09:58Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
@@ -23,16 +23,6 @@
    "location": "Vandenberg SFB, CA, USA"
   },
   {
-   "name": "Starship | Flight 15",
-   "mission": "Flight 15",
-   "net": "2026-11-13T00:00:00Z",
-   "precision": "DAY",
-   "status": "TBD",
-   "status_name": "To Be Determined",
-   "pad": "Orbital Launch Pad 2",
-   "location": "SpaceX Starbase, TX, USA"
-  },
-  {
    "name": "Falcon 9 Block 5 | USSF-317",
    "mission": "USSF-317",
    "net": "2026-11-13T04:23:00Z",
@@ -41,6 +31,16 @@
    "status_name": "Go for Launch",
    "pad": "Space Launch Complex 4E",
    "location": "Vandenberg SFB, CA, USA"
+  },
+  {
+   "name": "Starship | Starlink Group 31-2 (Starship Flight 15)",
+   "mission": "Starlink Group 31-2 (Starship Flight 15)",
+   "net": "2026-11-13T22:45:00Z",
+   "precision": "MIN",
+   "status": "TBC",
+   "status_name": "To Be Confirmed",
+   "pad": "Orbital Launch Pad 2",
+   "location": "SpaceX Starbase, TX, USA"
   },
   {
    "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
