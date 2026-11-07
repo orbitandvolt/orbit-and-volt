@@ -1,10 +1,24 @@
 {
- "generated_at": "2026-11-07T09:12:00Z",
+ "generated_at": "2026-11-07T15:53:39Z",
  "count": 61,
  "errors": [],
  "stories": [
   {
-   "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos)",
+   "title": "EVgo Opens Its First Tesla Supercharger Site in Chicago",
+   "url": "https://www.notateslaapp.com/news/4961/evgo-opens-its-first-tesla-supercharger-site-in-chicago",
+   "source": "Not a Tesla App",
+   "published": "2026-11-07T15:30:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla’s Giga Shanghai Now Sources 98% of Parts Locally",
+   "url": "https://www.notateslaapp.com/news/4960/teslas-giga-shanghai-now-sources-98-of-parts-locally",
+   "source": "Not a Tesla App",
+   "published": "2026-11-07T14:30:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (video, photos)",
    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
    "source": "Space.com",
    "published": "2026-11-07T01:41:58Z",
@@ -333,13 +347,6 @@
    "category": "tesla"
   },
   {
-   "title": "Do we know how many Starship launches SpaceX will need to get NASA astronauts to the moon? No. Will its refuelling plan be simple? Also no.",
-   "url": "https://www.space.com/space-exploration/artemis/do-we-know-how-many-starship-launches-spacex-will-need-to-get-nasa-astronauts-to-the-moon-no-will-its-refuelling-plan-be-simple-also-no",
-   "source": "Space.com",
-   "published": "2026-11-03T13:00:00Z",
-   "category": "spacex"
-  },
-  {
    "title": "Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites",
    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-110226/",
    "source": "NASASpaceflight",
@@ -421,13 +428,6 @@
    "url": "https://www.notateslaapp.com/news/4927/tesla-adds-grok-files-to-intel-cars-in-update-202638-will-it-be-enabled",
    "source": "Not a Tesla App",
    "published": "2026-10-31T18:06:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "One Year Without EV Tax Credits: 4 Key Takeaways",
-   "url": "https://insideevs.com/features/813947/after-a-year-without-tax-credits-evs-are-down-not-out/",
-   "source": "InsideEVs",
-   "published": "2026-10-31T11:00:00Z",
    "category": "tesla"
   }
  ]
