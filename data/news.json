@@ -1,8 +1,36 @@
 {
- "generated_at": "2026-11-08T13:14:04Z",
- "count": 59,
+ "generated_at": "2026-11-08T18:28:29Z",
+ "count": 60,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Explains Why the Cybertruck Was Canceled, Will Increase Production to Clear Backlog",
+   "url": "https://www.notateslaapp.com/news/4967/tesla-to-add-extra-cybertruck-shift-to-clear-order-backlog",
+   "source": "Not a Tesla App",
+   "published": "2026-11-08T16:30:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Musk: Silver Cybercab With Smaller 40 kWh Battery Is Coming",
+   "url": "https://www.notateslaapp.com/news/4965/musk-silver-cybercab-with-smaller-40-kwh-battery-is-coming",
+   "source": "Not a Tesla App",
+   "published": "2026-11-08T15:30:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX will perform Starship double catch attempt with Flight 15",
+   "url": "https://www.teslarati.com/spacex-perform-starship-double-catch-attempt-flight-15/",
+   "source": "Teslarati",
+   "published": "2026-11-08T15:26:05Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Cybercab is set to get some massive improvements",
+   "url": "https://www.teslarati.com/tesla-cybercab-set-some-massive-improvements/",
+   "source": "Teslarati",
+   "published": "2026-11-08T14:45:16Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Robotaxi app update now tells riders if Cybercab is the better choice",
    "url": "https://www.teslarati.com/tesla-robotaxi-app-cybercab-vs-model-y/",
@@ -270,13 +298,6 @@
    "category": "both"
   },
   {
-   "title": "Tesla registrations in Germany nearly quadruple in October",
-   "url": "https://www.teslarati.com/tesla-registrations-germany-nearly-quadruple-october/",
-   "source": "Teslarati",
-   "published": "2026-11-04T17:47:52Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla accused of selling FSD to Korean owners who can’t legally use it",
    "url": "https://electrek.co/2026/11/04/tesla-fsd-south-korea-consumer-group-complaint-kftc/",
    "source": "Electrek",
@@ -400,20 +421,6 @@
    "url": "https://www.notateslaapp.com/news/4932/tesla-expands-robotaxi-service-launches-unsupervised-rides-in-fort-worth",
    "source": "Not a Tesla App",
    "published": "2026-11-02T14:00:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Race and Fly the New Tesla Roadster in New ‘Need for Speed’ Type Game",
-   "url": "https://www.notateslaapp.com/news/4931/this-fan-made-browser-game-lets-you-fly-teslas-new-roadster",
-   "source": "Not a Tesla App",
-   "published": "2026-11-01T17:00:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla to Update App To Better Handle Android Foldables",
-   "url": "https://www.notateslaapp.com/news/4930/tesla-to-update-app-to-better-handle-android-foldables",
-   "source": "Not a Tesla App",
-   "published": "2026-11-01T15:30:00Z",
    "category": "tesla"
   }
  ]
