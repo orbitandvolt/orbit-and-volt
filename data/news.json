@@ -1,8 +1,78 @@
 {
- "generated_at": "2026-11-09T09:38:59Z",
- "count": 61,
+ "generated_at": "2026-11-09T20:39:27Z",
+ "count": 63,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Robotaxi enters its newest city, reaching San Antonio",
+   "url": "https://www.teslarati.com/tesla-robotaxi-enters-newest-city-san-antonio/",
+   "source": "Teslarati",
+   "published": "2026-11-09T20:27:19Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Robotaxi Area Expands in Austin, Increases Hours Again",
+   "url": "https://www.notateslaapp.com/news/4975/tesla-robotaxi-area-expands-in-austin-increases-hours-again",
+   "source": "Not a Tesla App",
+   "published": "2026-11-09T19:37:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla VP Talks About How Lasers May Make Their Way to the Cybercab",
+   "url": "https://www.notateslaapp.com/news/4974/tesla-vp-talks-about-how-lasers-may-make-their-way-to-the-cybercab",
+   "source": "Not a Tesla App",
+   "published": "2026-11-09T18:51:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla begins groundworks on $10B ‘Project Crystal Sun’ in Texas",
+   "url": "https://www.teslarati.com/tesla-begins-10b-project-solar-panel-manufacturing-project/",
+   "source": "Teslarati",
+   "published": "2026-11-09T17:21:34Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Musk admits Tesla doesn’t have enough talent to build more than one car at a time after exodus",
+   "url": "https://electrek.co/2026/11/09/tesla-deep-bench-gone-musk-admits-talent-shortage/",
+   "source": "Electrek",
+   "published": "2026-11-09T16:41:29Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Elon Musk keeps justifying Tesla Cybertruck’s cancelation, but it’s confusing",
+   "url": "https://www.teslarati.com/elon-musk-keeps-justifying-tesla-cybertruck-cancelation-confusing/",
+   "source": "Teslarati",
+   "published": "2026-11-09T16:19:25Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla launches Robotaxi in San Antonio with a 274 sq mi geofence on paper",
+   "url": "https://electrek.co/2026/11/09/tesla-robotaxi-san-antonio-launch-geofence/",
+   "source": "Electrek",
+   "published": "2026-11-09T14:36:37Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX will launch epic double-catch Starship Flight 15 test mission on Nov. 13",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-epic-double-catch-starship-flight-15-test-mission-on-nov-13",
+   "source": "Space.com",
+   "published": "2026-11-09T14:30:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Musk says Cybertruck isn’t dying from weak sales — the numbers disagree",
+   "url": "https://electrek.co/2026/11/09/musk-cybertruck-demand-claim-data/",
+   "source": "Electrek",
+   "published": "2026-11-09T13:56:47Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Launches Robotaxi in San Antonio, Its 9th and Largest Region Yet",
+   "url": "https://www.notateslaapp.com/news/4969/tesla-launches-largest-robotaxi-zone-yet-in-san-antonio",
+   "source": "Not a Tesla App",
+   "published": "2026-11-09T12:16:00Z",
+   "category": "tesla"
+  },
   {
    "title": "SpaceX’s Anthropic deal has a catch, and Elon Musk just addressed it",
    "url": "https://www.teslarati.com/spacexs-anthropic-deal-has-a-catch-and-elon-musk-just-addressed-it/",
@@ -235,24 +305,10 @@
    "category": "tesla"
   },
   {
-   "title": "EVgo taps Tesla Superchargers for mass charging expansion",
-   "url": "https://www.teslarati.com/evgo-taps-tesla-superchargers-mass-charging-expansion/",
-   "source": "Teslarati",
-   "published": "2026-11-05T17:15:30Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla Wouldn’t Build a Cybervan, So Hoffman EV Did",
    "url": "https://www.notateslaapp.com/news/4950/tesla-wouldnt-build-a-cybervan-so-hoffman-ev-did",
    "source": "Not a Tesla App",
    "published": "2026-11-05T15:44:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Giga Texas reportedly moves to 24/7 production",
-   "url": "https://www.teslarati.com/tesla-giga-texas-reportedly-moves-24-7-production/",
-   "source": "Teslarati",
-   "published": "2026-11-05T15:39:26Z",
    "category": "tesla"
   },
   {
@@ -267,13 +323,6 @@
    "url": "https://insideevs.com/news/814513/tesla-custom-ev-bus-pickup-hoffman-badger/",
    "source": "InsideEVs",
    "published": "2026-11-05T11:10:07Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla opens new “Cybaer” Engineering Center in Berlin",
-   "url": "https://www.teslarati.com/tesla-berlin-btec-engineering-center/",
-   "source": "Teslarati",
-   "published": "2026-11-05T10:06:27Z",
    "category": "tesla"
   },
   {
@@ -393,41 +442,6 @@
    "url": "https://www.notateslaapp.com/news/4936/teslas-next-earnings-call-will-have-video-musk-says",
    "source": "Not a Tesla App",
    "published": "2026-11-02T21:09:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Powerwall 3 now boosts heat pumps to store cheap solar as heat",
-   "url": "https://electrek.co/2026/11/02/tesla-powerwall-3-heat-pump-optimization-sg-ready/",
-   "source": "Electrek",
-   "published": "2026-11-02T20:30:29Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Drops New Cybercab Backpack, Tees, and Gold Cup",
-   "url": "https://www.notateslaapp.com/news/4935/tesla-drops-new-cybercab-backpack-tees-and-gold-cup",
-   "source": "Not a Tesla App",
-   "published": "2026-11-02T20:09:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Warned Owners Not To Test Emergency Drive Away. Some Did Anyway.",
-   "url": "https://insideevs.com/news/814089/tesla-supercharger-inspection-drive-away/",
-   "source": "InsideEVs",
-   "published": "2026-11-02T18:40:21Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Cybercab Goes on Tour in Europe: Cities & Dates",
-   "url": "https://www.notateslaapp.com/news/4933/tesla-cybercab-goes-on-tour-in-europe-cities-dates",
-   "source": "Not a Tesla App",
-   "published": "2026-11-02T16:10:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Expands Robotaxi Service, Launches Unsupervised Rides in Fort Worth",
-   "url": "https://www.notateslaapp.com/news/4932/tesla-expands-robotaxi-service-launches-unsupervised-rides-in-fort-worth",
-   "source": "Not a Tesla App",
-   "published": "2026-11-02T14:00:00Z",
    "category": "tesla"
   }
  ]
