@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-11-09T20:39:27Z",
+ "generated_at": "2026-11-10T03:27:58Z",
  "count": 63,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla exec hints at a wild fix for Robotaxi’s biggest weather problem",
+   "url": "https://www.teslarati.com/tesla-lars-moravy-robotaxi-laser-windshield/",
+   "source": "Teslarati",
+   "published": "2026-11-10T03:12:07Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-09T22:37:05Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Musk Says Cybertruck Is Profitable, Explains Cancellation",
+   "url": "https://www.notateslaapp.com/news/4976/musk-says-cybertruck-is-profitable-explains-cancellation",
+   "source": "Not a Tesla App",
+   "published": "2026-11-09T21:30:00Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Robotaxi enters its newest city, reaching San Antonio",
    "url": "https://www.teslarati.com/tesla-robotaxi-enters-newest-city-san-antonio/",
@@ -249,13 +270,6 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX’s next Starship flight set to make history on Friday the 13th",
-   "url": "https://www.teslarati.com/spacex-starship-catch-nov-13/",
-   "source": "Teslarati",
-   "published": "2026-11-06T06:59:50Z",
-   "category": "spacex"
-  },
-  {
    "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
    "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
    "source": "CNBC",
@@ -428,20 +442,6 @@
    "url": "https://electrek.co/2026/11/03/tesla-megapack-texas-foreign-trade-zone-china-tariffs/",
    "source": "Electrek",
    "published": "2026-11-03T14:15:23Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites",
-   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-110226/",
-   "source": "NASASpaceflight",
-   "published": "2026-11-02T22:21:38Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Tesla’s Next Earnings Call Will Have Video, Musk Says",
-   "url": "https://www.notateslaapp.com/news/4936/teslas-next-earnings-call-will-have-video-musk-says",
-   "source": "Not a Tesla App",
-   "published": "2026-11-02T21:09:00Z",
    "category": "tesla"
   }
  ]
