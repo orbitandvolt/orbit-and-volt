@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-10T11:42:04Z",
+ "generated_at": "2026-11-10T19:39:32Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
    "name": "Falcon 9 Block 5 | USSF-627",
    "mission": "USSF-627",
-   "net": "2026-11-11T02:49:00Z",
+   "net": "2026-11-12T02:35:00Z",
    "precision": "MIN",
    "status": "Go",
    "status_name": "Go for Launch",
@@ -25,7 +25,7 @@
   {
    "name": "Falcon 9 Block 5 | USSF-317",
    "mission": "USSF-317",
-   "net": "2026-11-14T04:09:00Z",
+   "net": "2026-11-15T03:55:00Z",
    "precision": "MIN",
    "status": "Go",
    "status_name": "Go for Launch",
@@ -35,7 +35,7 @@
   {
    "name": "Falcon 9 Block 5 | USSF-266",
    "mission": "USSF-266",
-   "net": "2026-11-17T16:58:00Z",
+   "net": "2026-11-18T16:49:00Z",
    "precision": "MIN",
    "status": "Go",
    "status_name": "Go for Launch",
