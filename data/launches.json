@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-11T15:07:13Z",
+ "generated_at": "2026-11-11T22:13:56Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
    "name": "Falcon 9 Block 5 | USSF-627",
    "mission": "USSF-627",
-   "net": "2026-11-12T02:35:00Z",
-   "precision": "MIN",
+   "net": "2026-11-12T02:36:18Z",
+   "precision": "SEC",
    "status": "Go",
    "status_name": "Go for Launch",
    "pad": "Space Launch Complex 4E",
