@@ -1,8 +1,50 @@
 {
- "generated_at": "2026-11-10T19:39:32Z",
- "count": 62,
+ "generated_at": "2026-11-11T00:35:50Z",
+ "count": 64,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla upfitter offers to keep Cybertruck alive",
+   "url": "https://www.teslarati.com/tesla-upfitter-offers-keep-cybertruck-alive/",
+   "source": "Teslarati",
+   "published": "2026-11-11T00:21:21Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos",
+   "source": "Space.com",
+   "published": "2026-11-10T22:09:39Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
+   "url": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/",
+   "source": "Electrek",
+   "published": "2026-11-10T21:03:24Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla App 4.62.5 Update Adds Ability to Remove Vehicle Keys and More",
+   "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.5/release-notes",
+   "source": "Not a Tesla App",
+   "published": "2026-11-10T20:48:56Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Elon Musk says Tesla Cybercab future is ‘obvious to anyone with eyes and a brain’",
+   "url": "https://www.teslarati.com/elon-musk-says-tesla-cybercab-future-obvious-to-anyone-with-eyes-and-a-brain/",
+   "source": "Teslarati",
+   "published": "2026-11-10T19:48:26Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX Starship Flight 15 live updates: Super Heavy rocket moved to launch pad for 1st Starship double landing test",
+   "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt",
+   "source": "Space.com",
+   "published": "2026-11-10T19:46:21Z",
+   "category": "spacex"
+  },
   {
    "title": "Tesla slims Cybertruck offerings to only its most expensive trim",
    "url": "https://www.teslarati.com/tesla-slims-cybertruck-offerings-most-expensive-trim/",
@@ -163,20 +205,6 @@
    "source": "Teslarati",
    "published": "2026-11-08T15:26:05Z",
    "category": "spacex"
-  },
-  {
-   "title": "Tesla Cybercab is set to get some massive improvements",
-   "url": "https://www.teslarati.com/tesla-cybercab-set-some-massive-improvements/",
-   "source": "Teslarati",
-   "published": "2026-11-08T14:45:16Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Robotaxi app update now tells riders if Cybercab is the better choice",
-   "url": "https://www.teslarati.com/tesla-robotaxi-app-cybercab-vs-model-y/",
-   "source": "Teslarati",
-   "published": "2026-11-07T18:27:46Z",
-   "category": "tesla"
   },
   {
    "title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
@@ -422,20 +450,6 @@
    "source": "CNBC",
    "published": "2026-11-04T13:53:54Z",
    "category": "spacex"
-  },
-  {
-   "title": "Your Tesla Runs Cleaner Today Than When You Bought It",
-   "url": "https://www.notateslaapp.com/news/4941/your-tesla-runs-cleaner-today-than-when-you-bought-it",
-   "source": "Not a Tesla App",
-   "published": "2026-11-03T22:09:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Model 3/Y Could Get an Inverter Upgrade From Cybercab",
-   "url": "https://www.notateslaapp.com/news/4939/tesla-model-3y-could-get-an-inverter-upgrade-from-cybercab",
-   "source": "Not a Tesla App",
-   "published": "2026-11-03T20:08:00Z",
-   "category": "tesla"
   }
  ]
 }
