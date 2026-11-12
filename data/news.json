@@ -1,8 +1,43 @@
 {
- "generated_at": "2026-11-12T11:45:53Z",
- "count": 67,
+ "generated_at": "2026-11-12T19:50:00Z",
+ "count": 63,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Raises Wall Connector Price Again, Now $635",
+   "url": "https://www.notateslaapp.com/news/4997/tesla-raises-wall-connector-price-again-now-635",
+   "source": "Not a Tesla App",
+   "published": "2026-11-12T19:22:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX hid behind another name in the Arizona desert, and now it’s going big",
+   "url": "https://www.teslarati.com/spacex-arizona-supercomputer-tombstone/",
+   "source": "Teslarati",
+   "published": "2026-11-12T18:08:19Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla to Hire NVIDIA CEO? Musk Says It Would Be 'an Honor'",
+   "url": "https://www.notateslaapp.com/news/4992/tesla-to-hire-nvidia-ceo-musk-says-it-would-be-an-honor",
+   "source": "Not a Tesla App",
+   "published": "2026-11-12T17:57:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Robotaxi Now Runs 24/7 in Every City",
+   "url": "https://www.notateslaapp.com/news/4991/tesla-robotaxi-now-runs-247-in-every-city",
+   "source": "Not a Tesla App",
+   "published": "2026-11-12T15:49:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Police charge another Tesla driver caught asleep in rush hour as cases pile up",
+   "url": "https://electrek.co/2026/11/12/tesla-driver-asleep-ottawa-opp-careless-driving-fsd/",
+   "source": "Electrek",
+   "published": "2026-11-12T14:36:09Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla’s Cheapest Cybertruck Ever Is An RC Racer That Goes 37 MPH",
    "url": "https://insideevs.com/news/815226/tesla-cybertruck-rc-racer-specs-price/",
@@ -11,7 +46,7 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (photos)",
+   "title": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (video, photos)",
    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2nd-mystery-mission-for-us-space-force-in-6-day-span-photos",
    "source": "Space.com",
    "published": "2026-11-12T05:24:54Z",
@@ -32,7 +67,7 @@
    "category": "spacex"
   },
   {
-   "title": "Tesla to Still Build the Model 2? Giga Berlin May Build a New Vehicle",
+   "title": "Tesla Giga Berlin May Build a New Vehicle. Will It Be a Model 2, Cybercab?",
    "url": "https://www.notateslaapp.com/news/4989/tesla-to-still-build-the-model-2-giga-berlin-may-build-a-new-vehicle",
    "source": "Not a Tesla App",
    "published": "2026-11-11T20:10:00Z",
@@ -214,13 +249,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla exec hints at a wild fix for Robotaxi’s biggest weather problem",
-   "url": "https://www.teslarati.com/tesla-lars-moravy-robotaxi-laser-windshield/",
-   "source": "Teslarati",
-   "published": "2026-11-10T03:12:07Z",
-   "category": "tesla"
-  },
-  {
    "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
    "source": "NASASpaceflight",
@@ -319,13 +347,6 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (video, photos)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
-   "source": "Space.com",
-   "published": "2026-11-07T01:41:58Z",
-   "category": "spacex"
-  },
-  {
    "title": "Falcon 9 launches from California on classified mission for U.S. Space Force",
    "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
    "source": "Spaceflight Now",
@@ -422,55 +443,6 @@
    "source": "Not a Tesla App",
    "published": "2026-11-05T19:58:00Z",
    "category": "tesla"
-  },
-  {
-   "title": "Tesla Is Now Powering One Of Its Biggest Charging Rivals",
-   "url": "https://insideevs.com/news/814582/tesla-supercharging-ev-go-chicago/",
-   "source": "InsideEVs",
-   "published": "2026-11-05T19:13:57Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla's Kickflipping Roadster Looks Like A Great Way To Lose Your Lunch",
-   "url": "https://insideevs.com/news/814440/tesla-roadster-flip-pov-video/",
-   "source": "InsideEVs",
-   "published": "2026-11-05T18:37:21Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret",
-   "url": "https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/",
-   "source": "Electrek",
-   "published": "2026-11-05T18:32:57Z",
-   "category": "tesla"
-  },
-  {
-   "title": "All of Tesla's Robotaxi Markets and Their Actual Sizes [UPDATED]",
-   "url": "https://www.notateslaapp.com/news/4748/teslas-active-robotaxi-markets-and-their-sizes",
-   "source": "Not a Tesla App",
-   "published": "2026-11-05T18:06:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Introducing Our Tesla Feature Requests Feature, Where Owners Can Submit and Vote on Ideas",
-   "url": "https://www.notateslaapp.com/news/4951/introducing-our-tesla-feature-requests-feature-where-owners-can-submit-and-vote-on-ideas",
-   "source": "Not a Tesla App",
-   "published": "2026-11-05T18:03:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Wouldn’t Build a Cybervan, So Hoffman EV Did",
-   "url": "https://www.notateslaapp.com/news/4950/tesla-wouldnt-build-a-cybervan-so-hoffman-ev-did",
-   "source": "Not a Tesla App",
-   "published": "2026-11-05T15:44:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Starlink Is Replacing OG ‘Dishy McFlatface’ Dishes for Free",
-   "url": "https://www.notateslaapp.com/news/4949/starlink-is-replacing-og-dishy-mcflatface-dishes-for-free",
-   "source": "Not a Tesla App",
-   "published": "2026-11-05T13:30:00Z",
-   "category": "spacex"
   }
  ]
 }

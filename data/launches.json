@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T11:45:53Z",
+ "generated_at": "2026-11-12T19:50:00Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
@@ -36,6 +36,16 @@
    "name": "Falcon 9 Block 5 | USSF-266",
    "mission": "USSF-266",
    "net": "2026-11-18T16:49:00Z",
+   "precision": "MIN",
+   "status": "Go",
+   "status_name": "Go for Launch",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | NROL-136",
+   "mission": "NROL-136",
+   "net": "2026-11-21T12:30:00Z",
    "precision": "MIN",
    "status": "Go",
    "status_name": "Go for Launch",
@@ -111,16 +121,6 @@
    "status_name": "To Be Determined",
    "pad": "Unknown Pad",
    "location": "Cape Canaveral SFS, FL, USA"
-  },
-  {
-   "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E",
-   "mission": "SDA Tranche 2 Transport Layer E",
-   "net": "2026-12-31T00:00:00Z",
-   "precision": "M",
-   "status": "TBD",
-   "status_name": "To Be Determined",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA"
   }
  ]
 }
