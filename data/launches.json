@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-11-13T01:00:14Z",
+ "generated_at": "2026-11-13T07:49:54Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
-  {
-   "name": "Falcon 9 Block 5 | USSF-627",
-   "mission": "USSF-627",
-   "net": "2026-11-12T04:36:30Z",
-   "precision": "SEC",
-   "status": "Success",
-   "status_name": "Launch Successful",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA"
-  },
   {
    "name": "Starship | Starlink Group 31-2 (Starship Flight 15)",
    "mission": "Starlink Group 31-2 (Starship Flight 15)",
@@ -121,6 +111,16 @@
    "status_name": "To Be Determined",
    "pad": "Unknown Pad",
    "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E",
+   "mission": "SDA Tranche 2 Transport Layer E",
+   "net": "2026-12-31T00:00:00Z",
+   "precision": "M",
+   "status": "TBD",
+   "status_name": "To Be Determined",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA"
   }
  ]
 }

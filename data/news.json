@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-11-13T01:00:14Z",
- "count": 66,
+ "generated_at": "2026-11-13T07:49:54Z",
+ "count": 67,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla and SpaceX merger talks hit a new stage, and one hurdle remains",
+   "url": "https://www.teslarati.com/tesla-spacex-merger-timeline/",
+   "source": "Teslarati",
+   "published": "2026-11-13T05:53:37Z",
+   "category": "both"
+  },
+  {
+   "title": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
+   "source": "Space.com",
+   "published": "2026-11-13T05:05:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Starship Flight 15 to attempt first catch of both stages",
+   "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-13T04:24:28Z",
+   "category": "spacex"
+  },
   {
    "title": "America's 3 Most Popular SUVs Are About To Be Hybrid Or Electric",
    "url": "https://insideevs.com/news/815319/honda-crv-hybrid-toyota-rav4-tesla-model-y/",
@@ -242,13 +263,6 @@
    "category": "spacex"
   },
   {
-   "title": "Tesla slims Cybertruck offerings to only its most expensive trim",
-   "url": "https://www.teslarati.com/tesla-slims-cybertruck-offerings-most-expensive-trim/",
-   "source": "Teslarati",
-   "published": "2026-11-10T16:25:50Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla’s China sales crash 66% to lowest level in over four years",
    "url": "https://electrek.co/2026/11/10/tesla-china-sales-crash-october-2026-lowest-four-years/",
    "source": "Electrek",
@@ -457,13 +471,6 @@
    "source": "InsideEVs",
    "published": "2026-11-06T08:00:25Z",
    "category": "tesla"
-  },
-  {
-   "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
-   "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
-   "source": "CNBC",
-   "published": "2026-11-06T03:20:43Z",
-   "category": "both"
   }
  ]
 }
