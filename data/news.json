@@ -1,8 +1,52 @@
 {
- "generated_at": "2026-11-13T16:11:11Z",
- "count": 64,
- "errors": [],
+ "generated_at": "2026-11-13T22:07:40Z",
+ "count": 62,
+ "errors": [
+  "NASASpaceflight: HTTP Error 403: Forbidden"
+ ],
  "stories": [
+  {
+   "title": "Researcher Creates Hack to Steer Tesla With Switch 2 [VIDEO]",
+   "url": "https://www.notateslaapp.com/news/5011/researcher-creates-hack-to-steer-tesla-with-switch-2-video",
+   "source": "Not a Tesla App",
+   "published": "2026-11-13T21:00:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch",
+   "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+   "source": "Spaceflight Now",
+   "published": "2026-11-13T19:15:11Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla and SpaceX Merger Could Be Announced in December: Report",
+   "url": "https://www.notateslaapp.com/news/5010/tesla-and-spacex-merger-could-be-announced-in-december-report",
+   "source": "Not a Tesla App",
+   "published": "2026-11-13T18:37:00Z",
+   "category": "both"
+  },
+  {
+   "title": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast",
+   "url": "https://electrek.co/2026/11/13/tesla-only-sells-cybertruck-cyberbeast-109990/",
+   "source": "Electrek",
+   "published": "2026-11-13T18:13:44Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX Starship Flight 15: How to watch the double catch attempt",
+   "url": "https://www.teslarati.com/spacex-starship-flight-15-how-to-watch-the-double-catch-attempt/",
+   "source": "Teslarati",
+   "published": "2026-11-13T18:07:32Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Unplugged Performance Offers to Build the Cybertruck for Tesla",
+   "url": "https://www.notateslaapp.com/news/5008/unplugged-performance-offers-to-build-the-cybertruck-for-tesla",
+   "source": "Not a Tesla App",
+   "published": "2026-11-13T16:52:00Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla trims Model Y offerings as All-Wheel-Drive gets the axe",
    "url": "https://www.teslarati.com/tesla-trims-model-y-offerings-all-wheel-drive-gets-axe/",
@@ -39,6 +83,13 @@
    "category": "spacex"
   },
   {
+   "title": "Tesla Just Killed Its Cheapest All-Wheel-Drive Model Y",
+   "url": "https://insideevs.com/news/815395/tesla-model-y-awd-discontinued/",
+   "source": "InsideEVs",
+   "published": "2026-11-13T11:56:01Z",
+   "category": "tesla"
+  },
+  {
    "title": "'Don't panic': SpaceX pens familiar message on Starship ahead of historic double-catch test flight",
    "url": "https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight",
    "source": "Space.com",
@@ -60,14 +111,7 @@
    "category": "spacex"
   },
   {
-   "title": "Starship Flight 15 to attempt first catch of both stages",
-   "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-   "source": "NASASpaceflight",
-   "published": "2026-11-13T04:24:28Z",
-   "category": "spacex"
-  },
-  {
-   "title": "America's 3 Most Popular SUVs Are About To Be Hybrid Or Electric",
+   "title": "America's Top 3 SUVs Are About To Be Hybrid Or Electric",
    "url": "https://insideevs.com/news/815319/honda-crv-hybrid-toyota-rav4-tesla-model-y/",
    "source": "InsideEVs",
    "published": "2026-11-12T20:56:22Z",
@@ -242,17 +286,10 @@
    "category": "tesla"
   },
   {
-   "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
+   "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, today? (Full mission timeline)",
    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time",
    "source": "Space.com",
    "published": "2026-11-11T11:00:00Z",
-   "category": "spacex"
-  },
-  {
-   "title": "SpaceX just cleared a key FCC hurdle in its fight with Verizon and AT&T",
-   "url": "https://www.teslarati.com/spacex-fcc-verizon-att-approved/",
-   "source": "Teslarati",
-   "published": "2026-11-11T08:16:10Z",
    "category": "spacex"
   },
   {
@@ -284,7 +321,7 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX Starship Flight 15 live updates: Giant Starship stacked for launch and 1st-ever double catch landing",
+   "title": "SpaceX Starship Flight 15 live updates: SpaceX 'GO' for fueling Starship Flight 15 for launch",
    "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-13-2026-starship-first-double-landing-attempt",
    "source": "Space.com",
    "published": "2026-11-10T19:46:21Z",
@@ -317,13 +354,6 @@
    "source": "Not a Tesla App",
    "published": "2026-11-10T12:40:00Z",
    "category": "tesla"
-  },
-  {
-   "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-   "source": "NASASpaceflight",
-   "published": "2026-11-09T22:37:05Z",
-   "category": "spacex"
   },
   {
    "title": "Musk Says Cybertruck Is Profitable, Explains Cancellation",
@@ -407,48 +437,6 @@
    "url": "https://www.notateslaapp.com/news/4960/teslas-giga-shanghai-now-sources-98-of-parts-locally",
    "source": "Not a Tesla App",
    "published": "2026-11-07T14:30:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Falcon 9 launches from California on classified mission for U.S. Space Force",
-   "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
-   "source": "Spaceflight Now",
-   "published": "2026-11-06T22:00:39Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Musk: Tesla Will Rent Optimus Robots Instead of Selling Them",
-   "url": "https://www.notateslaapp.com/news/4959/musk-tesla-will-rent-optimus-robots-instead-of-selling-them",
-   "source": "Not a Tesla App",
-   "published": "2026-11-06T20:09:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Everything You Can Control With Grok in Your Tesla",
-   "url": "https://www.notateslaapp.com/news/4958/everything-you-can-control-with-grok-in-your-tesla",
-   "source": "Not a Tesla App",
-   "published": "2026-11-06T17:41:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "It’s Official: The Cybertruck Is One Of The Greatest Flops In Automotive History",
-   "url": "https://insideevs.com/features/814702/tesla-cybertruck-failure/",
-   "source": "InsideEVs",
-   "published": "2026-11-06T17:29:56Z",
-   "category": "tesla"
-  },
-  {
-   "title": "NHTSA to Modernize Vehicle Recalls With a Focus on OTA Fixes",
-   "url": "https://www.notateslaapp.com/news/4957/nhtsa-to-modernize-vehicle-recalls-with-a-focus-on-ota-fixes",
-   "source": "Not a Tesla App",
-   "published": "2026-11-06T17:07:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Raises Cybertruck Prices, Pauses Base Trim Orders",
-   "url": "https://www.notateslaapp.com/news/4955/tesla-raises-cybertruck-prices-pauses-base-trim-orders",
-   "source": "Not a Tesla App",
-   "published": "2026-11-06T16:24:00Z",
    "category": "tesla"
   }
  ]

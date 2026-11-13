@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-13T16:11:11Z",
+ "generated_at": "2026-11-13T22:07:40Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
    "name": "Starship | Starlink Group 31-2 (Starship Flight 15)",
    "mission": "Starlink Group 31-2 (Starship Flight 15)",
-   "net": "2026-11-13T22:45:00Z",
-   "precision": "MIN",
-   "status": "TBC",
-   "status_name": "To Be Confirmed",
+   "net": "2026-11-13T22:47:36Z",
+   "precision": "SEC",
+   "status": "Go",
+   "status_name": "Go for Launch",
    "pad": "Orbital Launch Pad 2",
    "location": "SpaceX Starbase, TX, USA"
   },
@@ -23,9 +23,9 @@
    "location": "Vandenberg SFB, CA, USA"
   },
   {
-   "name": "Falcon 9 Block 5 | USSF-266",
-   "mission": "USSF-266",
-   "net": "2026-11-18T16:49:00Z",
+   "name": "Falcon 9 Block 5 | NROL-136",
+   "mission": "NROL-136",
+   "net": "2026-11-21T12:30:00Z",
    "precision": "MIN",
    "status": "Go",
    "status_name": "Go for Launch",
@@ -33,9 +33,9 @@
    "location": "Vandenberg SFB, CA, USA"
   },
   {
-   "name": "Falcon 9 Block 5 | NROL-136",
-   "mission": "NROL-136",
-   "net": "2026-11-21T12:30:00Z",
+   "name": "Falcon 9 Block 5 | USSF-266",
+   "mission": "USSF-266",
+   "net": "2026-11-23T16:04:00Z",
    "precision": "MIN",
    "status": "Go",
    "status_name": "Go for Launch",
