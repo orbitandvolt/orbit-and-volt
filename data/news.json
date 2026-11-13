@@ -1,8 +1,36 @@
 {
- "generated_at": "2026-11-12T19:50:00Z",
- "count": 63,
+ "generated_at": "2026-11-13T01:00:14Z",
+ "count": 66,
  "errors": [],
  "stories": [
+  {
+   "title": "America's 3 Most Popular SUVs Are About To Be Hybrid Or Electric",
+   "url": "https://insideevs.com/news/815319/honda-crv-hybrid-toyota-rav4-tesla-model-y/",
+   "source": "InsideEVs",
+   "published": "2026-11-12T20:56:22Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Update 2026.39.100 Quietly Reduces FSD/TAD Max Speed in Europe",
+   "url": "https://www.notateslaapp.com/news/4998/tesla-update-202639100-quietly-reduces-fsdtad-max-speed-in-europe",
+   "source": "Not a Tesla App",
+   "published": "2026-11-12T20:47:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
+   "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/",
+   "source": "Electrek",
+   "published": "2026-11-12T20:39:14Z",
+   "category": "both"
+  },
+  {
+   "title": "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it in the night sky?",
+   "url": "https://www.space.com/stargazing/spacexs-starship-megarocket-will-launch-to-orbit-on-nov-13-will-you-be-able-to-spot-it-in-the-night-sky",
+   "source": "Space.com",
+   "published": "2026-11-12T20:00:00Z",
+   "category": "spacex"
+  },
   {
    "title": "Tesla Raises Wall Connector Price Again, Now $635",
    "url": "https://www.notateslaapp.com/news/4997/tesla-raises-wall-connector-price-again-now-635",
@@ -207,7 +235,7 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX Starship Flight 15 live updates: T-2 days to SpaceX's 1st-ever double Starship landing attempt",
+   "title": "SpaceX Starship Flight 15 live updates: T-1 day to SpaceX's 1st-ever double Starship landing attempt",
    "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-11-2026-starship-first-double-landing-attempt",
    "source": "Space.com",
    "published": "2026-11-10T19:46:21Z",
@@ -436,13 +464,6 @@
    "source": "CNBC",
    "published": "2026-11-06T03:20:43Z",
    "category": "both"
-  },
-  {
-   "title": "Tesla's Robotaxi Geofences Are Smaller Than Advertised: Their Actual Sizes",
-   "url": "https://www.notateslaapp.com/news/4953/teslas-robotaxi-geofences-are-smaller-than-advertised-their-actual-sizes",
-   "source": "Not a Tesla App",
-   "published": "2026-11-05T19:58:00Z",
-   "category": "tesla"
   }
  ]
 }
