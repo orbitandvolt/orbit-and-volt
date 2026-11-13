@@ -1,8 +1,50 @@
 {
- "generated_at": "2026-11-13T07:49:54Z",
- "count": 67,
+ "generated_at": "2026-11-13T16:11:11Z",
+ "count": 64,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla trims Model Y offerings as All-Wheel-Drive gets the axe",
+   "url": "https://www.teslarati.com/tesla-trims-model-y-offerings-all-wheel-drive-gets-axe/",
+   "source": "Teslarati",
+   "published": "2026-11-13T15:29:04Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX Starship is going for a catch that could change spaceflight forever",
+   "url": "https://www.teslarati.com/spacex-starship-flight-15-double-catch/",
+   "source": "Teslarati",
+   "published": "2026-11-13T15:13:56Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Stops Taking Orders for Entry-Level Model Y AWD",
+   "url": "https://www.notateslaapp.com/news/5002/tesla-stops-taking-orders-for-entry-level-model-y-awd",
+   "source": "Not a Tesla App",
+   "published": "2026-11-13T14:05:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Shop’s 2026 Holiday Collection: All 21 New Items",
+   "url": "https://www.notateslaapp.com/news/4999/tesla-shops-2026-holiday-collection-all-21-new-items",
+   "source": "Not a Tesla App",
+   "published": "2026-11-13T14:00:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex",
+   "source": "Space.com",
+   "published": "2026-11-13T13:00:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "'Don't panic': SpaceX pens familiar message on Starship ahead of historic double-catch test flight",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight",
+   "source": "Space.com",
+   "published": "2026-11-13T08:03:59Z",
+   "category": "spacex"
+  },
   {
    "title": "Tesla and SpaceX merger talks hit a new stage, and one hurdle remains",
    "url": "https://www.teslarati.com/tesla-spacex-merger-timeline/",
@@ -221,13 +263,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla upfitter offers to keep Cybertruck alive",
-   "url": "https://www.teslarati.com/tesla-upfitter-offers-keep-cybertruck-alive/",
-   "source": "Teslarati",
-   "published": "2026-11-11T00:21:21Z",
-   "category": "tesla"
-  },
-  {
    "title": "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)",
    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos",
    "source": "Space.com",
@@ -249,15 +284,8 @@
    "category": "tesla"
   },
   {
-   "title": "Elon Musk says Tesla Cybercab future is ‘obvious to anyone with eyes and a brain’",
-   "url": "https://www.teslarati.com/elon-musk-says-tesla-cybercab-future-obvious-to-anyone-with-eyes-and-a-brain/",
-   "source": "Teslarati",
-   "published": "2026-11-10T19:48:26Z",
-   "category": "tesla"
-  },
-  {
-   "title": "SpaceX Starship Flight 15 live updates: T-1 day to SpaceX's 1st-ever double Starship landing attempt",
-   "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-11-2026-starship-first-double-landing-attempt",
+   "title": "SpaceX Starship Flight 15 live updates: Giant Starship stacked for launch and 1st-ever double catch landing",
+   "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-13-2026-starship-first-double-landing-attempt",
    "source": "Space.com",
    "published": "2026-11-10T19:46:21Z",
    "category": "spacex"
@@ -331,13 +359,6 @@
    "source": "Electrek",
    "published": "2026-11-09T14:36:37Z",
    "category": "tesla"
-  },
-  {
-   "title": "SpaceX will launch epic double-catch Starship Flight 15 test mission on Nov. 13",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-epic-double-catch-starship-flight-15-test-mission-on-nov-13",
-   "source": "Space.com",
-   "published": "2026-11-09T14:30:00Z",
-   "category": "spacex"
   },
   {
    "title": "Musk says Cybertruck isn’t dying from weak sales — the numbers disagree",
@@ -428,48 +449,6 @@
    "url": "https://www.notateslaapp.com/news/4955/tesla-raises-cybertruck-prices-pauses-base-trim-orders",
    "source": "Not a Tesla App",
    "published": "2026-11-06T16:24:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
-   "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
-   "source": "NASASpaceflight",
-   "published": "2026-11-06T15:31:51Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
-   "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
-   "source": "CNBC",
-   "published": "2026-11-06T15:06:11Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla hikes Cybertruck prices up to 10% after announcing it will kill production",
-   "url": "https://electrek.co/2026/11/06/tesla-raises-cybertruck-prices-after-ending-production/",
-   "source": "Electrek",
-   "published": "2026-11-06T14:03:57Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Announces It Will Discontinue the Cybertruck",
-   "url": "https://www.notateslaapp.com/news/4954/tesla-will-end-cybertruck-production-to-make-more-cybercabs",
-   "source": "Not a Tesla App",
-   "published": "2026-11-06T14:00:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla to end Cybertruck production as sales stall at ~10% of plan",
-   "url": "https://electrek.co/2026/11/06/tesla-ending-cybertruck-production-sales-10-percent-plan/",
-   "source": "Electrek",
-   "published": "2026-11-06T11:33:25Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Is Killing The Cybertruck To Make Room For More Robotaxis",
-   "url": "https://insideevs.com/news/814618/tesla-cybertruck-production-ending-official/",
-   "source": "InsideEVs",
-   "published": "2026-11-06T08:00:25Z",
    "category": "tesla"
   }
  ]
