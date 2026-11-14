@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T22:07:40Z",
+ "generated_at": "2026-11-14T02:39:32Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
@@ -7,8 +7,8 @@
    "mission": "Starlink Group 31-2 (Starship Flight 15)",
    "net": "2026-11-13T22:47:36Z",
    "precision": "SEC",
-   "status": "Go",
-   "status_name": "Go for Launch",
+   "status": "In Flight",
+   "status_name": "Launch in Flight",
    "pad": "Orbital Launch Pad 2",
    "location": "SpaceX Starbase, TX, USA"
   },

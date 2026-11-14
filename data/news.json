@@ -1,10 +1,43 @@
 {
- "generated_at": "2026-11-13T22:07:40Z",
- "count": 62,
- "errors": [
-  "NASASpaceflight: HTTP Error 403: Forbidden"
- ],
+ "generated_at": "2026-11-14T02:39:32Z",
+ "count": 68,
+ "errors": [],
  "stories": [
+  {
+   "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
+   "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
+   "source": "Electrek",
+   "published": "2026-11-14T02:11:39Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Opens Orders for the Cybercab for Personal Use: Costs $29,990 and Requires a $299 Monthly Subscription",
+   "url": "https://www.notateslaapp.com/news/5012/tesla-opens-orders-for-the-cybercab-for-personal-use-costs-29990-and-requires-a-299-monthly-subscription",
+   "source": "Not a Tesla App",
+   "published": "2026-11-14T00:18:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Opens Cybercab Orders To 'Select Customers' At $29,990 Plus $299 Per Month",
+   "url": "https://insideevs.com/news/815473/tesla-cybercab-pricing-sales-announced/",
+   "source": "InsideEVs",
+   "published": "2026-11-14T00:06:29Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Cybercab goes on sale for $29,990, slated for December deliveries",
+   "url": "https://www.teslarati.com/tesla-cybercab-29990-december-deliveries/",
+   "source": "Teslarati",
+   "published": "2026-11-13T23:46:15Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
+   "source": "Space.com",
+   "published": "2026-11-13T23:20:03Z",
+   "category": "spacex"
+  },
   {
    "title": "Researcher Creates Hack to Steer Tesla With Switch 2 [VIDEO]",
    "url": "https://www.notateslaapp.com/news/5011/researcher-creates-hack-to-steer-tesla-with-switch-2-video",
@@ -13,7 +46,7 @@
    "category": "tesla"
   },
   {
-   "title": "Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch",
+   "title": "Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown",
    "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
    "source": "Spaceflight Now",
    "published": "2026-11-13T19:15:11Z",
@@ -108,6 +141,13 @@
    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
    "source": "Space.com",
    "published": "2026-11-13T05:05:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Starship Flight 15: Ship 42 orbital, Booster diverts to ocean",
+   "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-13T04:24:28Z",
    "category": "spacex"
   },
   {
@@ -258,13 +298,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla overtakes Waymo in Texas as Robotaxi fleet performs shock flip",
-   "url": "https://www.teslarati.com/tesla-overtakes-waymo-texas-robotaxi-fleet-performs-shock-flip/",
-   "source": "Teslarati",
-   "published": "2026-11-11T17:05:52Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla FSD Approved in Finland, Rolling Out Soon",
    "url": "https://www.notateslaapp.com/news/4986/tesla-fsd-approved-in-finland-rolling-out-soon",
    "source": "Not a Tesla App",
@@ -321,7 +354,7 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX Starship Flight 15 live updates: SpaceX 'GO' for fueling Starship Flight 15 for launch",
+   "title": "SpaceX Starship Flight 15 live updates: How to spot Starship in the night sky as it coasts in orbit",
    "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-13-2026-starship-first-double-landing-attempt",
    "source": "Space.com",
    "published": "2026-11-10T19:46:21Z",
@@ -354,6 +387,13 @@
    "source": "Not a Tesla App",
    "published": "2026-11-10T12:40:00Z",
    "category": "tesla"
+  },
+  {
+   "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-09T22:37:05Z",
+   "category": "spacex"
   },
   {
    "title": "Musk Says Cybertruck Is Profitable, Explains Cancellation",
