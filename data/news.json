@@ -1,8 +1,43 @@
 {
- "generated_at": "2026-11-14T10:10:51Z",
+ "generated_at": "2026-11-14T16:42:39Z",
  "count": 68,
  "errors": [],
  "stories": [
+  {
+   "title": "SpaceX says Starship Flight 15 booster aborted 'chopsticks' landing catch after launch due to guidance issue (video)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
+   "source": "Space.com",
+   "published": "2026-11-14T14:53:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
+   "url": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/",
+   "source": "Electrek",
+   "published": "2026-11-14T13:33:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Cybercab ownership will come with plenty of strings attached",
+   "url": "https://www.teslarati.com/tesla-cybercab-arrives-steep-ownership-fine-print/",
+   "source": "Teslarati",
+   "published": "2026-11-14T13:32:34Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Diesel Prices Are Surging. This Electric Trucking Company Is Seeing More Interest",
+   "url": "https://insideevs.com/news/815472/diesel-prices-electric-trucks-einride/",
+   "source": "InsideEVs",
+   "published": "2026-11-14T13:00:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
+   "source": "Space.com",
+   "published": "2026-11-14T13:00:00Z",
+   "category": "spacex"
+  },
   {
    "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
    "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
@@ -284,13 +319,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla extends Cybertruck production as Musk concedes ‘sentimentality’",
-   "url": "https://www.teslarati.com/tesla-extends-cybertruck-production-slightly-handle-order-log/",
-   "source": "Teslarati",
-   "published": "2026-11-11T17:52:53Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla Is Extending Cybertruck Production After Backlash and Strong Demand",
    "url": "https://www.notateslaapp.com/news/4987/tesla-is-extending-cybertruck-production-after-backlash-and-strong-demand",
    "source": "Not a Tesla App",
@@ -352,13 +380,6 @@
    "source": "Not a Tesla App",
    "published": "2026-11-10T20:48:56Z",
    "category": "tesla"
-  },
-  {
-   "title": "SpaceX Starship Flight 15 live updates: How to spot Starship in the night sky as it coasts in orbit",
-   "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-13-2026-starship-first-double-landing-attempt",
-   "source": "Space.com",
-   "published": "2026-11-10T19:46:21Z",
-   "category": "spacex"
   },
   {
    "title": "Tesla’s China sales crash 66% to lowest level in over four years",
@@ -456,27 +477,6 @@
    "url": "https://www.notateslaapp.com/news/4965/musk-silver-cybercab-with-smaller-40-kwh-battery-is-coming",
    "source": "Not a Tesla App",
    "published": "2026-11-08T15:30:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
-   "url": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/",
-   "source": "Electrek",
-   "published": "2026-11-07T16:01:23Z",
-   "category": "tesla"
-  },
-  {
-   "title": "EVgo Opens Its First Tesla Supercharger Site in Chicago",
-   "url": "https://www.notateslaapp.com/news/4961/evgo-opens-its-first-tesla-supercharger-site-in-chicago",
-   "source": "Not a Tesla App",
-   "published": "2026-11-07T15:30:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla’s Giga Shanghai Now Sources 98% of Parts Locally",
-   "url": "https://www.notateslaapp.com/news/4960/teslas-giga-shanghai-now-sources-98-of-parts-locally",
-   "source": "Not a Tesla App",
-   "published": "2026-11-07T14:30:00Z",
    "category": "tesla"
   }
  ]
