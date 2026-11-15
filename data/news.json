@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-11-15T08:23:54Z",
+ "generated_at": "2026-11-15T15:51:17Z",
  "count": 73,
  "errors": [],
  "stories": [
+  {
+   "title": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
+   "source": "Space.com",
+   "published": "2026-11-15T11:00:00Z",
+   "category": "spacex"
+  },
   {
    "title": "MKBHD Orders a Tesla Cybercab to Decide Head-Shaving Bet",
    "url": "https://www.notateslaapp.com/news/5019/mkbhd-orders-a-tesla-cybercab-to-decide-head-shaving-bet",
@@ -123,7 +130,7 @@
    "category": "tesla"
   },
   {
-   "title": "Starship in orbit ahead of catch attempt, booster diverts to explosive splashdown",
+   "title": "Starship returns to Starbase and a successful tower catch",
    "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
    "source": "Spaceflight Now",
    "published": "2026-11-13T19:15:11Z",
@@ -505,13 +512,6 @@
    "url": "https://www.notateslaapp.com/news/4967/tesla-to-add-extra-cybertruck-shift-to-clear-order-backlog",
    "source": "Not a Tesla App",
    "published": "2026-11-08T16:30:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Musk: Silver Cybercab With Smaller 40 kWh Battery Is Coming",
-   "url": "https://www.notateslaapp.com/news/4965/musk-silver-cybercab-with-smaller-40-kwh-battery-is-coming",
-   "source": "Not a Tesla App",
-   "published": "2026-11-08T15:30:00Z",
    "category": "tesla"
   }
  ]
