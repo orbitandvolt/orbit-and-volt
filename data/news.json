@@ -1,8 +1,22 @@
 {
- "generated_at": "2026-11-15T15:51:17Z",
- "count": 73,
+ "generated_at": "2026-11-15T20:59:02Z",
+ "count": 72,
  "errors": [],
  "stories": [
+  {
+   "title": "MKBHD just ordered the Tesla Cybercab with his hair on the line",
+   "url": "https://www.teslarati.com/mkbhd-tesla-cybercab-bet/",
+   "source": "Teslarati",
+   "published": "2026-11-15T17:25:07Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
+   "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
+   "source": "Electrek",
+   "published": "2026-11-15T16:31:24Z",
+   "category": "tesla"
+  },
   {
    "title": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
    "url": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
@@ -319,13 +333,6 @@
    "category": "tesla"
   },
   {
-   "title": "Starlink Mini 2 arrives with one feature for true off-grid connectivity",
-   "url": "https://www.teslarati.com/starlink-mini-2-arrives-one-feature-true-off-grid-connectivity/",
-   "source": "Teslarati",
-   "published": "2026-11-11T21:13:18Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla Giga Berlin May Build a New Vehicle. Will It Be a Model 2, Cybercab?",
    "url": "https://www.notateslaapp.com/news/4989/tesla-to-still-build-the-model-2-giga-berlin-may-build-a-new-vehicle",
    "source": "Not a Tesla App",
@@ -401,13 +408,6 @@
    "source": "Electrek",
    "published": "2026-11-11T01:48:28Z",
    "category": "tesla"
-  },
-  {
-   "title": "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos",
-   "source": "Space.com",
-   "published": "2026-11-10T22:09:39Z",
-   "category": "spacex"
   },
   {
    "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
@@ -505,13 +505,6 @@
    "url": "https://www.notateslaapp.com/news/4969/tesla-launches-largest-robotaxi-zone-yet-in-san-antonio",
    "source": "Not a Tesla App",
    "published": "2026-11-09T12:16:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Explains Why the Cybertruck Was Canceled, Will Increase Production to Clear Backlog",
-   "url": "https://www.notateslaapp.com/news/4967/tesla-to-add-extra-cybertruck-shift-to-clear-order-backlog",
-   "source": "Not a Tesla App",
-   "published": "2026-11-08T16:30:00Z",
    "category": "tesla"
   }
  ]
