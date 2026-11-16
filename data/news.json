@@ -1,8 +1,78 @@
 {
- "generated_at": "2026-11-16T07:53:23Z",
- "count": 73,
+ "generated_at": "2026-11-16T18:22:30Z",
+ "count": 77,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Model X on Autopilot/FSD hit a pole and flipped, killing passenger",
+   "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-model-x-pole-rollover-naples/",
+   "source": "Electrek",
+   "published": "2026-11-16T18:10:05Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Nearly Doubles Miami Robotaxi Service Area, Expands Into Downtown",
+   "url": "https://www.notateslaapp.com/news/5021/tesla-nearly-doubles-miami-robotaxi-service-area-expands-into-downtown",
+   "source": "Not a Tesla App",
+   "published": "2026-11-16T17:32:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla confirms €3B Cybercab factory at Giga Berlin for up to 1M a year",
+   "url": "https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/",
+   "source": "Electrek",
+   "published": "2026-11-16T17:22:25Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Cybercab is Coming to Europe as Tesla Announces $3.3 Billion Giga Berlin Expansion",
+   "url": "https://www.notateslaapp.com/news/5020/cybercab-is-coming-to-europe-as-tesla-announces-33-billion-giga-berlin-expansion",
+   "source": "Not a Tesla App",
+   "published": "2026-11-16T17:11:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla makes €3 billion Cybercab bet at Giga Berlin",
+   "url": "https://www.teslarati.com/tesla-makes-e3-billion-cybercab-bet-giga-berlin/",
+   "source": "Teslarati",
+   "published": "2026-11-16T16:31:28Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Model 3 Maintenance Guide: What Needs Servicing And What Doesn't",
+   "url": "https://insideevs.com/news/814818/tesla-model-3-maintenance-guide/",
+   "source": "InsideEVs",
+   "published": "2026-11-16T16:26:25Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla on Autopilot/FSD was going 74 mph before fiery crash that killed 3",
+   "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-fiery-crash-el-dorado-hills/",
+   "source": "Electrek",
+   "published": "2026-11-16T16:00:24Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla on Autopilot/FSD hit an overturned truck at 71 mph, killing 3",
+   "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-overturned-truck-naples-i75/",
+   "source": "Electrek",
+   "published": "2026-11-16T15:13:45Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Just Bumped The Cheapest Model Y’s Range, But The Price Stays The Same",
+   "url": "https://insideevs.com/news/815562/tesla-model-y-rwd-range-boost-2027/",
+   "source": "InsideEVs",
+   "published": "2026-11-16T10:16:34Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Drivers Can Now Plug In And Charge Automatically at Ionna Stations",
+   "url": "https://insideevs.com/news/815544/tesla-autocharge-ionna-app/",
+   "source": "InsideEVs",
+   "published": "2026-11-16T08:57:44Z",
+   "category": "tesla"
+  },
   {
    "title": "Elon Musk is already planning a bigger Starship, and the Moon may be why",
    "url": "https://www.teslarati.com/elon-musk-spacex-starship-v4-moon/",
@@ -291,13 +361,6 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX hid behind another name in the Arizona desert, and now it’s going big",
-   "url": "https://www.teslarati.com/spacex-arizona-supercomputer-tombstone/",
-   "source": "Teslarati",
-   "published": "2026-11-12T18:08:19Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla to Hire NVIDIA CEO? Musk Says It Would Be 'an Honor'",
    "url": "https://www.notateslaapp.com/news/4992/tesla-to-hire-nvidia-ceo-musk-says-it-would-be-an-honor",
    "source": "Not a Tesla App",
@@ -403,13 +466,6 @@
    "category": "tesla"
   },
   {
-   "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, today? (Full mission timeline)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time",
-   "source": "Space.com",
-   "published": "2026-11-11T11:00:00Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla tuner Unplugged offers to take over Cybertruck production",
    "url": "https://electrek.co/2026/11/10/unplugged-performance-offers-take-over-tesla-cybertruck-production/",
    "source": "Electrek",
@@ -484,34 +540,6 @@
    "url": "https://www.notateslaapp.com/news/4974/tesla-vp-talks-about-how-lasers-may-make-their-way-to-the-cybercab",
    "source": "Not a Tesla App",
    "published": "2026-11-09T18:51:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Musk admits Tesla doesn’t have enough talent to build more than one car at a time after exodus",
-   "url": "https://electrek.co/2026/11/09/tesla-deep-bench-gone-musk-admits-talent-shortage/",
-   "source": "Electrek",
-   "published": "2026-11-09T16:41:29Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla launches Robotaxi in San Antonio with a 274 sq mi geofence on paper",
-   "url": "https://electrek.co/2026/11/09/tesla-robotaxi-san-antonio-launch-geofence/",
-   "source": "Electrek",
-   "published": "2026-11-09T14:36:37Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Musk says Cybertruck isn’t dying from weak sales — the numbers disagree",
-   "url": "https://electrek.co/2026/11/09/musk-cybertruck-demand-claim-data/",
-   "source": "Electrek",
-   "published": "2026-11-09T13:56:47Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Launches Robotaxi in San Antonio, Its 9th and Largest Region Yet",
-   "url": "https://www.notateslaapp.com/news/4969/tesla-launches-largest-robotaxi-zone-yet-in-san-antonio",
-   "source": "Not a Tesla App",
-   "published": "2026-11-09T12:16:00Z",
    "category": "tesla"
   }
  ]
