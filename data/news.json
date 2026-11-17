@@ -1,10 +1,73 @@
 {
- "generated_at": "2026-11-17T10:35:56Z",
- "count": 78,
+ "generated_at": "2026-11-17T19:22:35Z",
+ "count": 81,
  "errors": [],
  "stories": [
   {
-   "title": "Tesla may test customer-owned Robotaxis as early as next month, Musk says",
+   "title": "Tesla Update 2026.44.1 Brings Redesigned Service Menu and Improved Charging Views",
+   "url": "https://www.notateslaapp.com/news/5028/tesla-update-2026441-brings-redesigned-service-menu-and-improved-charging-views",
+   "source": "Not a Tesla App",
+   "published": "2026-11-17T18:33:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla just doubled its Miami Robotaxi geofence",
+   "url": "https://www.teslarati.com/tesla-doubled-miami-robotaxi-geofence/",
+   "source": "Teslarati",
+   "published": "2026-11-17T18:12:48Z",
+   "category": "tesla"
+  },
+  {
+   "title": "New Tesla Supercharger Adjusts Its Power Based on the Grid",
+   "url": "https://www.notateslaapp.com/news/5027/new-tesla-supercharger-adjusts-its-power-based-on-the-grid",
+   "source": "Not a Tesla App",
+   "published": "2026-11-17T18:01:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Unveils Powercore, a New 7.4 MW Solid-State Transformer Coming in 2027",
+   "url": "https://www.notateslaapp.com/news/5026/tesla-unveils-powercore-a-new-74-mw-solid-state-transformer-coming-in-2027",
+   "source": "Not a Tesla App",
+   "published": "2026-11-17T17:42:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Update 2026.44.1 is Hiding a New Navigation Option, Supercharger Notifications and Grok Improvements",
+   "url": "https://www.notateslaapp.com/news/5025/tesla-update-2026441-is-hiding-a-new-navigation-option-supercharger-notifications-and-grok-improvements",
+   "source": "Not a Tesla App",
+   "published": "2026-11-17T17:32:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link",
+   "url": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link/",
+   "source": "Electrek",
+   "published": "2026-11-17T16:35:25Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla tuner pleading to save Cybertruck also wants to build CyberSUV",
+   "url": "https://www.teslarati.com/tesla-tuner-pleading-save-cybertruck-wants-cybersuv/",
+   "source": "Teslarati",
+   "published": "2026-11-17T16:04:53Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla needs wireless charging fast, or its $30,000 Cybercab can’t charge at home",
+   "url": "https://electrek.co/2026/11/17/tesla-cybercab-home-charging-wireless-problem/",
+   "source": "Electrek",
+   "published": "2026-11-17T14:19:41Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Update 2026.44.1 Release Notes",
+   "url": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes",
+   "source": "Not a Tesla App",
+   "published": "2026-11-17T04:37:59Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Your Tesla could be in the Robotaxi fleet next month, Elon Musk claims",
    "url": "https://www.teslarati.com/tesla-may-test-customer-owned-robotaxis-early-next-month-musk-says/",
    "source": "Teslarati",
    "published": "2026-11-17T00:04:21Z",
@@ -16,6 +79,13 @@
    "source": "Teslarati",
    "published": "2026-11-16T23:53:33Z",
    "category": "spacex"
+  },
+  {
+   "title": "New Tesla Accessory Adds Kick-to-Open Trunk and Frunk for Just $99",
+   "url": "https://www.notateslaapp.com/news/5024/new-tesla-accessory-adds-wireless-kick-to-open-trunk-and-frunk-for-just-99",
+   "source": "Not a Tesla App",
+   "published": "2026-11-16T23:51:00Z",
+   "category": "tesla"
   },
   {
    "title": "Tesla Owners Could Add Their Vehicles to the Robotaxi Network As Early as Next Month",
@@ -39,7 +109,7 @@
    "category": "tesla"
   },
   {
-   "title": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch",
+   "title": "Relive Starship's historic Flight 15 with our best photos from launch and 'Mechazilla' tower catch",
    "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
    "source": "Space.com",
    "published": "2026-11-16T21:26:29Z",
@@ -298,24 +368,10 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX Starship Flight 15: How to watch the double catch attempt",
-   "url": "https://www.teslarati.com/spacex-starship-flight-15-how-to-watch-the-double-catch-attempt/",
-   "source": "Teslarati",
-   "published": "2026-11-13T18:07:32Z",
-   "category": "spacex"
-  },
-  {
    "title": "Unplugged Performance Offers to Build the Cybertruck for Tesla",
    "url": "https://www.notateslaapp.com/news/5008/unplugged-performance-offers-to-build-the-cybertruck-for-tesla",
    "source": "Not a Tesla App",
    "published": "2026-11-13T16:52:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla trims Model Y offerings as All-Wheel-Drive gets the axe",
-   "url": "https://www.teslarati.com/tesla-trims-model-y-offerings-all-wheel-drive-gets-axe/",
-   "source": "Teslarati",
-   "published": "2026-11-13T15:29:04Z",
    "category": "tesla"
   },
   {
@@ -387,13 +443,6 @@
    "source": "Electrek",
    "published": "2026-11-12T20:39:14Z",
    "category": "both"
-  },
-  {
-   "title": "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it in the night sky?",
-   "url": "https://www.space.com/stargazing/spacexs-starship-megarocket-will-launch-to-orbit-on-nov-13-will-you-be-able-to-spot-it-in-the-night-sky",
-   "source": "Space.com",
-   "published": "2026-11-12T20:00:00Z",
-   "category": "spacex"
   },
   {
    "title": "Tesla Raises Wall Connector Price Again, Now $635",
@@ -519,34 +568,6 @@
    "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.5/release-notes",
    "source": "Not a Tesla App",
    "published": "2026-11-10T20:48:56Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla’s China sales crash 66% to lowest level in over four years",
-   "url": "https://electrek.co/2026/11/10/tesla-china-sales-crash-october-2026-lowest-four-years/",
-   "source": "Electrek",
-   "published": "2026-11-10T16:04:43Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Explains Why It Dropped Sunroofs From Its Vehicles",
-   "url": "https://www.notateslaapp.com/news/4980/tesla-explains-why-it-dropped-sunroofs-from-its-vehicles",
-   "source": "Not a Tesla App",
-   "published": "2026-11-10T15:47:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "You May Never Get Your Cybertruck; Tesla Says It Will Refund ‘a Lot of People’",
-   "url": "https://www.notateslaapp.com/news/4978/you-may-never-get-your-cybertruck-as-tesla-says-it-will-refund-a-lot-of-people",
-   "source": "Not a Tesla App",
-   "published": "2026-11-10T14:23:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Hikes Cyberbeast Price Again, Ends Cybertruck Premium Ordering",
-   "url": "https://www.notateslaapp.com/news/4979/tesla-ends-cybertruck-premium-orders-hikes-cyberbeast-price",
-   "source": "Not a Tesla App",
-   "published": "2026-11-10T12:40:00Z",
    "category": "tesla"
   }
  ]
