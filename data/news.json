@@ -1,8 +1,64 @@
 {
- "generated_at": "2026-11-16T18:22:30Z",
- "count": 77,
+ "generated_at": "2026-11-17T02:02:17Z",
+ "count": 78,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla may test customer-owned Robotaxis as early as next month, Musk says",
+   "url": "https://www.teslarati.com/tesla-may-test-customer-owned-robotaxis-early-next-month-musk-says/",
+   "source": "Teslarati",
+   "published": "2026-11-17T00:04:21Z",
+   "category": "tesla"
+  },
+  {
+   "title": "FAA turned down free Starlink offer before nationwide ground stop, Elon Musk says",
+   "url": "https://www.teslarati.com/faa-turned-down-free-starlink-offer-before-nationwide-ground-stop-elon-musk-says/",
+   "source": "Teslarati",
+   "published": "2026-11-16T23:53:33Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Owners Could Add Their Vehicles to the Robotaxi Network As Early as Next Month",
+   "url": "https://www.notateslaapp.com/news/5022/tesla-to-allow-customers-to-add-their-vehicles-to-robotaxi-as-early-as-next-month",
+   "source": "Not a Tesla App",
+   "published": "2026-11-16T23:29:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-16T21:57:02Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
+   "url": "https://electrek.co/2026/11/16/tesla-cybercab-crashes-speed-problem/",
+   "source": "Electrek",
+   "published": "2026-11-16T21:41:36Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
+   "source": "Space.com",
+   "published": "2026-11-16T21:26:29Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
+   "source": "Space.com",
+   "published": "2026-11-16T20:04:22Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Keeps Killing Cars. Now It Wants To Build Cybercabs In Germany",
+   "url": "https://insideevs.com/news/815634/tesla-german-factory-expansion-cybercab/",
+   "source": "InsideEVs",
+   "published": "2026-11-16T18:32:10Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Model X on Autopilot/FSD hit a pole and flipped, killing passenger",
    "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-model-x-pole-rollover-naples/",
@@ -32,7 +88,7 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla makes €3 billion Cybercab bet at Giga Berlin",
+   "title": "Tesla makes $3.3 billion Cybercab bet at Giga Berlin",
    "url": "https://www.teslarati.com/tesla-makes-e3-billion-cybercab-bet-giga-berlin/",
    "source": "Teslarati",
    "published": "2026-11-16T16:31:28Z",
@@ -263,13 +319,6 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX Starship is going for a catch that could change spaceflight forever",
-   "url": "https://www.teslarati.com/spacex-starship-flight-15-double-catch/",
-   "source": "Teslarati",
-   "published": "2026-11-13T15:13:56Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla Stops Taking Orders for Entry-Level Model Y AWD",
    "url": "https://www.notateslaapp.com/news/5002/tesla-stops-taking-orders-for-entry-level-model-y-awd",
    "source": "Not a Tesla App",
@@ -303,13 +352,6 @@
    "source": "Space.com",
    "published": "2026-11-13T08:03:59Z",
    "category": "spacex"
-  },
-  {
-   "title": "Tesla and SpaceX merger talks hit a new stage, and one hurdle remains",
-   "url": "https://www.teslarati.com/tesla-spacex-merger-timeline/",
-   "source": "Teslarati",
-   "published": "2026-11-13T05:53:37Z",
-   "category": "both"
   },
   {
    "title": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
@@ -387,13 +429,6 @@
    "source": "InsideEVs",
    "published": "2026-11-12T08:27:22Z",
    "category": "tesla"
-  },
-  {
-   "title": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (video, photos)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2nd-mystery-mission-for-us-space-force-in-6-day-span-photos",
-   "source": "Space.com",
-   "published": "2026-11-12T05:24:54Z",
-   "category": "spacex"
   },
   {
    "title": "Tesla Shop Launches Cybertruck RC Car, New Optimus Figure",
@@ -512,34 +547,6 @@
    "url": "https://www.notateslaapp.com/news/4979/tesla-ends-cybertruck-premium-orders-hikes-cyberbeast-price",
    "source": "Not a Tesla App",
    "published": "2026-11-10T12:40:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-   "source": "NASASpaceflight",
-   "published": "2026-11-09T22:37:05Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Musk Says Cybertruck Is Profitable, Explains Cancellation",
-   "url": "https://www.notateslaapp.com/news/4976/musk-says-cybertruck-is-profitable-explains-cancellation",
-   "source": "Not a Tesla App",
-   "published": "2026-11-09T21:30:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Robotaxi Area Expands in Austin, Increases Hours Again",
-   "url": "https://www.notateslaapp.com/news/4975/tesla-robotaxi-area-expands-in-austin-increases-hours-again",
-   "source": "Not a Tesla App",
-   "published": "2026-11-09T19:37:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla VP Talks About How Lasers May Make Their Way to the Cybercab",
-   "url": "https://www.notateslaapp.com/news/4974/tesla-vp-talks-about-how-lasers-may-make-their-way-to-the-cybercab",
-   "source": "Not a Tesla App",
-   "published": "2026-11-09T18:51:00Z",
    "category": "tesla"
   }
  ]
