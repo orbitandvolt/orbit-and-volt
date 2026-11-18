@@ -1,10 +1,50 @@
 {
- "generated_at": "2026-11-18T10:01:54Z",
- "count": 79,
- "errors": [
-  "NASASpaceflight: HTTP Error 403: Forbidden"
- ],
+ "generated_at": "2026-11-18T18:48:29Z",
+ "count": 76,
+ "errors": [],
  "stories": [
+  {
+   "title": "UP Sweetens Deal for Tesla, Offers Revenue on Every Vehicle",
+   "url": "https://www.notateslaapp.com/news/5031/up-sweetens-deal-for-tesla-offers-revenue-on-every-vehicle",
+   "source": "Not a Tesla App",
+   "published": "2026-11-18T18:44:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla toughens FSD driver monitoring in Europe while loosening it in the US",
+   "url": "https://electrek.co/2026/11/18/tesla-fsd-driver-monitoring-europe-stricter-than-us/",
+   "source": "Electrek",
+   "published": "2026-11-18T18:33:41Z",
+   "category": "tesla"
+  },
+  {
+   "title": "West Coast Customs turns a Tesla Model 3 into a 1955 Chevy Bel Air",
+   "url": "https://electrek.co/2026/11/18/west-coast-customs-tesla-model-3-1955-chevy-bel-air-ev/",
+   "source": "Electrek",
+   "published": "2026-11-18T17:13:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Sean Duffy fires back at Elon Musk over free Starlink",
+   "url": "https://www.teslarati.com/sean-duffy-elon-musk-free-starlink/",
+   "source": "Teslarati",
+   "published": "2026-11-18T17:06:39Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla gears up Cybercab with Starlink for public debut, but with notable changes",
+   "url": "https://www.teslarati.com/tesla-gears-up-cybercab-starlink-for-public-debut-notable-changes/",
+   "source": "Teslarati",
+   "published": "2026-11-18T16:30:43Z",
+   "category": "both"
+  },
+  {
+   "title": "Tesla’s Semi Megacharger network hits 7 sites, far short of 37 goal",
+   "url": "https://electrek.co/2026/11/18/tesla-semi-megacharger-network-mesquite-texas/",
+   "source": "Electrek",
+   "published": "2026-11-18T15:43:18Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla’s Powercore could change how data centers get power",
    "url": "https://www.teslarati.com/tesla-powercore-data-center-solid-state-voltage-transformer/",
@@ -132,6 +172,13 @@
    "category": "tesla"
   },
   {
+   "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-16T21:57:02Z",
+   "category": "spacex"
+  },
+  {
    "title": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
    "url": "https://electrek.co/2026/11/16/tesla-cybercab-crashes-speed-problem/",
    "source": "Electrek",
@@ -237,13 +284,6 @@
    "category": "spacex"
   },
   {
-   "title": "MKBHD just ordered the Tesla Cybercab with his hair on the line",
-   "url": "https://www.teslarati.com/mkbhd-tesla-cybercab-bet/",
-   "source": "Teslarati",
-   "published": "2026-11-15T17:25:07Z",
-   "category": "tesla"
-  },
-  {
    "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
    "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
    "source": "Electrek",
@@ -270,13 +310,6 @@
    "source": "Not a Tesla App",
    "published": "2026-11-14T22:06:00Z",
    "category": "tesla"
-  },
-  {
-   "title": "SpaceX makes history, catching Starship from orbit for the first time",
-   "url": "https://www.teslarati.com/spacex-catches-starship-first/",
-   "source": "Teslarati",
-   "published": "2026-11-14T21:40:07Z",
-   "category": "spacex"
   },
   {
    "title": "Tesla Cybercab Ownership Rules: No Wraps or Customizations, Subscription May Change",
@@ -405,13 +438,6 @@
    "category": "tesla"
   },
   {
-   "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex",
-   "source": "Space.com",
-   "published": "2026-11-13T13:00:00Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla Just Killed Its Cheapest All-Wheel-Drive Model Y",
    "url": "https://insideevs.com/news/815395/tesla-model-y-awd-discontinued/",
    "source": "InsideEVs",
@@ -419,17 +445,10 @@
    "category": "tesla"
   },
   {
-   "title": "'Don't panic': SpaceX pens familiar message on Starship ahead of historic double-catch test flight",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight",
-   "source": "Space.com",
-   "published": "2026-11-13T08:03:59Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
-   "source": "Space.com",
-   "published": "2026-11-13T05:05:00Z",
+   "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+   "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-13T04:24:28Z",
    "category": "spacex"
   },
   {
@@ -514,48 +533,6 @@
    "url": "https://insideevs.com/news/815183/tesla-extends-cybertruck-production-summer-2027/",
    "source": "InsideEVs",
    "published": "2026-11-11T19:18:59Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla extends Cybertruck production to late summer 2027 amid fan backlash",
-   "url": "https://electrek.co/2026/11/11/tesla-extends-cybertruck-production-summer-2027-fan-backlash/",
-   "source": "Electrek",
-   "published": "2026-11-11T18:24:50Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla confirms rare new delivery of 50 Semi electric trucks in Chicago",
-   "url": "https://electrek.co/2026/11/11/tesla-semi-delivery-50-trucks-chicago-hmd/",
-   "source": "Electrek",
-   "published": "2026-11-11T18:03:12Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Is Extending Cybertruck Production After Backlash and Strong Demand",
-   "url": "https://www.notateslaapp.com/news/4987/tesla-is-extending-cybertruck-production-after-backlash-and-strong-demand",
-   "source": "Not a Tesla App",
-   "published": "2026-11-11T17:41:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla FSD Approved in Finland, Rolling Out Soon",
-   "url": "https://www.notateslaapp.com/news/4986/tesla-fsd-approved-in-finland-rolling-out-soon",
-   "source": "Not a Tesla App",
-   "published": "2026-11-11T16:10:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Is Squeezing More Money Out Of The Cybertruck Before It Dies",
-   "url": "https://insideevs.com/news/815084/tesla-cybertruck-squeezing-pennies-death/",
-   "source": "InsideEVs",
-   "published": "2026-11-11T16:09:30Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Porsche CEO takes a shot at Tesla’s ‘flying’ Roadster stunt show",
-   "url": "https://electrek.co/2026/11/11/porsche-ceo-tesla-flying-roadster-stunt/",
-   "source": "Electrek",
-   "published": "2026-11-11T14:34:00Z",
    "category": "tesla"
   }
  ]
