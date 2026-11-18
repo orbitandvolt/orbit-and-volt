@@ -1,8 +1,17 @@
 {
- "generated_at": "2026-11-18T01:51:05Z",
- "count": 81,
- "errors": [],
+ "generated_at": "2026-11-18T10:01:54Z",
+ "count": 79,
+ "errors": [
+  "NASASpaceflight: HTTP Error 403: Forbidden"
+ ],
  "stories": [
+  {
+   "title": "Tesla’s Powercore could change how data centers get power",
+   "url": "https://www.teslarati.com/tesla-powercore-data-center-solid-state-voltage-transformer/",
+   "source": "Teslarati",
+   "published": "2026-11-18T06:42:15Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Launches Its First FSD Ad in Times Square",
    "url": "https://www.notateslaapp.com/news/5030/tesla-launches-its-first-fsd-ad-in-times-square",
@@ -121,13 +130,6 @@
    "source": "Not a Tesla App",
    "published": "2026-11-16T23:29:00Z",
    "category": "tesla"
-  },
-  {
-   "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-   "source": "NASASpaceflight",
-   "published": "2026-11-16T21:57:02Z",
-   "category": "spacex"
   },
   {
    "title": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
@@ -312,13 +314,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla Cybercab ownership will come with plenty of strings attached",
-   "url": "https://www.teslarati.com/tesla-cybercab-arrives-steep-ownership-fine-print/",
-   "source": "Teslarati",
-   "published": "2026-11-14T13:32:34Z",
-   "category": "tesla"
-  },
-  {
    "title": "Diesel Prices Are Surging. This Electric Trucking Company Is Seeing More Interest",
    "url": "https://insideevs.com/news/815472/diesel-prices-electric-trucks-einride/",
    "source": "InsideEVs",
@@ -435,13 +430,6 @@
    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
    "source": "Space.com",
    "published": "2026-11-13T05:05:00Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-   "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-   "source": "NASASpaceflight",
-   "published": "2026-11-13T04:24:28Z",
    "category": "spacex"
   },
   {
