@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-11-17T19:22:35Z",
+ "generated_at": "2026-11-18T01:51:05Z",
  "count": 81,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Launches Its First FSD Ad in Times Square",
+   "url": "https://www.notateslaapp.com/news/5030/tesla-launches-its-first-fsd-ad-in-times-square",
+   "source": "Not a Tesla App",
+   "published": "2026-11-17T20:53:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla TAD in Europe to Require Attention During Maneuvers and Hands on Wheel Over 130 Km/h",
+   "url": "https://www.notateslaapp.com/news/5029/tesla-tad-in-europe-to-require-hands-on-wheel-over-130-kmh-more",
+   "source": "Not a Tesla App",
+   "published": "2026-11-17T20:05:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla changes vehicle computers from ‘AI’ to ‘SI,’ reflecting President Trump change",
+   "url": "https://www.teslarati.com/tesla-changes-vehicle-computers-from-ai-to-si-reflecting-president-trump-change/",
+   "source": "Teslarati",
+   "published": "2026-11-17T19:50:50Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Update 2026.44.1 Brings Redesigned Service Menu and Improved Charging Views",
    "url": "https://www.notateslaapp.com/news/5028/tesla-update-2026441-brings-redesigned-service-menu-and-improved-charging-views",
@@ -15,6 +36,13 @@
    "url": "https://www.teslarati.com/tesla-doubled-miami-robotaxi-geofence/",
    "source": "Teslarati",
    "published": "2026-11-17T18:12:48Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Chevy, GMC, and Cadillac EV Owners Can Now Plug And Charge At Electrify America",
+   "url": "https://insideevs.com/news/815783/plug-charge-electrify-america-gm/",
+   "source": "InsideEVs",
+   "published": "2026-11-17T18:04:11Z",
    "category": "tesla"
   },
   {
@@ -326,13 +354,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla Cybercab goes on sale for $29,990, slated for December deliveries",
-   "url": "https://www.teslarati.com/tesla-cybercab-29990-december-deliveries/",
-   "source": "Teslarati",
-   "published": "2026-11-13T23:46:15Z",
-   "category": "tesla"
-  },
-  {
    "title": "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video)",
    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
    "source": "Space.com",
@@ -547,27 +568,6 @@
    "url": "https://electrek.co/2026/11/11/porsche-ceo-tesla-flying-roadster-stunt/",
    "source": "Electrek",
    "published": "2026-11-11T14:34:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla tuner Unplugged offers to take over Cybertruck production",
-   "url": "https://electrek.co/2026/11/10/unplugged-performance-offers-take-over-tesla-cybertruck-production/",
-   "source": "Electrek",
-   "published": "2026-11-11T01:48:28Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Lucid CEO admits it ‘did not even know where cars were’ and lost orders",
-   "url": "https://electrek.co/2026/11/10/lucid-ceo-did-not-know-where-cars-were-lost-orders/",
-   "source": "Electrek",
-   "published": "2026-11-10T21:03:24Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla App 4.62.5 Update Adds Ability to Remove Vehicle Keys and More",
-   "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.5/release-notes",
-   "source": "Not a Tesla App",
-   "published": "2026-11-10T20:48:56Z",
    "category": "tesla"
   }
  ]
