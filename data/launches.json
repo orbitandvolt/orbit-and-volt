@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T18:48:29Z",
+ "generated_at": "2026-11-19T01:05:27Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
@@ -26,6 +26,16 @@
    "name": "Falcon 9 Block 5 | USSF-266",
    "mission": "USSF-266",
    "net": "2026-11-23T16:04:00Z",
+   "precision": "MIN",
+   "status": "Go",
+   "status_name": "Go for Launch",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | USSF-380",
+   "mission": "USSF-380",
+   "net": "2026-11-28T04:53:00Z",
    "precision": "MIN",
    "status": "Go",
    "status_name": "Go for Launch",
@@ -111,16 +121,6 @@
    "status_name": "To Be Determined",
    "pad": "Space Launch Complex 4E",
    "location": "Vandenberg SFB, CA, USA"
-  },
-  {
-   "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
-   "mission": "BlueBird 14-16 (Block 2 #9-11)",
-   "net": "2026-12-31T00:00:00Z",
-   "precision": "Q4",
-   "status": "TBD",
-   "status_name": "To Be Determined",
-   "pad": "Space Launch Complex 40",
-   "location": "Cape Canaveral SFS, FL, USA"
   }
  ]
 }

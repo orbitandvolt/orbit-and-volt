@@ -1,8 +1,36 @@
 {
- "generated_at": "2026-11-18T18:48:29Z",
- "count": 76,
+ "generated_at": "2026-11-19T01:05:27Z",
+ "count": 75,
  "errors": [],
  "stories": [
+  {
+   "title": "You'll Be Able to Move Cybercab With On-Screen Controls, Like a Video Game",
+   "url": "https://www.notateslaapp.com/news/5034/youll-be-able-to-move-cybercab-with-on-screen-controls-like-a-video-game",
+   "source": "Not a Tesla App",
+   "published": "2026-11-18T22:18:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla’s iPhone App Ditches Apple Maps for Google Maps",
+   "url": "https://www.notateslaapp.com/news/5033/teslas-iphone-app-ditches-apple-maps-for-google-maps",
+   "source": "Not a Tesla App",
+   "published": "2026-11-18T20:36:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Robotaxi takes over for Uber credits and loaners at Service locations",
+   "url": "https://www.teslarati.com/tesla-robotaxi-takes-over-uber-credits-loaners-service/",
+   "source": "Teslarati",
+   "published": "2026-11-18T20:03:42Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla App Will Soon Let You Precondition Your Battery",
+   "url": "https://www.notateslaapp.com/news/5032/tesla-app-will-soon-let-you-precondition-your-battery",
+   "source": "Not a Tesla App",
+   "published": "2026-11-18T19:43:00Z",
+   "category": "tesla"
+  },
   {
    "title": "UP Sweetens Deal for Tesla, Offers Revenue on Every Vehicle",
    "url": "https://www.notateslaapp.com/news/5031/up-sweetens-deal-for-tesla-offers-revenue-on-every-vehicle",
@@ -277,13 +305,6 @@
    "category": "tesla"
   },
   {
-   "title": "Elon Musk is already planning a bigger Starship, and the Moon may be why",
-   "url": "https://www.teslarati.com/elon-musk-spacex-starship-v4-moon/",
-   "source": "Teslarati",
-   "published": "2026-11-16T06:12:44Z",
-   "category": "spacex"
-  },
-  {
    "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
    "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
    "source": "Electrek",
@@ -505,34 +526,6 @@
    "url": "https://insideevs.com/news/815226/tesla-cybertruck-rc-racer-specs-price/",
    "source": "InsideEVs",
    "published": "2026-11-12T08:27:22Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Shop Launches Cybertruck RC Car, New Optimus Figure",
-   "url": "https://www.notateslaapp.com/news/4990/tesla-shop-launches-cybertruck-rc-car-new-optimus-figure",
-   "source": "Not a Tesla App",
-   "published": "2026-11-11T21:27:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Giga Berlin May Build a New Vehicle. Will It Be a Model 2, Cybercab?",
-   "url": "https://www.notateslaapp.com/news/4989/tesla-to-still-build-the-model-2-giga-berlin-may-build-a-new-vehicle",
-   "source": "Not a Tesla App",
-   "published": "2026-11-11T20:10:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Exclusive: Musk Cut Basic Autopilot From New Vehicles to Boost FSD Subscriptions",
-   "url": "https://www.notateslaapp.com/news/4988/exclusive-musk-cut-basic-autopilot-from-new-vehicles-to-boost-fsd-subscriptions",
-   "source": "Not a Tesla App",
-   "published": "2026-11-11T20:08:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Extends Cybertruck Production Run To Work Through Order Backlog",
-   "url": "https://insideevs.com/news/815183/tesla-extends-cybertruck-production-summer-2027/",
-   "source": "InsideEVs",
-   "published": "2026-11-11T19:18:59Z",
    "category": "tesla"
   }
  ]
