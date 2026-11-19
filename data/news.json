@@ -1,8 +1,22 @@
 {
- "generated_at": "2026-11-19T01:05:27Z",
+ "generated_at": "2026-11-19T08:42:54Z",
  "count": 75,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla’s Cybercab fleet just had its biggest day ever",
+   "url": "https://www.teslarati.com/teslas-cybercab-fleet-just-had-its-biggest-day-ever/",
+   "source": "Teslarati",
+   "published": "2026-11-19T05:54:57Z",
+   "category": "tesla"
+  },
+  {
+   "title": "A Tesla Model Y Without A Steering Wheel Is Coming: Musk",
+   "url": "https://insideevs.com/news/815960/tesla-model-y-steering-wheel-remove/",
+   "source": "InsideEVs",
+   "published": "2026-11-19T02:08:25Z",
+   "category": "tesla"
+  },
   {
    "title": "You'll Be Able to Move Cybercab With On-Screen Controls, Like a Video Game",
    "url": "https://www.notateslaapp.com/news/5034/youll-be-able-to-move-cybercab-with-on-screen-controls-like-a-video-game",
@@ -263,13 +277,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla makes $3.3 billion Cybercab bet at Giga Berlin",
-   "url": "https://www.teslarati.com/tesla-makes-e3-billion-cybercab-bet-giga-berlin/",
-   "source": "Teslarati",
-   "published": "2026-11-16T16:31:28Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla Model 3 Maintenance Guide: What Needs Servicing And What Doesn't",
    "url": "https://insideevs.com/news/814818/tesla-model-3-maintenance-guide/",
    "source": "InsideEVs",
@@ -519,13 +526,6 @@
    "url": "https://electrek.co/2026/11/12/tesla-driver-asleep-ottawa-opp-careless-driving-fsd/",
    "source": "Electrek",
    "published": "2026-11-12T14:36:09Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla’s Cheapest Cybertruck Ever Is An RC Racer That Goes 37 MPH",
-   "url": "https://insideevs.com/news/815226/tesla-cybertruck-rc-racer-specs-price/",
-   "source": "InsideEVs",
-   "published": "2026-11-12T08:27:22Z",
    "category": "tesla"
   }
  ]
