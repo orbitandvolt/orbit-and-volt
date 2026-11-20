@@ -1,10 +1,59 @@
 {
- "generated_at": "2026-11-19T18:10:43Z",
+ "generated_at": "2026-11-20T00:52:51Z",
  "count": 75,
  "errors": [],
  "stories": [
   {
-   "title": "The Tesla Cybercab Is Now Available In Dallas",
+   "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+   "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+   "source": "Spaceflight Now",
+   "published": "2026-11-19T23:51:47Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Plans Model Y L With No Steering Wheel or Pedals",
+   "url": "https://www.notateslaapp.com/news/5046/tesla-plans-model-y-l-with-no-steering-wheel-or-pedals",
+   "source": "Not a Tesla App",
+   "published": "2026-11-19T22:44:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
+   "source": "Space.com",
+   "published": "2026-11-19T22:00:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Cybercab Specs Revealed: Warranty, Range, Charging & More",
+   "url": "https://www.notateslaapp.com/news/5045/cybercab-specs-revealed-including-warranty-range-and-charging",
+   "source": "Not a Tesla App",
+   "published": "2026-11-19T21:49:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Launches Cybercab Rides in Dallas With New V1.5 Design",
+   "url": "https://www.notateslaapp.com/news/5044/tesla-launches-cybercab-rides-in-dallas-with-new-v15-design",
+   "source": "Not a Tesla App",
+   "published": "2026-11-19T20:18:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Elon Musk makes surprise stop at Giga Shanghai with a message for Tesla’s China team",
+   "url": "https://www.teslarati.com/elon-musk-makes-surprise-stop-at-giga-shanghai-with-a-message-for-teslas-china-team/",
+   "source": "Teslarati",
+   "published": "2026-11-19T19:12:16Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla May Stop Producing Model Y In Favor of Model Y L: Musk",
+   "url": "https://www.notateslaapp.com/news/5043/musk-says-tesla-should-move-all-model-y-production-to-y-l",
+   "source": "Not a Tesla App",
+   "published": "2026-11-19T18:35:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla's Driverless Cybercab Is Now Available In Dallas",
    "url": "https://insideevs.com/news/816139/tesla-cybercab-robotaxi-expands-to-dallas/",
    "source": "InsideEVs",
    "published": "2026-11-19T18:07:15Z",
@@ -228,13 +277,6 @@
    "category": "tesla"
   },
   {
-   "title": "Your Tesla could be in the Robotaxi fleet next month, Elon Musk claims",
-   "url": "https://www.teslarati.com/tesla-may-test-customer-owned-robotaxis-early-next-month-musk-says/",
-   "source": "Teslarati",
-   "published": "2026-11-17T00:04:21Z",
-   "category": "tesla"
-  },
-  {
    "title": "New Tesla Accessory Adds Kick-to-Open Trunk and Frunk for Just $99",
    "url": "https://www.notateslaapp.com/news/5024/new-tesla-accessory-adds-wireless-kick-to-open-trunk-and-frunk-for-just-99",
    "source": "Not a Tesla App",
@@ -354,13 +396,6 @@
    "category": "tesla"
   },
   {
-   "title": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
-   "source": "Space.com",
-   "published": "2026-11-15T11:00:00Z",
-   "category": "spacex"
-  },
-  {
    "title": "MKBHD Orders a Tesla Cybercab to Decide Head-Shaving Bet",
    "url": "https://www.notateslaapp.com/news/5019/mkbhd-orders-a-tesla-cybercab-to-decide-head-shaving-bet",
    "source": "Not a Tesla App",
@@ -394,13 +429,6 @@
    "source": "Not a Tesla App",
    "published": "2026-11-14T18:19:00Z",
    "category": "tesla"
-  },
-  {
-   "title": "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
-   "source": "Space.com",
-   "published": "2026-11-14T14:53:00Z",
-   "category": "spacex"
   },
   {
    "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
@@ -499,34 +527,6 @@
    "source": "NASASpaceflight",
    "published": "2026-11-13T04:24:28Z",
    "category": "spacex"
-  },
-  {
-   "title": "America's Top 3 SUVs Are About To Be Hybrid Or Electric",
-   "url": "https://insideevs.com/news/815319/honda-crv-hybrid-toyota-rav4-tesla-model-y/",
-   "source": "InsideEVs",
-   "published": "2026-11-12T20:56:22Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Update 2026.39.100 Quietly Reduces FSD/TAD Max Speed in Europe",
-   "url": "https://www.notateslaapp.com/news/4998/tesla-update-202639100-quietly-reduces-fsdtad-max-speed-in-europe",
-   "source": "Not a Tesla App",
-   "published": "2026-11-12T20:47:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
-   "url": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/",
-   "source": "Electrek",
-   "published": "2026-11-12T20:39:14Z",
-   "category": "both"
-  },
-  {
-   "title": "Tesla Raises Wall Connector Price Again, Now $635",
-   "url": "https://www.notateslaapp.com/news/4997/tesla-raises-wall-connector-price-again-now-635",
-   "source": "Not a Tesla App",
-   "published": "2026-11-12T19:22:00Z",
-   "category": "tesla"
   }
  ]
 }
