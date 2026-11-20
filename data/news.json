@@ -1,8 +1,43 @@
 {
- "generated_at": "2026-11-20T17:13:33Z",
- "count": 74,
+ "generated_at": "2026-11-20T23:19:04Z",
+ "count": 75,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Expands Dallas Robotaxi Area by a Whole Square Mile",
+   "url": "https://www.notateslaapp.com/news/5055/tesla-expands-dallas-robotaxi-area-by-a-whole-square-mile",
+   "source": "Not a Tesla App",
+   "published": "2026-11-20T22:09:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Update 2026.44 Brings FSD v14.3 and v14.3 Lite to Every Owner",
+   "url": "https://www.notateslaapp.com/news/5054/tesla-update-202644-brings-fsd-v143-and-v143-lite-to-every-owner",
+   "source": "Not a Tesla App",
+   "published": "2026-11-20T21:10:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Adds Grok Button to Navigation Search Bar",
+   "url": "https://www.notateslaapp.com/news/5053/tesla-adds-grok-button-to-navigation-search-bar",
+   "source": "Not a Tesla App",
+   "published": "2026-11-20T20:08:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Following Ship 42’s catch, SpaceX looks to the future",
+   "url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-20T19:49:06Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla FSD Jailbroken in China, Fix Already on the Way",
+   "url": "https://www.notateslaapp.com/news/5052/tesla-fsd-jailbroken-in-china-fix-already-on-the-way",
+   "source": "Not a Tesla App",
+   "published": "2026-11-20T18:50:00Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla FSD approved in Italy, the first big EU market to say yes",
    "url": "https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/",
@@ -39,7 +74,7 @@
    "category": "spacex"
   },
   {
-   "title": "Watch SpaceX Dragon cargo capsule head home to Earth from the ISS today",
+   "title": "SpaceX Dragon cargo capsule heads home to Earth from the ISS",
    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
    "source": "Space.com",
    "published": "2026-11-20T11:00:00Z",
@@ -491,34 +526,6 @@
    "url": "https://insideevs.com/news/815473/tesla-cybercab-pricing-sales-announced/",
    "source": "InsideEVs",
    "published": "2026-11-14T00:06:29Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Researcher Creates Hack to Steer Tesla With Switch 2 [VIDEO]",
-   "url": "https://www.notateslaapp.com/news/5011/researcher-creates-hack-to-steer-tesla-with-switch-2-video",
-   "source": "Not a Tesla App",
-   "published": "2026-11-13T21:00:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Starship returns to Starbase and a successful tower catch",
-   "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
-   "source": "Spaceflight Now",
-   "published": "2026-11-13T19:15:11Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Tesla and SpaceX Merger Could Be Announced in December: Report",
-   "url": "https://www.notateslaapp.com/news/5010/tesla-and-spacex-merger-could-be-announced-in-december-report",
-   "source": "Not a Tesla App",
-   "published": "2026-11-13T18:37:00Z",
-   "category": "both"
-  },
-  {
-   "title": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast",
-   "url": "https://electrek.co/2026/11/13/tesla-only-sells-cybertruck-cyberbeast-109990/",
-   "source": "Electrek",
-   "published": "2026-11-13T18:13:44Z",
    "category": "tesla"
   }
  ]
