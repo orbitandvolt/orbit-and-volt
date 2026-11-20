@@ -1,10 +1,17 @@
 {
- "generated_at": "2026-11-20T00:52:51Z",
- "count": 75,
+ "generated_at": "2026-11-20T08:26:09Z",
+ "count": 74,
  "errors": [],
  "stories": [
   {
-   "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+   "title": "Elon Musk reveals Tesla’s next vehicle without a steering wheel",
+   "url": "https://www.teslarati.com/elon-musk-tesla-model-yl-no-steering-wheel-robotaxi/",
+   "source": "Teslarati",
+   "published": "2026-11-20T05:38:02Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX scrubs launch of classified payload for the U.S. Space Force, targets Friday",
    "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
    "source": "Spaceflight Now",
    "published": "2026-11-19T23:51:47Z",
@@ -253,13 +260,6 @@
    "url": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link/",
    "source": "Electrek",
    "published": "2026-11-17T16:35:25Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla tuner pleading to save Cybertruck also wants to build CyberSUV",
-   "url": "https://www.teslarati.com/tesla-tuner-pleading-save-cybertruck-wants-cybersuv/",
-   "source": "Teslarati",
-   "published": "2026-11-17T16:04:53Z",
    "category": "tesla"
   },
   {
@@ -520,13 +520,6 @@
    "source": "InsideEVs",
    "published": "2026-11-13T11:56:01Z",
    "category": "tesla"
-  },
-  {
-   "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-   "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-   "source": "NASASpaceflight",
-   "published": "2026-11-13T04:24:28Z",
-   "category": "spacex"
   }
  ]
 }
