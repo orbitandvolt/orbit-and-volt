@@ -1,8 +1,50 @@
 {
- "generated_at": "2026-11-20T08:26:09Z",
+ "generated_at": "2026-11-20T17:13:33Z",
  "count": 74,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla FSD approved in Italy, the first big EU market to say yes",
+   "url": "https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/",
+   "source": "Electrek",
+   "published": "2026-11-20T15:50:46Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Assisted Driving (TAD) lands approval in Italy, its 12th EU country",
+   "url": "https://www.teslarati.com/tesla-assisted-driving-tad-lands-approval-italy-12th-eu-country/",
+   "source": "Teslarati",
+   "published": "2026-11-20T15:14:17Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Cybercab’s ‘Autonomy Subscription’ covers all bases for a self-driving car",
+   "url": "https://www.teslarati.com/tesla-cybercabs-autonomy-subscription-covers-all-bases-for-a-self-driving-car/",
+   "source": "Teslarati",
+   "published": "2026-11-20T14:57:01Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Assisted Driving Approved in Italy, 12th EU Country",
+   "url": "https://www.notateslaapp.com/news/5047/tesla-assisted-driving-approved-in-italy-12th-eu-country",
+   "source": "Not a Tesla App",
+   "published": "2026-11-20T14:13:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
+   "url": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
+   "source": "Space.com",
+   "published": "2026-11-20T13:00:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Watch SpaceX Dragon cargo capsule head home to Earth from the ISS today",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
+   "source": "Space.com",
+   "published": "2026-11-20T11:00:00Z",
+   "category": "spacex"
+  },
   {
    "title": "Elon Musk reveals Tesla’s next vehicle without a steering wheel",
    "url": "https://www.teslarati.com/elon-musk-tesla-model-yl-no-steering-wheel-robotaxi/",
@@ -207,24 +249,10 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla changes vehicle computers from ‘AI’ to ‘SI,’ reflecting President Trump change",
-   "url": "https://www.teslarati.com/tesla-changes-vehicle-computers-from-ai-to-si-reflecting-president-trump-change/",
-   "source": "Teslarati",
-   "published": "2026-11-17T19:50:50Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla Update 2026.44.1 Brings Redesigned Service Menu and Improved Charging Views",
    "url": "https://www.notateslaapp.com/news/5028/tesla-update-2026441-brings-redesigned-service-menu-and-improved-charging-views",
    "source": "Not a Tesla App",
    "published": "2026-11-17T18:33:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla just doubled its Miami Robotaxi geofence",
-   "url": "https://www.teslarati.com/tesla-doubled-miami-robotaxi-geofence/",
-   "source": "Teslarati",
-   "published": "2026-11-17T18:12:48Z",
    "category": "tesla"
   },
   {
@@ -491,34 +519,6 @@
    "url": "https://electrek.co/2026/11/13/tesla-only-sells-cybertruck-cyberbeast-109990/",
    "source": "Electrek",
    "published": "2026-11-13T18:13:44Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Unplugged Performance Offers to Build the Cybertruck for Tesla",
-   "url": "https://www.notateslaapp.com/news/5008/unplugged-performance-offers-to-build-the-cybertruck-for-tesla",
-   "source": "Not a Tesla App",
-   "published": "2026-11-13T16:52:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Stops Taking Orders for Entry-Level Model Y AWD",
-   "url": "https://www.notateslaapp.com/news/5002/tesla-stops-taking-orders-for-entry-level-model-y-awd",
-   "source": "Not a Tesla App",
-   "published": "2026-11-13T14:05:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Shop’s 2026 Holiday Collection: All 21 New Items",
-   "url": "https://www.notateslaapp.com/news/4999/tesla-shops-2026-holiday-collection-all-21-new-items",
-   "source": "Not a Tesla App",
-   "published": "2026-11-13T14:00:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Just Killed Its Cheapest All-Wheel-Drive Model Y",
-   "url": "https://insideevs.com/news/815395/tesla-model-y-awd-discontinued/",
-   "source": "InsideEVs",
-   "published": "2026-11-13T11:56:01Z",
    "category": "tesla"
   }
  ]
