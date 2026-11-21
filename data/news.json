@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-11-21T04:15:14Z",
+ "generated_at": "2026-11-21T12:57:42Z",
  "count": 72,
  "errors": [],
  "stories": [
+  {
+   "title": "SpaceX launches classified mission for US Space Force from California",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
+   "source": "Space.com",
+   "published": "2026-11-21T05:28:14Z",
+   "category": "spacex"
+  },
   {
    "title": "Tesla Expands Dallas Robotaxi Area by a Whole Square Mile",
    "url": "https://www.notateslaapp.com/news/5055/tesla-expands-dallas-robotaxi-area-by-a-whole-square-mile",
@@ -88,7 +95,7 @@
    "category": "tesla"
   },
   {
-   "title": "Live coverage: SpaceX to launch of classified payload for the U.S. Space Force",
+   "title": "SpaceX launches classified payload for the U.S. Space Force",
    "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
    "source": "Spaceflight Now",
    "published": "2026-11-19T23:51:47Z",
@@ -372,13 +379,6 @@
    "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
    "source": "Space.com",
    "published": "2026-11-16T21:26:29Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
-   "source": "Space.com",
-   "published": "2026-11-16T20:04:22Z",
    "category": "spacex"
   },
   {
