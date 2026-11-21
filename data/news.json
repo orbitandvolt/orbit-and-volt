@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T23:19:04Z",
- "count": 75,
+ "generated_at": "2026-11-21T04:15:14Z",
+ "count": 72,
  "errors": [],
  "stories": [
   {
@@ -11,7 +11,7 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla Update 2026.44 Brings FSD v14.3 and v14.3 Lite to Every Owner",
+   "title": "Tesla Update 2026.44 Includes FSD v14.3 and v14.3 Lite in North America",
    "url": "https://www.notateslaapp.com/news/5054/tesla-update-202644-brings-fsd-v143-and-v143-lite-to-every-owner",
    "source": "Not a Tesla App",
    "published": "2026-11-20T21:10:00Z",
@@ -88,7 +88,7 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX scrubs launch of classified payload for the U.S. Space Force, targets Friday",
+   "title": "Live coverage: SpaceX to launch of classified payload for the U.S. Space Force",
    "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
    "source": "Spaceflight Now",
    "published": "2026-11-19T23:51:47Z",
@@ -505,27 +505,6 @@
    "url": "https://insideevs.com/news/815472/diesel-prices-electric-trucks-einride/",
    "source": "InsideEVs",
    "published": "2026-11-14T13:00:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
-   "url": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
-   "source": "Electrek",
-   "published": "2026-11-14T02:11:39Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Opens Orders for the Cybercab for Personal Use: Costs $29,990 and Requires a $299 Monthly Subscription",
-   "url": "https://www.notateslaapp.com/news/5012/tesla-opens-orders-for-the-cybercab-for-personal-use-costs-29990-and-requires-a-299-monthly-subscription",
-   "source": "Not a Tesla App",
-   "published": "2026-11-14T00:18:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Opens Self-Driving Cybercab Orders To 'Select Customers' At $29,990",
-   "url": "https://insideevs.com/news/815473/tesla-cybercab-pricing-sales-announced/",
-   "source": "InsideEVs",
-   "published": "2026-11-14T00:06:29Z",
    "category": "tesla"
   }
  ]
