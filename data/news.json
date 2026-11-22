@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-11-21T20:01:59Z",
- "count": 76,
+ "generated_at": "2026-11-22T00:17:04Z",
+ "count": 73,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Full Self-Driving v15 rollout begins: full release notes and improvements",
+   "url": "https://www.teslarati.com/tesla-full-self-driving-v15-rollout-begins-full-release-notes-improvements/",
+   "source": "Teslarati",
+   "published": "2026-11-21T20:02:44Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes",
    "url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/",
@@ -326,13 +333,6 @@
    "category": "spacex"
   },
   {
-   "title": "Tesla gears up Cybercab with Starlink for public debut, but with notable changes",
-   "url": "https://www.teslarati.com/tesla-gears-up-cybercab-starlink-for-public-debut-notable-changes/",
-   "source": "Teslarati",
-   "published": "2026-11-18T16:30:43Z",
-   "category": "both"
-  },
-  {
    "title": "Tesla’s Semi Megacharger network hits 7 sites, far short of 37 goal",
    "url": "https://electrek.co/2026/11/18/tesla-semi-megacharger-network-mesquite-texas/",
    "source": "Electrek",
@@ -512,27 +512,6 @@
    "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
    "source": "Electrek",
    "published": "2026-11-15T16:31:24Z",
-   "category": "tesla"
-  },
-  {
-   "title": "MKBHD Orders a Tesla Cybercab to Decide Head-Shaving Bet",
-   "url": "https://www.notateslaapp.com/news/5019/mkbhd-orders-a-tesla-cybercab-to-decide-head-shaving-bet",
-   "source": "Not a Tesla App",
-   "published": "2026-11-14T22:46:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Model Y RWD Gets Increased Range at Same Price",
-   "url": "https://www.notateslaapp.com/news/5017/tesla-model-y-rwd-gets-increased-range-at-same-price",
-   "source": "Not a Tesla App",
-   "published": "2026-11-14T22:06:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Cybercab Ownership Rules: No Wraps or Customizations, Subscription May Change",
-   "url": "https://www.notateslaapp.com/news/5016/tesla-cybercab-ownership-rules-no-wraps-or-customizations-subscription-may-change",
-   "source": "Not a Tesla App",
-   "published": "2026-11-14T21:34:00Z",
    "category": "tesla"
   }
  ]
