@@ -1,13 +1,34 @@
 {
- "generated_at": "2026-11-22T15:38:19Z",
- "count": 75,
+ "generated_at": "2026-11-22T21:42:44Z",
+ "count": 76,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Full Self-Driving v15: a first-hand look at Reality View, new features",
+   "url": "https://www.teslarati.com/tesla-full-self-driving-v15-first-hand-look-at-reality-view-new-features/",
+   "source": "Teslarati",
+   "published": "2026-11-22T19:43:58Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
+   "source": "Space.com",
+   "published": "2026-11-22T16:05:33Z",
+   "category": "spacex"
+  },
   {
    "title": "Tesla FSD v15 Rolls Out With Incredible New Reality View and 25x Better Safety [VIDEO]",
    "url": "https://www.notateslaapp.com/news/5065/tesla-fsd-v15-rolls-out-with-incredible-new-reality-view-and-25x-better-safety-video",
    "source": "Not a Tesla App",
    "published": "2026-11-22T14:33:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla FSD V15 Makes Your Drive Look Like Grand Theft Auto",
+   "url": "https://insideevs.com/news/816351/tesla-fsd-v15-new-features/",
+   "source": "InsideEVs",
+   "published": "2026-11-22T08:33:49Z",
    "category": "tesla"
   },
   {
@@ -340,13 +361,6 @@
    "category": "tesla"
   },
   {
-   "title": "Sean Duffy fires back at Elon Musk over free Starlink",
-   "url": "https://www.teslarati.com/sean-duffy-elon-musk-free-starlink/",
-   "source": "Teslarati",
-   "published": "2026-11-18T17:06:39Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla’s Semi Megacharger network hits 7 sites, far short of 37 goal",
    "url": "https://electrek.co/2026/11/18/tesla-semi-megacharger-network-mesquite-texas/",
    "source": "Electrek",
@@ -519,13 +533,6 @@
    "url": "https://insideevs.com/news/815544/tesla-autocharge-ionna-app/",
    "source": "InsideEVs",
    "published": "2026-11-16T08:57:44Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
-   "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
-   "source": "Electrek",
-   "published": "2026-11-15T16:31:24Z",
    "category": "tesla"
   }
  ]
