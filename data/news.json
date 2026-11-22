@@ -1,10 +1,22 @@
 {
- "generated_at": "2026-11-22T07:23:42Z",
- "count": 71,
- "errors": [
-  "NASASpaceflight: HTTP Error 403: Forbidden"
- ],
+ "generated_at": "2026-11-22T15:38:19Z",
+ "count": 75,
+ "errors": [],
  "stories": [
+  {
+   "title": "Tesla FSD v15 Rolls Out With Incredible New Reality View and 25x Better Safety [VIDEO]",
+   "url": "https://www.notateslaapp.com/news/5065/tesla-fsd-v15-rolls-out-with-incredible-new-reality-view-and-25x-better-safety-video",
+   "source": "Not a Tesla App",
+   "published": "2026-11-22T14:33:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla FSD v15 Release Notes",
+   "url": "https://www.notateslaapp.com/software-updates/version/2026.38.6.11/release-notes",
+   "source": "Not a Tesla App",
+   "published": "2026-11-21T22:38:45Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Full Self-Driving v15 rollout begins: full release notes and improvements",
    "url": "https://www.teslarati.com/tesla-full-self-driving-v15-rollout-begins-full-release-notes-improvements/",
@@ -27,7 +39,7 @@
    "category": "tesla"
   },
   {
-   "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+   "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
    "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
    "source": "Spaceflight Now",
    "published": "2026-11-21T16:50:51Z",
@@ -111,6 +123,13 @@
    "category": "tesla"
   },
   {
+   "title": "Following Ship 42’s catch, SpaceX looks to the future",
+   "url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-20T19:49:06Z",
+   "category": "spacex"
+  },
+  {
    "title": "Tesla FSD Jailbroken in China, Fix Already on the Way",
    "url": "https://www.notateslaapp.com/news/5052/tesla-fsd-jailbroken-in-china-fix-already-on-the-way",
    "source": "Not a Tesla App",
@@ -167,7 +186,7 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX launches classified payload for the U.S. Space Force",
+   "title": "SpaceX launches satellites for the U.S. Space Force’s data network constellation",
    "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
    "source": "Spaceflight Now",
    "published": "2026-11-19T23:51:47Z",
@@ -417,6 +436,13 @@
    "source": "Not a Tesla App",
    "published": "2026-11-16T23:29:00Z",
    "category": "tesla"
+  },
+  {
+   "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-16T21:57:02Z",
+   "category": "spacex"
   },
   {
    "title": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
