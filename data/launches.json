@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-11-23T11:15:11Z",
+ "generated_at": "2026-11-23T22:53:33Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
-  {
-   "name": "Falcon 9 Block 5 | NROL-136",
-   "mission": "NROL-136",
-   "net": "2026-11-22T12:23:56Z",
-   "precision": "SEC",
-   "status": "Success",
-   "status_name": "Launch Successful",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA"
-  },
   {
    "name": "Falcon 9 Block 5 | USSF-266",
    "mission": "USSF-266",
@@ -41,6 +31,16 @@
    "status_name": "Go for Launch",
    "pad": "Space Launch Complex 40",
    "location": "Cape Canaveral SFS, FL, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | NROL-132",
+   "mission": "NROL-132",
+   "net": "2026-12-02T20:30:00Z",
+   "precision": "MIN",
+   "status": "TBC",
+   "status_name": "To Be Confirmed",
+   "pad": "Space Launch Complex 4E",
+   "location": "Vandenberg SFB, CA, USA"
   },
   {
    "name": "Falcon 9 Block 5 | CHORUS",
