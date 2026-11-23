@@ -1,16 +1,28 @@
 {
- "generated_at": "2026-11-23T02:35:12Z",
- "count": 70,
- "errors": [
-  "Space.com: <urlopen error _ssl.c:994: The handshake operation timed out>"
- ],
+ "generated_at": "2026-11-23T11:15:11Z",
+ "count": 74,
+ "errors": [],
  "stories": [
+  {
+   "title": "Tesla’s Unsupervised FSD future likely to bring Starlink to every model",
+   "url": "https://www.teslarati.com/tesla-starlink-built-in-ai5/",
+   "source": "Teslarati",
+   "published": "2026-11-23T06:20:59Z",
+   "category": "both"
+  },
   {
    "title": "Tesla Full Self-Driving v15: Reality View review, new features explained",
    "url": "https://www.teslarati.com/tesla-full-self-driving-v15-first-hand-look-at-reality-view-new-features/",
    "source": "Teslarati",
    "published": "2026-11-22T19:43:58Z",
    "category": "tesla"
+  },
+  {
+   "title": "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
+   "source": "Space.com",
+   "published": "2026-11-22T16:05:33Z",
+   "category": "spacex"
   },
   {
    "title": "Tesla FSD v15 Rolls Out With Incredible New Reality View and 25x Better Safety [VIDEO]",
@@ -104,6 +116,20 @@
    "category": "tesla"
   },
   {
+   "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
+   "source": "Space.com",
+   "published": "2026-11-21T13:00:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "SpaceX launches classified mission for US Space Force from California (video)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
+   "source": "Space.com",
+   "published": "2026-11-21T05:28:14Z",
+   "category": "spacex"
+  },
+  {
    "title": "Tesla Expands Dallas Robotaxi Area by a Whole Square Mile",
    "url": "https://www.notateslaapp.com/news/5055/tesla-expands-dallas-robotaxi-area-by-a-whole-square-mile",
    "source": "Not a Tesla App",
@@ -167,6 +193,20 @@
    "category": "tesla"
   },
   {
+   "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
+   "url": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
+   "source": "Space.com",
+   "published": "2026-11-20T13:00:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "SpaceX Dragon cargo capsule returns to Earth from the ISS",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
+   "source": "Space.com",
+   "published": "2026-11-20T11:00:00Z",
+   "category": "spacex"
+  },
+  {
    "title": "Elon Musk reveals Tesla’s next vehicle without a steering wheel",
    "url": "https://www.teslarati.com/elon-musk-tesla-model-yl-no-steering-wheel-robotaxi/",
    "source": "Teslarati",
@@ -186,6 +226,13 @@
    "source": "Not a Tesla App",
    "published": "2026-11-19T22:44:00Z",
    "category": "tesla"
+  },
+  {
+   "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
+   "source": "Space.com",
+   "published": "2026-11-19T22:00:00Z",
+   "category": "spacex"
   },
   {
    "title": "Tesla Cybercab Specs Revealed: Warranty, Range, Charging & More",
@@ -283,13 +330,6 @@
    "url": "https://www.notateslaapp.com/news/5033/teslas-iphone-app-ditches-apple-maps-for-google-maps",
    "source": "Not a Tesla App",
    "published": "2026-11-18T20:36:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Robotaxi takes over for Uber credits and loaners at Service locations",
-   "url": "https://www.teslarati.com/tesla-robotaxi-takes-over-uber-credits-loaners-service/",
-   "source": "Teslarati",
-   "published": "2026-11-18T20:03:42Z",
    "category": "tesla"
   },
   {
@@ -479,20 +519,6 @@
    "url": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-overturned-truck-naples-i75/",
    "source": "Electrek",
    "published": "2026-11-16T15:13:45Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Just Bumped The Cheapest Model Y’s Range, But The Price Stays The Same",
-   "url": "https://insideevs.com/news/815562/tesla-model-y-rwd-range-boost-2027/",
-   "source": "InsideEVs",
-   "published": "2026-11-16T10:16:34Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Drivers Can Now Plug In And Charge Automatically at Ionna Stations",
-   "url": "https://insideevs.com/news/815544/tesla-autocharge-ionna-app/",
-   "source": "InsideEVs",
-   "published": "2026-11-16T08:57:44Z",
    "category": "tesla"
   }
  ]
