@@ -1,8 +1,36 @@
 {
- "generated_at": "2026-11-24T06:55:19Z",
- "count": 70,
+ "generated_at": "2026-11-24T18:49:28Z",
+ "count": 66,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Updates Robotaxi App: Add Extra Wait Time and Scheduled Pickups Coming Soon",
+   "url": "https://www.notateslaapp.com/news/5071/tesla-updates-robotaxi-app-add-extra-wait-time-and-scheduled-pickups-coming-soon",
+   "source": "Not a Tesla App",
+   "published": "2026-11-24T16:39:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Trump says he ‘protected’ Musk in first term after ‘a tough incident’ – what could it be?",
+   "url": "https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/",
+   "source": "Electrek",
+   "published": "2026-11-24T16:24:11Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla (TSLA), SpaceX race for year-end merger deal before new Congress",
+   "url": "https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress/",
+   "source": "Electrek",
+   "published": "2026-11-24T14:43:50Z",
+   "category": "both"
+  },
+  {
+   "title": "Tesla eyes AI5 chip as exclusive Optimus trait, not needed for self-driving",
+   "url": "https://www.teslarati.com/tesla-eyes-ai5-chip-exclusive-optimus-trait-not-needed-self-driving/",
+   "source": "Teslarati",
+   "published": "2026-11-24T14:05:09Z",
+   "category": "tesla"
+  },
   {
    "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
    "url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
@@ -326,13 +354,6 @@
    "category": "tesla"
   },
   {
-   "title": "Elon Musk makes surprise stop at Giga Shanghai with a message for Tesla’s China team",
-   "url": "https://www.teslarati.com/elon-musk-makes-surprise-stop-at-giga-shanghai-with-a-message-for-teslas-china-team/",
-   "source": "Teslarati",
-   "published": "2026-11-19T19:12:16Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla May Stop Producing Model Y In Favor of Model Y L: Musk",
    "url": "https://www.notateslaapp.com/news/5043/musk-says-tesla-should-move-all-model-y-production-to-y-l",
    "source": "Not a Tesla App",
@@ -442,55 +463,6 @@
    "url": "https://www.notateslaapp.com/news/5029/tesla-tad-in-europe-to-require-hands-on-wheel-over-130-kmh-more",
    "source": "Not a Tesla App",
    "published": "2026-11-17T20:05:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Update 2026.44.1 Brings Redesigned Service Menu and Improved Charging Views",
-   "url": "https://www.notateslaapp.com/news/5028/tesla-update-2026441-brings-redesigned-service-menu-and-improved-charging-views",
-   "source": "Not a Tesla App",
-   "published": "2026-11-17T18:33:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Chevy, GMC, and Cadillac EV Owners Can Now Plug And Charge At Electrify America",
-   "url": "https://insideevs.com/news/815783/plug-charge-electrify-america-gm/",
-   "source": "InsideEVs",
-   "published": "2026-11-17T18:04:11Z",
-   "category": "tesla"
-  },
-  {
-   "title": "New Tesla Supercharger Adjusts Its Power Based on the Grid",
-   "url": "https://www.notateslaapp.com/news/5027/new-tesla-supercharger-adjusts-its-power-based-on-the-grid",
-   "source": "Not a Tesla App",
-   "published": "2026-11-17T18:01:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Unveils Powercore, a New 7.4 MW Solid-State Transformer Coming in 2027",
-   "url": "https://www.notateslaapp.com/news/5026/tesla-unveils-powercore-a-new-74-mw-solid-state-transformer-coming-in-2027",
-   "source": "Not a Tesla App",
-   "published": "2026-11-17T17:42:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Update 2026.44.1 is Hiding a New Navigation Option, Supercharger Notifications and Grok Improvements",
-   "url": "https://www.notateslaapp.com/news/5025/tesla-update-2026441-is-hiding-a-new-navigation-option-supercharger-notifications-and-grok-improvements",
-   "source": "Not a Tesla App",
-   "published": "2026-11-17T17:32:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link",
-   "url": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link/",
-   "source": "Electrek",
-   "published": "2026-11-17T16:35:25Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla needs wireless charging fast, or its $30,000 Cybercab can’t charge at home",
-   "url": "https://electrek.co/2026/11/17/tesla-cybercab-home-charging-wireless-problem/",
-   "source": "Electrek",
-   "published": "2026-11-17T14:19:41Z",
    "category": "tesla"
   }
  ]

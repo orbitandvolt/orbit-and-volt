@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T06:55:19Z",
+ "generated_at": "2026-11-24T18:49:28Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
   {
@@ -7,8 +7,8 @@
    "mission": "USSF-266",
    "net": "2026-11-24T16:08:59Z",
    "precision": "SEC",
-   "status": "Go",
-   "status_name": "Go for Launch",
+   "status": "Success",
+   "status_name": "Launch Successful",
    "pad": "Space Launch Complex 4E",
    "location": "Vandenberg SFB, CA, USA"
   },
