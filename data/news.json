@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-11-23T22:53:33Z",
- "count": 71,
+ "generated_at": "2026-11-24T06:55:19Z",
+ "count": 70,
  "errors": [],
  "stories": [
+  {
+   "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+   "url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-23T23:28:00Z",
+   "category": "spacex"
+  },
   {
    "title": "Tesla FSD V15’s Reality View Breaks Santa Mode and Halloween Mode",
    "url": "https://www.notateslaapp.com/news/5070/tesla-fsd-v15s-reality-view-breaks-santa-mode-and-halloween-mode",
@@ -22,6 +29,13 @@
    "url": "https://www.notateslaapp.com/news/5069/tesla-fsd-v15-finally-removes-the-disengagement-menu",
    "source": "Not a Tesla App",
    "published": "2026-11-23T19:06:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla's EVs Could Get One Big Upgrade Next Year",
+   "url": "https://insideevs.com/news/816501/tesla-starlink-unsupervised-fsd/",
+   "source": "InsideEVs",
+   "published": "2026-11-23T18:32:07Z",
    "category": "tesla"
   },
   {
@@ -477,27 +491,6 @@
    "url": "https://electrek.co/2026/11/17/tesla-cybercab-home-charging-wireless-problem/",
    "source": "Electrek",
    "published": "2026-11-17T14:19:41Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Update 2026.44.1 Release Notes",
-   "url": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes",
-   "source": "Not a Tesla App",
-   "published": "2026-11-17T04:37:59Z",
-   "category": "tesla"
-  },
-  {
-   "title": "New Tesla Accessory Adds Kick-to-Open Trunk and Frunk for Just $99",
-   "url": "https://www.notateslaapp.com/news/5024/new-tesla-accessory-adds-wireless-kick-to-open-trunk-and-frunk-for-just-99",
-   "source": "Not a Tesla App",
-   "published": "2026-11-16T23:51:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Owners Could Add Their Vehicles to the Robotaxi Network As Early as Next Month",
-   "url": "https://www.notateslaapp.com/news/5022/tesla-to-allow-customers-to-add-their-vehicles-to-robotaxi-as-early-as-next-month",
-   "source": "Not a Tesla App",
-   "published": "2026-11-16T23:29:00Z",
    "category": "tesla"
   }
  ]
