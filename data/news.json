@@ -1,10 +1,29 @@
 {
- "generated_at": "2026-11-25T03:00:08Z",
- "count": 68,
- "errors": [
-  "NASASpaceflight: HTTP Error 403: Forbidden"
- ],
+ "generated_at": "2026-11-25T12:40:26Z",
+ "count": 71,
+ "errors": [],
  "stories": [
+  {
+   "title": "Tesla Raises Cyberbeast Price Again, Ends Cybertruck Leases",
+   "url": "https://www.notateslaapp.com/news/5079/tesla-raises-cyberbeast-price-again-ends-cybertruck-leases",
+   "source": "Not a Tesla App",
+   "published": "2026-11-25T12:00:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX rejects $738M fed subsidy, betting on Starlink alone",
+   "url": "https://www.teslarati.com/spacex-starlink-rejects-fed-subsidy/",
+   "source": "Teslarati",
+   "published": "2026-11-25T08:05:48Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
+   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-25T01:06:02Z",
+   "category": "spacex"
+  },
   {
    "title": "Tesla FSD V15 Improvements Coming: Faster Reality View, Purple Tint Fix, Santa Mode & More",
    "url": "https://www.notateslaapp.com/news/5078/improvements-coming-to-fsd-v15-lower-latency-for-reality-view-santa-mode-more",
@@ -74,6 +93,13 @@
    "source": "Teslarati",
    "published": "2026-11-24T14:05:09Z",
    "category": "tesla"
+  },
+  {
+   "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+   "url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-23T23:28:00Z",
+   "category": "spacex"
   },
   {
    "title": "Tesla FSD V15’s Reality View Breaks Santa Mode and Halloween Mode",
@@ -293,6 +319,13 @@
    "category": "tesla"
   },
   {
+   "title": "Following Ship 42’s catch, SpaceX looks to the future",
+   "url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-20T19:49:06Z",
+   "category": "spacex"
+  },
+  {
    "title": "Tesla FSD Jailbroken in China, Fix Already on the Way",
    "url": "https://www.notateslaapp.com/news/5052/tesla-fsd-jailbroken-in-china-fix-already-on-the-way",
    "source": "Not a Tesla App",
@@ -342,13 +375,6 @@
    "category": "spacex"
   },
   {
-   "title": "Elon Musk reveals Tesla’s next vehicle without a steering wheel",
-   "url": "https://www.teslarati.com/elon-musk-tesla-model-yl-no-steering-wheel-robotaxi/",
-   "source": "Teslarati",
-   "published": "2026-11-20T05:38:02Z",
-   "category": "tesla"
-  },
-  {
    "title": "SpaceX launches satellites for the U.S. Space Force’s data network constellation",
    "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
    "source": "Spaceflight Now",
@@ -361,13 +387,6 @@
    "source": "Not a Tesla App",
    "published": "2026-11-19T22:44:00Z",
    "category": "tesla"
-  },
-  {
-   "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
-   "source": "Space.com",
-   "published": "2026-11-19T22:00:00Z",
-   "category": "spacex"
   },
   {
    "title": "Tesla Cybercab Specs Revealed: Warranty, Range, Charging & More",
