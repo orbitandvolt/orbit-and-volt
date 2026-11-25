@@ -1,8 +1,52 @@
 {
- "generated_at": "2026-11-24T18:49:28Z",
- "count": 66,
- "errors": [],
+ "generated_at": "2026-11-25T03:00:08Z",
+ "count": 68,
+ "errors": [
+  "NASASpaceflight: HTTP Error 403: Forbidden"
+ ],
  "stories": [
+  {
+   "title": "Tesla FSD V15 Improvements Coming: Faster Reality View, Purple Tint Fix, Santa Mode & More",
+   "url": "https://www.notateslaapp.com/news/5078/improvements-coming-to-fsd-v15-lower-latency-for-reality-view-santa-mode-more",
+   "source": "Not a Tesla App",
+   "published": "2026-11-24T23:34:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video",
+   "source": "Space.com",
+   "published": "2026-11-24T22:37:19Z",
+   "category": "spacex"
+  },
+  {
+   "title": "New York Bans Car Subscriptions, Tesla FSD Likely Exempt",
+   "url": "https://www.notateslaapp.com/news/5077/new-yorks-car-subscription-ban-likely-leaves-tesla-fsd-untouched",
+   "source": "Not a Tesla App",
+   "published": "2026-11-24T22:32:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla FSD V15 Finally Lets You Hide FSD Visuals and Use Maps Full Screen",
+   "url": "https://www.notateslaapp.com/news/5076/tesla-fsd-v15-lets-you-hide-fsd-visuals-with-map-view-and-calm-mode",
+   "source": "Not a Tesla App",
+   "published": "2026-11-24T21:25:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla App to Add Supercharger Voting, Code Reveals",
+   "url": "https://www.notateslaapp.com/news/5074/tesla-app-to-add-supercharger-voting-code-reveals",
+   "source": "Not a Tesla App",
+   "published": "2026-11-24T20:03:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Most Impressive FSD V15 Visualizations: Garage, Parking Lot, Weather & More [VIDEOS]",
+   "url": "https://www.notateslaapp.com/news/5073/most-impressive-fsd-v15-visualizations-garage-parking-lot-weather-more-videos",
+   "source": "Not a Tesla App",
+   "published": "2026-11-24T19:39:00Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Updates Robotaxi App: Add Extra Wait Time and Scheduled Pickups Coming Soon",
    "url": "https://www.notateslaapp.com/news/5071/tesla-updates-robotaxi-app-add-extra-wait-time-and-scheduled-pickups-coming-soon",
@@ -32,13 +76,6 @@
    "category": "tesla"
   },
   {
-   "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-   "url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
-   "source": "NASASpaceflight",
-   "published": "2026-11-23T23:28:00Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla FSD V15’s Reality View Breaks Santa Mode and Halloween Mode",
    "url": "https://www.notateslaapp.com/news/5070/tesla-fsd-v15s-reality-view-breaks-santa-mode-and-halloween-mode",
    "source": "Not a Tesla App",
@@ -46,7 +83,7 @@
    "category": "tesla"
   },
   {
-   "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+   "title": "SpaceX launches classified payload for the U.S. Space Force",
    "url": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/",
    "source": "Spaceflight Now",
    "published": "2026-11-23T22:21:32Z",
@@ -256,13 +293,6 @@
    "category": "tesla"
   },
   {
-   "title": "Following Ship 42’s catch, SpaceX looks to the future",
-   "url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-   "source": "NASASpaceflight",
-   "published": "2026-11-20T19:49:06Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla FSD Jailbroken in China, Fix Already on the Way",
    "url": "https://www.notateslaapp.com/news/5052/tesla-fsd-jailbroken-in-china-fix-already-on-the-way",
    "source": "Not a Tesla App",
@@ -449,20 +479,6 @@
    "url": "https://electrek.co/2026/11/18/tesla-semi-megacharger-network-mesquite-texas/",
    "source": "Electrek",
    "published": "2026-11-18T15:43:18Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Launches Its First FSD Ad in Times Square",
-   "url": "https://www.notateslaapp.com/news/5030/tesla-launches-its-first-fsd-ad-in-times-square",
-   "source": "Not a Tesla App",
-   "published": "2026-11-17T20:53:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla TAD in Europe to Require Attention During Maneuvers and Hands on Wheel Over 130 Km/h",
-   "url": "https://www.notateslaapp.com/news/5029/tesla-tad-in-europe-to-require-hands-on-wheel-over-130-kmh-more",
-   "source": "Not a Tesla App",
-   "published": "2026-11-17T20:05:00Z",
    "category": "tesla"
   }
  ]
