@@ -1,8 +1,85 @@
 {
- "generated_at": "2026-11-25T12:40:26Z",
- "count": 71,
+ "generated_at": "2026-11-25T22:26:14Z",
+ "count": 72,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla quietly sets up a company at German machine maker EMAG’s HQ",
+   "url": "https://electrek.co/2026/11/25/tesla-emag-germany-machining-company-optimus/",
+   "source": "Electrek",
+   "published": "2026-11-25T21:00:40Z",
+   "category": "tesla"
+  },
+  {
+   "title": "MKBHD Will Honor Tesla Cybercab Bet, Plans to Take Delivery",
+   "url": "https://www.notateslaapp.com/news/5085/mkbhd-will-honor-tesla-cybercab-bet-plans-to-take-delivery",
+   "source": "Not a Tesla App",
+   "published": "2026-11-25T20:37:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla FSD V15's New Parking Features [VIDEOS]",
+   "url": "https://www.notateslaapp.com/news/5084/tesla-fsd-v15s-new-parking-features-explained-videos",
+   "source": "Not a Tesla App",
+   "published": "2026-11-25T19:59:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+   "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+   "source": "CNBC",
+   "published": "2026-11-25T19:52:47Z",
+   "category": "spacex"
+  },
+  {
+   "title": "SpaceX Starship debris becomes art in Ashley Zelinskie's 'The Weight of Space' (video, photos)",
+   "url": "https://www.space.com/entertainment/spacex-starship-debris-becomes-art-in-ashley-zelinskies-the-weight-of-space-video-photos",
+   "source": "Space.com",
+   "published": "2026-11-25T19:00:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Nearly Doubles Dallas Robotaxi Service Area",
+   "url": "https://www.notateslaapp.com/news/5081/tesla-nearly-doubles-dallas-robotaxi-service-area",
+   "source": "Not a Tesla App",
+   "published": "2026-11-25T18:54:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites",
+   "source": "Space.com",
+   "published": "2026-11-25T18:49:15Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Europe Delays Tesla FSD Approval Vote, Again",
+   "url": "https://www.notateslaapp.com/news/5080/europe-delays-tesla-fsd-approval-vote-again",
+   "source": "Not a Tesla App",
+   "published": "2026-11-25T17:46:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "EU pushes back Tesla ‘Full Self-Driving’ vote meeting again, now set for December 15",
+   "url": "https://electrek.co/2026/11/25/eu-delays-tesla-fsd-vote-december-15-tcmv/",
+   "source": "Electrek",
+   "published": "2026-11-25T15:45:37Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla removed the most annoying part of Full Self-Driving",
+   "url": "https://www.teslarati.com/tesla-removed-most-annoying-part-full-self-driving/",
+   "source": "Teslarati",
+   "published": "2026-11-25T15:06:13Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Winter Weather Hits EV Range Hard. One Automaker Handles It Better Than Tesla",
+   "url": "https://insideevs.com/news/816753/ev-winter-range-loss-2026-ranking/",
+   "source": "InsideEVs",
+   "published": "2026-11-25T13:09:37Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla Raises Cyberbeast Price Again, Ends Cybertruck Leases",
    "url": "https://www.notateslaapp.com/news/5079/tesla-raises-cyberbeast-price-again-ends-cybertruck-leases",
@@ -347,32 +424,11 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla Cybercab’s ‘Autonomy Subscription’ covers all bases for a self-driving car",
-   "url": "https://www.teslarati.com/tesla-cybercabs-autonomy-subscription-covers-all-bases-for-a-self-driving-car/",
-   "source": "Teslarati",
-   "published": "2026-11-20T14:57:01Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla Assisted Driving Approved in Italy, 12th EU Country",
    "url": "https://www.notateslaapp.com/news/5047/tesla-assisted-driving-approved-in-italy-12th-eu-country",
    "source": "Not a Tesla App",
    "published": "2026-11-20T14:13:00Z",
    "category": "tesla"
-  },
-  {
-   "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
-   "url": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
-   "source": "Space.com",
-   "published": "2026-11-20T13:00:00Z",
-   "category": "spacex"
-  },
-  {
-   "title": "SpaceX Dragon cargo capsule returns to Earth from the ISS",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
-   "source": "Space.com",
-   "published": "2026-11-20T11:00:00Z",
-   "category": "spacex"
   },
   {
    "title": "SpaceX launches satellites for the U.S. Space Force’s data network constellation",
@@ -449,55 +505,6 @@
    "url": "https://insideevs.com/news/815960/tesla-model-y-steering-wheel-remove/",
    "source": "InsideEVs",
    "published": "2026-11-19T02:08:25Z",
-   "category": "tesla"
-  },
-  {
-   "title": "You'll Be Able to Move Cybercab With On-Screen Controls, Like a Video Game",
-   "url": "https://www.notateslaapp.com/news/5034/youll-be-able-to-move-cybercab-with-on-screen-controls-like-a-video-game",
-   "source": "Not a Tesla App",
-   "published": "2026-11-18T22:18:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla’s iPhone App Ditches Apple Maps for Google Maps",
-   "url": "https://www.notateslaapp.com/news/5033/teslas-iphone-app-ditches-apple-maps-for-google-maps",
-   "source": "Not a Tesla App",
-   "published": "2026-11-18T20:36:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla App Will Soon Let You Precondition Your Battery",
-   "url": "https://www.notateslaapp.com/news/5032/tesla-app-will-soon-let-you-precondition-your-battery",
-   "source": "Not a Tesla App",
-   "published": "2026-11-18T19:43:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "UP Sweetens Deal for Tesla, Offers Revenue on Every Vehicle",
-   "url": "https://www.notateslaapp.com/news/5031/up-sweetens-deal-for-tesla-offers-revenue-on-every-vehicle",
-   "source": "Not a Tesla App",
-   "published": "2026-11-18T18:44:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla toughens FSD driver monitoring in Europe while loosening it in the US",
-   "url": "https://electrek.co/2026/11/18/tesla-fsd-driver-monitoring-europe-stricter-than-us/",
-   "source": "Electrek",
-   "published": "2026-11-18T18:33:41Z",
-   "category": "tesla"
-  },
-  {
-   "title": "West Coast Customs turns a Tesla Model 3 into a 1955 Chevy Bel Air",
-   "url": "https://electrek.co/2026/11/18/west-coast-customs-tesla-model-3-1955-chevy-bel-air-ev/",
-   "source": "Electrek",
-   "published": "2026-11-18T17:13:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla’s Semi Megacharger network hits 7 sites, far short of 37 goal",
-   "url": "https://electrek.co/2026/11/18/tesla-semi-megacharger-network-mesquite-texas/",
-   "source": "Electrek",
-   "published": "2026-11-18T15:43:18Z",
    "category": "tesla"
   }
  ]

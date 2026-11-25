@@ -1,17 +1,7 @@
 {
- "generated_at": "2026-11-25T12:40:26Z",
+ "generated_at": "2026-11-25T22:26:14Z",
  "source": "Launch Library 2 (The Space Devs)",
  "launches": [
-  {
-   "name": "Falcon 9 Block 5 | USSF-266",
-   "mission": "USSF-266",
-   "net": "2026-11-24T16:08:59Z",
-   "precision": "SEC",
-   "status": "Success",
-   "status_name": "Launch Successful",
-   "pad": "Space Launch Complex 4E",
-   "location": "Vandenberg SFB, CA, USA"
-  },
   {
    "name": "Falcon 9 Block 5 | USSF-380",
    "mission": "USSF-380",
@@ -43,18 +33,18 @@
    "location": "Vandenberg SFB, CA, USA"
   },
   {
-   "name": "Falcon 9 Block 5 | Amazon Leo (LF-04)",
-   "mission": "Amazon Leo (LF-04)",
-   "net": "2026-12-31T00:00:00Z",
-   "precision": "M",
-   "status": "TBD",
-   "status_name": "To Be Determined",
-   "pad": "Unknown Pad",
+   "name": "Falcon 9 Block 5 | CHORUS",
+   "mission": "CHORUS",
+   "net": "2026-12-04T12:55:00Z",
+   "precision": "MIN",
+   "status": "Go",
+   "status_name": "Go for Launch",
+   "pad": "Space Launch Complex 40",
    "location": "Cape Canaveral SFS, FL, USA"
   },
   {
-   "name": "Falcon 9 Block 5 | CHORUS",
-   "mission": "CHORUS",
+   "name": "Falcon 9 Block 5 | Amazon Leo (LF-04)",
+   "mission": "Amazon Leo (LF-04)",
    "net": "2026-12-31T00:00:00Z",
    "precision": "M",
    "status": "TBD",
@@ -121,6 +111,16 @@
    "status_name": "To Be Determined",
    "pad": "Space Launch Complex 4E",
    "location": "Vandenberg SFB, CA, USA"
+  },
+  {
+   "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
+   "mission": "BlueBird 14-16 (Block 2 #9-11)",
+   "net": "2026-12-31T00:00:00Z",
+   "precision": "Q4",
+   "status": "TBD",
+   "status_name": "To Be Determined",
+   "pad": "Space Launch Complex 40",
+   "location": "Cape Canaveral SFS, FL, USA"
   }
  ]
 }
