@@ -1,14 +1,72 @@
 {
- "generated_at": "2026-11-26T14:21:25Z",
- "count": 70,
- "errors": [],
+ "generated_at": "2026-11-26T23:14:50Z",
+ "count": 67,
+ "errors": [
+  "NASASpaceflight: HTTP Error 403: Forbidden"
+ ],
  "stories": [
+  {
+   "title": "SpaceX to Build Rooftop Microcell Stations for Starlink Mobile",
+   "url": "https://www.notateslaapp.com/news/5096/spacex-to-build-rooftop-microcell-stations-for-starlink-mobile",
+   "source": "Not a Tesla App",
+   "published": "2026-11-26T22:30:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla’s Cybercab Fleet Tops 1,000 Vehicles in Texas",
+   "url": "https://www.notateslaapp.com/news/5095/teslas-cybercab-fleet-tops-1000-vehicles-in-texas",
+   "source": "Not a Tesla App",
+   "published": "2026-11-26T22:10:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Owner Adds Massaging Seats With Custom UI",
+   "url": "https://www.notateslaapp.com/news/5094/tesla-owner-adds-massaging-seats-with-custom-ui",
+   "source": "Not a Tesla App",
+   "published": "2026-11-26T21:40:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla FSD V15 Rolls Out to Model Ys Without Front Bumper Cameras",
+   "url": "https://www.notateslaapp.com/news/5092/tesla-fsd-v15-rolls-out-to-model-ys-without-front-bumper-cameras",
+   "source": "Not a Tesla App",
+   "published": "2026-11-26T19:47:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush",
+   "url": "https://electrek.co/2026/11/26/tesla-deploys-mobile-superchargers-thanksgiving-travel/",
+   "source": "Electrek",
+   "published": "2026-11-26T17:33:21Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla's 2026 Holiday Update: What to Expect This Christmas",
+   "url": "https://www.notateslaapp.com/news/5072/teslas-2026-holiday-update-what-to-expect-this-christmas",
+   "source": "Not a Tesla App",
+   "published": "2026-11-26T16:36:00Z",
+   "category": "tesla"
+  },
   {
    "title": "SpaceX Will Match Musk's Gift, Giving Every U.S. Kid Two Shares",
    "url": "https://www.notateslaapp.com/news/5088/spacex-will-match-musks-gift-giving-every-us-kid-two-shares",
    "source": "Not a Tesla App",
    "published": "2026-11-26T13:30:00Z",
    "category": "spacex"
+  },
+  {
+   "title": "A Used Cybertruck Is Selling A Month Faster Than A Ford F-150",
+   "url": "https://insideevs.com/news/816892/tesla-fastest-selling-used-october/",
+   "source": "InsideEVs",
+   "published": "2026-11-26T13:03:53Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla Update 2026.44.3.1 Release Notes",
+   "url": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes",
+   "source": "Not a Tesla App",
+   "published": "2026-11-26T10:06:00Z",
+   "category": "tesla"
   },
   {
    "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
@@ -116,13 +174,6 @@
    "category": "spacex"
   },
   {
-   "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-   "source": "NASASpaceflight",
-   "published": "2026-11-25T01:06:02Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla FSD V15 Improvements Coming: Faster Reality View, Purple Tint Fix, Santa Mode & More",
    "url": "https://www.notateslaapp.com/news/5078/improvements-coming-to-fsd-v15-lower-latency-for-reality-view-santa-mode-more",
    "source": "Not a Tesla App",
@@ -191,13 +242,6 @@
    "source": "Teslarati",
    "published": "2026-11-24T14:05:09Z",
    "category": "tesla"
-  },
-  {
-   "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-   "url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
-   "source": "NASASpaceflight",
-   "published": "2026-11-23T23:28:00Z",
-   "category": "spacex"
   },
   {
    "title": "Tesla FSD V15’s Reality View Breaks Santa Mode and Halloween Mode",
@@ -282,13 +326,6 @@
    "source": "Teslarati",
    "published": "2026-11-22T19:43:58Z",
    "category": "tesla"
-  },
-  {
-   "title": "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video)",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
-   "source": "Space.com",
-   "published": "2026-11-22T16:05:33Z",
-   "category": "spacex"
   },
   {
    "title": "Tesla FSD v15 Rolls Out With Incredible New Reality View and 25x Better Safety [VIDEO]",
@@ -382,13 +419,6 @@
    "category": "tesla"
   },
   {
-   "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
-   "source": "Space.com",
-   "published": "2026-11-21T13:00:00Z",
-   "category": "spacex"
-  },
-  {
    "title": "Tesla Expands Dallas Robotaxi Area by a Whole Square Mile",
    "url": "https://www.notateslaapp.com/news/5055/tesla-expands-dallas-robotaxi-area-by-a-whole-square-mile",
    "source": "Not a Tesla App",
@@ -408,13 +438,6 @@
    "source": "Not a Tesla App",
    "published": "2026-11-20T20:08:00Z",
    "category": "tesla"
-  },
-  {
-   "title": "Following Ship 42’s catch, SpaceX looks to the future",
-   "url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-   "source": "NASASpaceflight",
-   "published": "2026-11-20T19:49:06Z",
-   "category": "spacex"
   },
   {
    "title": "Tesla FSD Jailbroken in China, Fix Already on the Way",
@@ -450,48 +473,6 @@
    "source": "Spaceflight Now",
    "published": "2026-11-19T23:51:47Z",
    "category": "spacex"
-  },
-  {
-   "title": "Tesla Plans Model Y L With No Steering Wheel or Pedals",
-   "url": "https://www.notateslaapp.com/news/5046/tesla-plans-model-y-l-with-no-steering-wheel-or-pedals",
-   "source": "Not a Tesla App",
-   "published": "2026-11-19T22:44:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Cybercab Specs Revealed: Warranty, Range, Charging & More",
-   "url": "https://www.notateslaapp.com/news/5045/cybercab-specs-revealed-including-warranty-range-and-charging",
-   "source": "Not a Tesla App",
-   "published": "2026-11-19T21:49:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Launches Cybercab Rides in Dallas With New V1.5 Design",
-   "url": "https://www.notateslaapp.com/news/5044/tesla-launches-cybercab-rides-in-dallas-with-new-v15-design",
-   "source": "Not a Tesla App",
-   "published": "2026-11-19T20:18:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla May Stop Producing Model Y In Favor of Model Y L: Musk",
-   "url": "https://www.notateslaapp.com/news/5043/musk-says-tesla-should-move-all-model-y-production-to-y-l",
-   "source": "Not a Tesla App",
-   "published": "2026-11-19T18:35:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla's Driverless Cybercab Is Now Available In Dallas",
-   "url": "https://insideevs.com/news/816139/tesla-cybercab-robotaxi-expands-to-dallas/",
-   "source": "InsideEVs",
-   "published": "2026-11-19T18:07:15Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Updates App to 4.63: Thanksgiving Badge, Supercharger Voting and Google Maps Integration, Precondition Battery and More",
-   "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.63.0/release-notes",
-   "source": "Not a Tesla App",
-   "published": "2026-11-19T17:07:08Z",
-   "category": "tesla"
   }
  ]
 }
