@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-11-25T22:26:14Z",
+ "generated_at": "2026-11-26T04:19:56Z",
  "count": 72,
  "errors": [],
  "stories": [
+  {
+   "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+   "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+   "source": "CNBC",
+   "published": "2026-11-26T02:35:39Z",
+   "category": "spacex"
+  },
+  {
+   "title": "FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites",
+   "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/",
+   "source": "Spaceflight Now",
+   "published": "2026-11-26T01:27:58Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Adds 1,000+ Superchargers & More Ahead of Thanksgiving Rush",
+   "url": "https://www.notateslaapp.com/news/5086/tesla-adds-1000-superchargers-more-ahead-of-thanksgiving-rush",
+   "source": "Not a Tesla App",
+   "published": "2026-11-25T23:51:00Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla quietly sets up a company at German machine maker EMAG’s HQ",
    "url": "https://electrek.co/2026/11/25/tesla-emag-germany-machining-company-optimus/",
@@ -23,13 +44,6 @@
    "source": "Not a Tesla App",
    "published": "2026-11-25T19:59:00Z",
    "category": "tesla"
-  },
-  {
-   "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-   "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-   "source": "CNBC",
-   "published": "2026-11-25T19:52:47Z",
-   "category": "spacex"
   },
   {
    "title": "SpaceX Starship debris becomes art in Ashley Zelinskie's 'The Weight of Space' (video, photos)",
@@ -71,13 +85,6 @@
    "url": "https://www.teslarati.com/tesla-removed-most-annoying-part-full-self-driving/",
    "source": "Teslarati",
    "published": "2026-11-25T15:06:13Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Winter Weather Hits EV Range Hard. One Automaker Handles It Better Than Tesla",
-   "url": "https://insideevs.com/news/816753/ev-winter-range-loss-2026-ranking/",
-   "source": "InsideEVs",
-   "published": "2026-11-25T13:09:37Z",
    "category": "tesla"
   },
   {
@@ -498,13 +505,6 @@
    "url": "https://insideevs.com/news/816066/tesla-model-y-tuv-inspection/",
    "source": "InsideEVs",
    "published": "2026-11-19T11:03:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "A Tesla Model Y Without A Steering Wheel Is Coming: Musk",
-   "url": "https://insideevs.com/news/815960/tesla-model-y-steering-wheel-remove/",
-   "source": "InsideEVs",
-   "published": "2026-11-19T02:08:25Z",
    "category": "tesla"
   }
  ]
