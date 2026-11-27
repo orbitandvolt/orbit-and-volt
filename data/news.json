@@ -1,10 +1,15 @@
 {
- "generated_at": "2026-11-26T23:14:50Z",
- "count": 67,
- "errors": [
-  "NASASpaceflight: HTTP Error 403: Forbidden"
- ],
+ "generated_at": "2026-11-27T05:18:25Z",
+ "count": 70,
+ "errors": [],
  "stories": [
+  {
+   "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
+   "url": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-26T22:40:55Z",
+   "category": "spacex"
+  },
   {
    "title": "SpaceX to Build Rooftop Microcell Stations for Starlink Mobile",
    "url": "https://www.notateslaapp.com/news/5096/spacex-to-build-rooftop-microcell-stations-for-starlink-mobile",
@@ -174,6 +179,13 @@
    "category": "spacex"
   },
   {
+   "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
+   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-25T01:06:02Z",
+   "category": "spacex"
+  },
+  {
    "title": "Tesla FSD V15 Improvements Coming: Faster Reality View, Purple Tint Fix, Santa Mode & More",
    "url": "https://www.notateslaapp.com/news/5078/improvements-coming-to-fsd-v15-lower-latency-for-reality-view-santa-mode-more",
    "source": "Not a Tesla App",
@@ -242,6 +254,13 @@
    "source": "Teslarati",
    "published": "2026-11-24T14:05:09Z",
    "category": "tesla"
+  },
+  {
+   "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+   "url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-23T23:28:00Z",
+   "category": "spacex"
   },
   {
    "title": "Tesla FSD V15’s Reality View Breaks Santa Mode and Halloween Mode",
@@ -440,6 +459,13 @@
    "category": "tesla"
   },
   {
+   "title": "Following Ship 42’s catch, SpaceX looks to the future",
+   "url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+   "source": "NASASpaceflight",
+   "published": "2026-11-20T19:49:06Z",
+   "category": "spacex"
+  },
+  {
    "title": "Tesla FSD Jailbroken in China, Fix Already on the Way",
    "url": "https://www.notateslaapp.com/news/5052/tesla-fsd-jailbroken-in-china-fix-already-on-the-way",
    "source": "Not a Tesla App",
@@ -466,13 +492,6 @@
    "source": "Not a Tesla App",
    "published": "2026-11-20T14:13:00Z",
    "category": "tesla"
-  },
-  {
-   "title": "SpaceX launches satellites for the U.S. Space Force’s data network constellation",
-   "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
-   "source": "Spaceflight Now",
-   "published": "2026-11-19T23:51:47Z",
-   "category": "spacex"
   }
  ]
 }
