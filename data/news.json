@@ -1,8 +1,50 @@
 {
- "generated_at": "2026-11-27T15:31:42Z",
- "count": 72,
+ "generated_at": "2026-11-27T23:42:35Z",
+ "count": 71,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla Files Plans for New Robotaxi Charging Station in Texas",
+   "url": "https://www.notateslaapp.com/news/5101/tesla-files-plans-for-new-robotaxi-charging-station-in-texas",
+   "source": "Not a Tesla App",
+   "published": "2026-11-27T20:46:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Musk Promises Every U.S. Kid a SpaceX Share Every Year",
+   "url": "https://www.notateslaapp.com/news/5100/musk-promises-every-us-kid-a-spacex-share-every-year",
+   "source": "Not a Tesla App",
+   "published": "2026-11-27T20:00:00Z",
+   "category": "spacex"
+  },
+  {
+   "title": "Tesla Moves to Buy German Robotics Manufacturer",
+   "url": "https://www.notateslaapp.com/news/5099/tesla-moves-to-buy-german-robotics-manufacturer",
+   "source": "Not a Tesla App",
+   "published": "2026-11-27T19:33:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "EU Shares Agenda for Tesla FSD Meeting With Possible Vote",
+   "url": "https://www.notateslaapp.com/news/5098/eu-shares-agenda-for-tesla-fsd-meeting-with-possible-vote",
+   "source": "Not a Tesla App",
+   "published": "2026-11-27T18:12:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Used Tesla Cybertruck prices jump after Musk kills it, one asks $150K",
+   "url": "https://electrek.co/2026/11/27/used-cybertruck-prices-jump-after-tesla-kills-it/",
+   "source": "Electrek",
+   "published": "2026-11-27T17:06:53Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Tesla aims to bolster Optimus with newest company acquisition",
+   "url": "https://www.teslarati.com/tesla-bolster-optimus-company-acquisition-emag-germany/",
+   "source": "Teslarati",
+   "published": "2026-11-27T16:37:01Z",
+   "category": "tesla"
+  },
   {
    "title": "Tesla is rolling out its biggest battery upgrade through a software update",
    "url": "https://www.teslarati.com/tesla-rolling-out-biggest-battery-upgrade-software-update/",
@@ -403,13 +445,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla Full Self-Driving v15 rollout begins: full release notes and improvements",
-   "url": "https://www.teslarati.com/tesla-full-self-driving-v15-rollout-begins-full-release-notes-improvements/",
-   "source": "Teslarati",
-   "published": "2026-11-21T20:02:44Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes",
    "url": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/",
    "source": "Electrek",
@@ -463,48 +498,6 @@
    "url": "https://www.notateslaapp.com/news/5057/tesla-fsd-v15-coming-next-month-with-holiday-update-musk",
    "source": "Not a Tesla App",
    "published": "2026-11-21T13:16:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Expands Dallas Robotaxi Area by a Whole Square Mile",
-   "url": "https://www.notateslaapp.com/news/5055/tesla-expands-dallas-robotaxi-area-by-a-whole-square-mile",
-   "source": "Not a Tesla App",
-   "published": "2026-11-20T22:09:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Update 2026.44 Includes FSD v14.3 and v14.3 Lite in North America",
-   "url": "https://www.notateslaapp.com/news/5054/tesla-update-202644-brings-fsd-v143-and-v143-lite-to-every-owner",
-   "source": "Not a Tesla App",
-   "published": "2026-11-20T21:10:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Adds Grok Button to Navigation Search Bar",
-   "url": "https://www.notateslaapp.com/news/5053/tesla-adds-grok-button-to-navigation-search-bar",
-   "source": "Not a Tesla App",
-   "published": "2026-11-20T20:08:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Following Ship 42’s catch, SpaceX looks to the future",
-   "url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-   "source": "NASASpaceflight",
-   "published": "2026-11-20T19:49:06Z",
-   "category": "spacex"
-  },
-  {
-   "title": "Tesla FSD Jailbroken in China, Fix Already on the Way",
-   "url": "https://www.notateslaapp.com/news/5052/tesla-fsd-jailbroken-in-china-fix-already-on-the-way",
-   "source": "Not a Tesla App",
-   "published": "2026-11-20T18:50:00Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla FSD approved in Italy, the first big EU market to say yes",
-   "url": "https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/",
-   "source": "Electrek",
-   "published": "2026-11-20T15:50:46Z",
    "category": "tesla"
   }
  ]
