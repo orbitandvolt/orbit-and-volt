@@ -1,8 +1,43 @@
 {
- "generated_at": "2026-11-27T05:18:25Z",
- "count": 70,
+ "generated_at": "2026-11-27T15:31:42Z",
+ "count": 72,
  "errors": [],
  "stories": [
+  {
+   "title": "Tesla is rolling out its biggest battery upgrade through a software update",
+   "url": "https://www.teslarati.com/tesla-rolling-out-biggest-battery-upgrade-software-update/",
+   "source": "Teslarati",
+   "published": "2026-11-27T15:18:29Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Closer Look at Tesla's New Grouped Charger Pins in Update 2026.44 [VIDEO]",
+   "url": "https://www.notateslaapp.com/news/5097/closer-look-at-teslas-new-grouped-charger-pins-in-update-202644",
+   "source": "Not a Tesla App",
+   "published": "2026-11-27T15:00:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus",
+   "url": "https://electrek.co/2026/11/27/tesla-ai5-optimus-real-reason-tsmc-3nm/",
+   "source": "Electrek",
+   "published": "2026-11-27T14:48:15Z",
+   "category": "tesla"
+  },
+  {
+   "title": "First Look at Tesla's 'Manual Battery Preconditioning' in Update 2026.44.3.1 [PHOTOS]",
+   "url": "https://www.notateslaapp.com/news/5089/first-look-at-teslas-manual-battery-preconditioning-in-update-20264431-photos",
+   "source": "Not a Tesla App",
+   "published": "2026-11-27T14:45:00Z",
+   "category": "tesla"
+  },
+  {
+   "title": "Elon Musk will give every American kid a SpaceX share every year",
+   "url": "https://www.teslarati.com/elon-musk-gift-spacex-share-kid/",
+   "source": "Teslarati",
+   "published": "2026-11-27T08:58:23Z",
+   "category": "spacex"
+  },
   {
    "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
    "url": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/",
@@ -424,13 +459,6 @@
    "category": "tesla"
   },
   {
-   "title": "Tesla Full Self-Driving v15 gets release date from Elon Musk",
-   "url": "https://www.teslarati.com/tesla-full-self-driving-v15-gets-release-date-elon-musk/",
-   "source": "Teslarati",
-   "published": "2026-11-21T13:47:01Z",
-   "category": "tesla"
-  },
-  {
    "title": "Tesla FSD V15 Arriving Next Month: Home Garage Parking, Render Reality in Mind-Bending Way",
    "url": "https://www.notateslaapp.com/news/5057/tesla-fsd-v15-coming-next-month-with-holiday-update-musk",
    "source": "Not a Tesla App",
@@ -477,20 +505,6 @@
    "url": "https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/",
    "source": "Electrek",
    "published": "2026-11-20T15:50:46Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Assisted Driving (TAD) lands approval in Italy, its 12th EU country",
-   "url": "https://www.teslarati.com/tesla-assisted-driving-tad-lands-approval-italy-12th-eu-country/",
-   "source": "Teslarati",
-   "published": "2026-11-20T15:14:17Z",
-   "category": "tesla"
-  },
-  {
-   "title": "Tesla Assisted Driving Approved in Italy, 12th EU Country",
-   "url": "https://www.notateslaapp.com/news/5047/tesla-assisted-driving-approved-in-italy-12th-eu-country",
-   "source": "Not a Tesla App",
-   "published": "2026-11-20T14:13:00Z",
    "category": "tesla"
   }
  ]
